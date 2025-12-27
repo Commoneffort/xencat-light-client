@@ -1,0 +1,18 @@
+{
+  "name": "@xencat/attestation-client",
+  "version": "1.0.0",
+  "description": "Client library for collecting X1 validator attestations",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.30.1",
+    "@solana/web3.js": "^1.95.8"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0"
+  }
+}

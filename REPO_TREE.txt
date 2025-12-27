@@ -1,0 +1,230 @@
+.
+├── .anchor
+│   └── program-logs
+│       ├── 8kmoPKtLAjjzQRN5i4emUsmWeu3LM5yPWFrsqZVyekhk.xencat_mint_x1.log
+│       └── BXBZtvFfCtCapQgqFTxGQ9hgJTQZUoHFzBXD2V3ys5C5.solana_light_client_x1.log
+├── .env
+├── .env.example
+├── .gitignore
+├── .prettierrc
+├── Anchor.toml
+├── CLAUDE.md
+├── Cargo.lock
+├── Cargo.toml
+├── NO_ADMIN_DESIGN.md
+├── PROJECT_STATUS.md
+├── RED_TEAM_TESTS.md
+├── REPO_TREE.txt
+├── TESTS.md
+├── build.log
+├── check-mint.js
+├── check-state.js
+├── circuits
+│   ├── circom
+│   ├── circuits
+│   ├── package-lock.json
+│   └── package.json
+├── genesis-validators.json
+├── mint-program-init.json
+├── package-lock.json
+├── package.json
+├── programs
+│   ├── solana-light-client-x1
+│   │   ├── Cargo.toml
+│   │   ├── Xargo.toml
+│   │   └── src
+│   │       ├── ed25519_utils.rs
+│   │       ├── errors.rs
+│   │       ├── instructions
+│   │       │   ├── initialize.rs
+│   │       │   ├── initialize_validator_set.rs
+│   │       │   ├── mod.rs
+│   │       │   ├── rotate_validator_config.rs
+│   │       │   ├── submit_burn_attestation.rs
+│   │       │   ├── submit_proof.rs
+│   │       │   ├── update_validator_set.rs
+│   │       │   ├── update_validators.rs
+│   │       │   └── verify_proof.rs
+│   │       ├── lib.rs
+│   │       ├── state.rs
+│   │       ├── verification.rs
+│   │       └── verification_new.rs
+│   └── xencat-mint-x1
+│       ├── Cargo.toml
+│       ├── Xargo.toml
+│       └── src
+│           ├── errors.rs
+│           ├── instructions
+│           │   ├── initialize.rs
+│           │   ├── mint_from_burn.rs
+│           │   └── mod.rs
+│           ├── lib.rs
+│           └── state.rs
+├── research
+│   └── solana_vote_signatures.md
+├── scripts
+│   ├── burn-and-bridge-e2e.ts
+│   ├── burn-only.ts
+│   ├── byzantine-attack-simulation.ts
+│   ├── check-existing-burns.ts
+│   ├── check-validator-config.ts
+│   ├── check-validators.ts
+│   ├── check-wallet-balance.ts
+│   ├── close-and-reinitialize.ts
+│   ├── complete-e2e-nonce-41.ts
+│   ├── complete-nonce-42.ts
+│   ├── demo-ed25519-transaction.ts
+│   ├── deploy.sh
+│   ├── fetch-top-validators.ts
+│   ├── find-existing-burns.ts
+│   ├── generate-proof-and-mint.ts
+│   ├── generate-proof-mock.ts
+│   ├── init-light-client-7.ts
+│   ├── init-light-client.ts
+│   ├── init-mint-program.ts
+│   ├── init-mint-simple.ts
+│   ├── init-validator-config.ts
+│   ├── initialize-validator-set-v2.ts
+│   ├── initialize-validator-set.ts
+│   ├── initialize.sh
+│   ├── manual-encode-proof.ts
+│   ├── mint-with-raw-ix.ts
+│   ├── mint-with-versioned-tx.ts
+│   ├── parse-validators.ts
+│   ├── pre-deployment-check.sh
+│   ├── security-audit-trusted-model.ts
+│   ├── security-audit.ts
+│   ├── test-account-safety-2.ts
+│   ├── test-account-safety.ts
+│   ├── test-bridge-v2.ts
+│   ├── test-bridge-with-existing-burn.ts
+│   ├── test-byzantine-analysis.md
+│   ├── test-byzantine-conflicts.ts
+│   ├── test-byzantine.ts
+│   ├── test-cpi-security.ts
+│   ├── test-data-integrity.ts
+│   ├── test-determinism.ts
+│   ├── test-instruction-replay.ts
+│   ├── test-invariants.ts
+│   ├── test-mint-replay.ts
+│   ├── test-production-burn.ts
+│   ├── test-redteam-cross-program.ts
+│   ├── test-redteam-duplicates.ts
+│   ├── test-redteam-finality.ts
+│   ├── test-redteam-pda.ts
+│   ├── test-signature-attacks.ts
+│   ├── test-threshold-governance.ts
+│   ├── test-two-tx-e2e.ts
+│   ├── test-validator-integrity.js
+│   ├── test-validator-integrity.ts
+│   ├── test-version-mismatch.ts
+│   ├── test-x1-validator-attestation.ts
+│   └── validator-downtime-test.ts
+├── sdk
+│   ├── attestation-client
+│   │   ├── package.json
+│   │   ├── src
+│   │   │   └── index.ts
+│   │   └── tsconfig.json
+│   └── proof-generator
+│       ├── CRITICAL_FIX_SUMMARY.md
+│       ├── README.md
+│       ├── dist
+│       │   ├── generator-simple.d.ts
+│       │   ├── generator-simple.js
+│       │   ├── generator-simple.old.d.ts
+│       │   ├── generator-simple.old.js
+│       │   ├── generator.d.ts
+│       │   ├── generator.js
+│       │   ├── generator.old.d.ts
+│       │   ├── generator.old.js
+│       │   ├── index.d.ts
+│       │   ├── index.js
+│       │   ├── merkle.d.ts
+│       │   ├── merkle.js
+│       │   ├── merkle.old.d.ts
+│       │   ├── merkle.old.js
+│       │   ├── poster.d.ts
+│       │   ├── poster.js
+│       │   ├── solana.d.ts
+│       │   ├── solana.js
+│       │   ├── types.d.ts
+│       │   ├── types.js
+│       │   ├── vote-state.d.ts
+│       │   └── vote-state.js
+│       ├── e2e-final-complete.log
+│       ├── package-lock.json
+│       ├── package.json
+│       ├── src
+│       │   ├── ed25519-instructions.ts
+│       │   ├── generator.ts
+│       │   ├── index.ts
+│       │   ├── merkle.ts
+│       │   ├── poster.ts
+│       │   ├── solana.ts
+│       │   ├── types.ts
+│       │   └── vote-state.ts
+│       └── tsconfig.json
+├── solana-validators.json
+├── sp1-consensus
+│   ├── Cargo.lock
+│   ├── Cargo.toml
+│   ├── LICENSE-MIT
+│   ├── README.md
+│   ├── contracts
+│   │   ├── .gitignore
+│   │   ├── README.md
+│   │   ├── foundry.toml
+│   │   ├── lib
+│   │   │   ├── forge-std
+│   │   │   └── sp1-contracts
+│   │   ├── remappings.txt
+│   │   ├── src
+│   │   │   ├── Fibonacci.sol
+│   │   │   └── fixtures
+│   │   │       ├── groth16-fixture.json
+│   │   │       └── plonk-fixture.json
+│   │   └── test
+│   │       └── Fibonacci.t.sol
+│   ├── lib
+│   │   ├── Cargo.toml
+│   │   └── src
+│   │       └── lib.rs
+│   ├── program
+│   │   ├── Cargo.toml
+│   │   └── src
+│   │       └── main.rs
+│   ├── rust-toolchain
+│   └── script
+│       ├── Cargo.toml
+│       ├── build.rs
+│       └── src
+│           └── bin
+│               ├── evm.rs
+│               ├── main.rs
+│               └── vkey.rs
+├── tests
+│   ├── e2e-ed25519-secure.test.ts
+│   ├── e2e-mainnet-to-testnet.test.ts
+│   ├── e2e-mint-only.test.ts
+│   ├── e2e-raw.test.ts
+│   ├── e2e-simple.test.ts
+│   ├── integration.ts
+│   ├── light-client.ts
+│   ├── mint.ts
+│   └── security-tests.ts
+├── top-7-validators.json
+├── tsconfig.json
+├── validator-attestation-service
+│   ├── .env
+│   ├── .env.example
+│   ├── README.md
+│   ├── index.ts
+│   ├── logs
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── tsconfig.json
+│   └── x1-attestation.config.js
+└── verify-mint-state.js
+
+37 directories, 190 files

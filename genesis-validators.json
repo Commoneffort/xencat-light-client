@@ -1,0 +1,4152 @@
+{
+  "epoch": 888,
+  "validators": [
+    {
+      "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "voteAccount": "he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk",
+      "stake": 14535542859265508
+    },
+    {
+      "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "voteAccount": "CcaHc2L43ZWjwCHART3oZoJvHLAe9hzT2DJNUpBzoTN1",
+      "stake": 12261031920005196
+    },
+    {
+      "identity": "JupmVLmA8RoyTUbTMMuTtoPWHEiNQobxgTeGTrPNkzT",
+      "voteAccount": "CatzoSMUkTRidT5DwBxAC2pEtnwMBTpkCepHkFgZDiqb",
+      "stake": 12232630239760608
+    },
+    {
+      "identity": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "voteAccount": "3N7s9zXMZ4QqvHQR15t5GNHyqc89KduzMP7423eWiD5g",
+      "stake": 10533986913771632
+    },
+    {
+      "identity": "q9XWcZ7T1wP4bW9SB4XgNNwjnFEJ982nE8aVbbNuwot",
+      "voteAccount": "26pV97Ce83ZQ6Kz9XT4td8tdoUFPTng8Fb8gPyc53dJx",
+      "stake": 8244014158526761
+    },
+    {
+      "identity": "DtdSSG8ZJRZVv5Jx7K1MeWp7Zxcu19GD5wQRGRpQ9uMF",
+      "voteAccount": "CvSb7wdQAFpHuSpTYTJnX5SYH4hCfQ9VuGnqrKaKwycB",
+      "stake": 8091747970558980
+    },
+    {
+      "identity": "5pPRHniefFjkiaArbGX3Y8NUysJmQ9tMZg3FrFGwHzSm",
+      "voteAccount": "DdCNGDpP7qMgoAy6paFzhhak2EeyCZcgjH7ak5u5v28m",
+      "stake": 7940983791343706
+    },
+    {
+      "identity": "JD549HsbJHeEKKUrKgg4Fj2iyv2RGjsV7NTZjZUrHybB",
+      "voteAccount": "3JD3jMmnR6g88qff2WZ3cMHJRjJMUk9yVZtmYTYeFrXf",
+      "stake": 7249316579629064
+    },
+    {
+      "identity": "Awes4Tr6TX8JDzEhCZY2QVNimT6iD1zWHzf1vNyGvpLM",
+      "voteAccount": "DumiCKHVqoCQKD8roLApzR5Fit8qGV5fVQsJV9sTZk4a",
+      "stake": 6732254756306379
+    },
+    {
+      "identity": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "voteAccount": "HZKopZYvv8v6un2H6KUNVQCnK5zM9emKKezvqhTBSpEc",
+      "stake": 6449014468908160
+    },
+    {
+      "identity": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
+      "voteAccount": "9QU2QSxhb24FUX3Tu2FpczXjpK3VYrvRudywSZaM29mF",
+      "stake": 6438974976628029
+    },
+    {
+      "identity": "CAo1dCGYrB6NhHh5xb1cGjUiu86iyCfMTENxgHumSve4",
+      "voteAccount": "51JBzSTU5rAM8gLAVQKgp4WoZerQcSqWC7BitBzgUNAm",
+      "stake": 5395294942133217
+    },
+    {
+      "identity": "BkoS26vBuaXnSowACdChi4WKid8UwmuPNhEJWa8KsLHd",
+      "voteAccount": "CKYFpKErmUn75nS3uNcNCPXUxWSpuBqbwMM3QnwPEFHX",
+      "stake": 4785212066724385
+    },
+    {
+      "identity": "9rkJMARqK6VBkcxGfKBAwnA44gPAfGxPbPsfsggFNDSQ",
+      "voteAccount": "HimWQUK61d9wxhw7EYu9jUje7xQiDs4jKexaTSvuCmXE",
+      "stake": 4692978803398389
+    },
+    {
+      "identity": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+      "voteAccount": "8GbwASqdpw4dVcwbWUxbHXMrjyQx2aKkoBR5H1GJF8iD",
+      "stake": 4414666569486666
+    },
+    {
+      "identity": "9UM8wQ8F5oMiRcP5YdqD6Lr4krpBWCD8LtgQYoisJd9i",
+      "voteAccount": "9jToNMWCLW1GeoLGPZNvEfuXE4AUwiRsrC1HMGmh3PTu",
+      "stake": 3996695357681490
+    },
+    {
+      "identity": "ChorusmmK7i1AxXeiTtQgQZhQNiXYU84ULeaYF1EH15n",
+      "voteAccount": "Chorus6Kis8tFHA7AowrPMcRJk3LbApHTYpgSNXzY5KE",
+      "stake": 3898722579145759
+    },
+    {
+      "identity": "EkvdKhULbMFqjKBKotAzGi3kwMvMpYNDKJXXQQmi6C1f",
+      "voteAccount": "3ZYJxzCeweSoh2Jj7oCgencFs9y27iKmXJeqYapje1cj",
+      "stake": 3816874362282509
+    },
+    {
+      "identity": "J6etcxDdYjPHrtyvDXrbCkx3q9W1UjMj1vy1jBFPJEbK",
+      "voteAccount": "8Pep3GmYiijRALqrMKpez92cxvF4YPTzoZg83uXh14pW",
+      "stake": 3790092679382064
+    },
+    {
+      "identity": "BtsmiEEvnSuUnKxqXj2PZRYpPJAc7C34mGz8gtJ1DAaH",
+      "voteAccount": "G9x1mqewTeVnXLmv3FamYD5tq1AdS395RHH3MLQPj6TY",
+      "stake": 3764342438622919
+    },
+    {
+      "identity": "5Cchr1XGEg7dbBXByV5NY2ad8jfxAM7HA3x8D56rq9Ux",
+      "voteAccount": "GHViLgbrJdZDPb6sphRbeuPNM9cmjsFuGWzrTF1sKF5n",
+      "stake": 3738482984340480
+    },
+    {
+      "identity": "FBKFWadXZJahGtFitAsBvbqh5968gLY7dMBBJUoUjeNi",
+      "voteAccount": "AZoCYB4VgoM9DR9f1ZFcBn8xPSbtbqoxZnKJR7tkvEoX",
+      "stake": 3649255224706138
+    },
+    {
+      "identity": "5EhGYUyQNrxgUbuYF4vbL2SZDT6RMfhq3yjeyevvULeC",
+      "voteAccount": "iZADA4YKVRJZJaDUV3j79DzyK4VJkK3DGTfvvqvbC1K",
+      "stake": 3598006063660020
+    },
+    {
+      "identity": "GoeW4aFK4dGoekJySgUynWDxBZiQJqm8GDAF4H53tDK9",
+      "voteAccount": "Ak5BJzQe2R8qFuyYmaAFPjXuD7XPux3ZNTv52D7rfiqR",
+      "stake": 3561588624063805
+    },
+    {
+      "identity": "Hz5aLvpKScNWoe9YZWxBLrQA3qzHJivBGtfciMekk8m5",
+      "voteAccount": "H74qox1GASBWd94FWMyy6GVAbRVLf9SAMgbJ1tzSUAst",
+      "stake": 3459238384923158
+    },
+    {
+      "identity": "9W3QTgBhkU4Bwg6cwnDJo6eGZ9BtZafSdu1Lo9JmWws7",
+      "voteAccount": "GqcuMuWq4gKeCuCrD8iAjXTozCET2EP6qJXmZDFsSTWK",
+      "stake": 3420383494551294
+    },
+    {
+      "identity": "5ZqveVffQPiUbkjBg4KD9kib1MKHLqiFno4ke9jSq9qk",
+      "voteAccount": "EcEowA4GKDsdVBF9PNAZa6c9M4WgYG8y4GnpZSUaqioS",
+      "stake": 3339080303479814
+    },
+    {
+      "identity": "A1vqhA2fS6K7CvHsJKX1ACcHJFEmyRg4KuR5pctHANy4",
+      "voteAccount": "HkFuE9NJahP7uA8RooXtp64UQb7XNUMVisWsJTgx3far",
+      "stake": 3277079432855984
+    },
+    {
+      "identity": "shftkxnsXmqAkmLgz9Mn7bNB5Fr6mKgFc58kFHfVikj",
+      "voteAccount": "shft7Fry1js37Hm9wq4dfwcZSp2DyKszeWMvEpjYCQ1",
+      "stake": 3045909796469936
+    },
+    {
+      "identity": "6y7V8dL673XFzm9QyC5vvh3itWkp7wztahBd2yDqsyrK",
+      "voteAccount": "7xENfwKCajMB5aVTgmTB6h7d7Su91wTcnfMjoAQCMvKq",
+      "stake": 2916667655378480
+    },
+    {
+      "identity": "krakeNd6ednDPEXxHAmoBs1qKVM8kLg79PvWF2mhXV1",
+      "voteAccount": "KRAKEnMdmT4EfM8ykTFH6yLoCd5vNLcQvJwF66Y2dag",
+      "stake": 2870179835857153
+    },
+    {
+      "identity": "DWvDTSh3qfn88UoQTEKRV2JnLt5jtJAVoiCo3ivtMwXP",
+      "voteAccount": "FKsC411dik9ktS6xPADxs4Fk2SCENvAiuccQHLAPndvk",
+      "stake": 2868945581698507
+    },
+    {
+      "identity": "CW9C7HBwAMgqNdXkNgFg9Ujr3edR2Ab9ymEuQnVacd1A",
+      "voteAccount": "6D2jqw9hyVCpppZexquxa74Fn33rJzzBx38T58VucHx9",
+      "stake": 2825964927601522
+    },
+    {
+      "identity": "FNKgX9dYUhYQFRTM9bkeKoRpsyEtZGNMxbdQLDzfqB8a",
+      "voteAccount": "AaVsZUEnrHUZoXC2oVgTY3GF5GGhzCTBGrjpBtuUWy1H",
+      "stake": 2654989900264188
+    },
+    {
+      "identity": "GSTampk6BJRKSDkzhaMM49R7qRx98MTPYYWvKbp83XKc",
+      "voteAccount": "At2rZHk554qWrjcmdNkCQGp8i4hdKLf52EXMrDmng5ab",
+      "stake": 2502415688586068
+    },
+    {
+      "identity": "5ejbTALcBsKQ7Cj1iSuu2mY5jqbYHqh9gF5ERXLiYj1z",
+      "voteAccount": "72LbWsZFEyB7xrB9ggeoPUrSw2vzPEnsPJJHZo1svkM7",
+      "stake": 2502415680489477
+    },
+    {
+      "identity": "GQzMeEMwAR44ugoNCifTb5NdRKos1GduDUPeNh6AgV46",
+      "voteAccount": "oixpqSNX7CKWHw93ViA8u1CcLzZXDmacKJjV4AvxMZE",
+      "stake": 2502395552696824
+    },
+    {
+      "identity": "BSVckjdW2f8kcXPGcrPPtV9kUDBZ8w8PjrrGVnxgEdwq",
+      "voteAccount": "2uXzxR2EZVaHE3CuaDaUJ8C9Qr54LMfwkY5BtRPAzbPE",
+      "stake": 2502391138720913
+    },
+    {
+      "identity": "76rcGHdPvgs8G1XrzCXUTWtwgT59AFDvpB4VbTS2TBBJ",
+      "voteAccount": "8mHUDJjzPo2AwJp8SHKmG9rk9ftWTp7UysqYz36cMpJe",
+      "stake": 2502383454498740
+    },
+    {
+      "identity": "3SkE34PVeGck2ArEffFKjihrQgURsvnoTAhitsNXNzXd",
+      "voteAccount": "BhREyEsP3YAtQbTCrKcXgTNTeaq9gdjWji3Nz4d8Q1P2",
+      "stake": 2500000940382560
+    },
+    {
+      "identity": "HpcB5Qg8Y9E73dUkot5e8HkgAJbExsYeUzniY4bCuKac",
+      "voteAccount": "HDc84gs3CtqhebHycmoDpc5n2y3CFfd5GqYZkr2XiBMR",
+      "stake": 2500000937382560
+    },
+    {
+      "identity": "DUND26mEDfFeaPsVof3YvbXDRvpuQX7HMUJrLgEWzYw4",
+      "voteAccount": "JDMq8hxZnad2smKLGkFbfg8zVMZHKQcMugD4tMR9u2da",
+      "stake": 2499999992171680
+    },
+    {
+      "identity": "Aw5wEMXhbygFLR7jHtHpih8QvxVBGAMTqsQ2SjWPk1ex",
+      "voteAccount": "33hurzEz6aEnzfESL6pnNyR6DCgcKzssT1pwSzDCBTRQ",
+      "stake": 2499999939665440
+    },
+    {
+      "identity": "2GUnfxZavKoPfS9s3VSEjaWDzB3vNf5RojUhprCS1rSx",
+      "voteAccount": "BU3ZgGBXFJwNTrN6VUJ88k9SJ71SyWfBJTabYqRErm4F",
+      "stake": 2499999939665440
+    },
+    {
+      "identity": "FbYX2uN573G5WsgiPdHU6fS5PNUyjdXfGfpZNkYUuT4k",
+      "voteAccount": "E9W5kU2fnha9yp4RmFZgNNsRUvy6oKnB9ZyR9LC81WaE",
+      "stake": 2409417938382560
+    },
+    {
+      "identity": "22rU5yUmdVThrkoPieVNphqEyAtMQKmZxjwcD8v4bJDU",
+      "voteAccount": "HxYHGzR58gyf6c4JAX85eK8GVuaZU2zne4be82Lq9SBQ",
+      "stake": 2322628995123620
+    },
+    {
+      "identity": "HnfPZDrbJFooiP9vvgWrjx3baXVNAZCgisT58gyMCgML",
+      "voteAccount": "CxFH1pqJnEmyaE4wEwqdqMKpQMpkmdaMxhS7SzpHokA8",
+      "stake": 2182665921629860
+    },
+    {
+      "identity": "CMPSSdrTnRQBiBGTyFpdCc3VMNuLWYWaSkE8Zh5z6gbd",
+      "voteAccount": "EARNynHRWg6GfyJCmrrizcZxARB3HVzcaasvNa8kBS72",
+      "stake": 2088366339836500
+    },
+    {
+      "identity": "AEHqTB2RtJjegsR2ePjvoJSm6AA5pnYKWVbcsn6kqTBD",
+      "voteAccount": "FjkSLYmi6BJAJQn1iSLUGrPrBQjMaD4y1DVdnv3yaTsX",
+      "stake": 2083334280438320
+    },
+    {
+      "identity": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+      "voteAccount": "9Diao4uo6NpeMud7t5wvGnJ3WxDM7iaYxkGtJM36T4dy",
+      "stake": 2041630099172823
+    },
+    {
+      "identity": "DTSUkYHd2e9P2HLyZfbLarsbDdPhQUhZnWjRYuJZQRC8",
+      "voteAccount": "Haz7b47sZBpxh9SwggGndN3fAyNQ1S949BPdxWXS3ab6",
+      "stake": 2018627695105063
+    },
+    {
+      "identity": "AWcCdYG7Dy6GX45c6QMPbgGwgRZPKcBDT4bXGb3QrVRV",
+      "voteAccount": "G2W5QfMSBYXT5NNWEG8jSN9ZMqvVoaon3DMHMQ3BV7Bj",
+      "stake": 2013800997122051
+    },
+    {
+      "identity": "2m1A2WM1vte7RWz5xTTw4i1SiXmngVtXhqFERaUjoAAb",
+      "voteAccount": "8wTSPukwTAzNzEYyUdc8UiKkTg1hNtZ1xLum7o1Ne6wr",
+      "stake": 2005488249610397
+    },
+    {
+      "identity": "7cVfgArCheMR6Cs4t6vz5rfnqd56vZq4ndaBrY5xkxXy",
+      "voteAccount": "FQwewNXahV7MiZcLpY6p1xhUs2acVGQ3U5Xxc7FzV571",
+      "stake": 1972633839409212
+    },
+    {
+      "identity": "Fc6NNdS2j3EmrWbU6Uqt6wsKB5ef72NjaWfNxKYbULGD",
+      "voteAccount": "2tucttroqFNXsrYeMBQ8LfzKNfgwT2rHBzAF6RzbbHEp",
+      "stake": 1961724110968974
+    },
+    {
+      "identity": "BUv44cVtsdvU9z2BfFGk6s5JZZWrmVnq5qCaii5ARyyB",
+      "voteAccount": "6jzDwKeR21EFHwaRgZMefMxJ9D2vnQRqfYxkpUuJppPh",
+      "stake": 1937491689203744
+    },
+    {
+      "identity": "Ninja1spj6n9t5hVYgF3PdnYz2PLnkt7rvaw3firmjs",
+      "voteAccount": "BLADE1qNA1uNjRgER6DtUFf7FU3c1TWLLdpPeEcKatZ2",
+      "stake": 1923279020927398
+    },
+    {
+      "identity": "FzQqaDStQQHs52YKeCnDovwSqvyZBCgs2kJcmvoFZwaS",
+      "voteAccount": "BkSS8kGUNcQkTgEKMmBhHxGVLdzw43EAzDYpZqyyxFrT",
+      "stake": 1881608360990558
+    },
+    {
+      "identity": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+      "voteAccount": "8BMMDVM8Tb88a2Hx1VSZ1TKmH1rMHbVU7xVafMk9JrEW",
+      "stake": 1875000953466200
+    },
+    {
+      "identity": "CG4tRANBKrzUmpv93V5sgftjQznBdiJsc2yPCzZWWuS9",
+      "voteAccount": "8hPk5CbKDoM7dN9LssTdVkFhDykeq7A8CZurA5AQSFJH",
+      "stake": 1857349317393315
+    },
+    {
+      "identity": "3JotfSFPaod4KVK7nj7ULvcq5PjUBdZNVGracNkJNhrt",
+      "voteAccount": "74pfDmYto6aAqCzFH1mNJ8NxF7A4LQ4cXkipGwgjY39u",
+      "stake": 1837000183558720
+    },
+    {
+      "identity": "HbidP4hpQdwhkzrxder3x3VNPt6DQnE25gFG46napD2p",
+      "voteAccount": "HhYEE3dAShc3772wEiy73XDYnLjVxyBL8eAWKyRcF14y",
+      "stake": 1835664800728540
+    },
+    {
+      "identity": "DrifTrN923QaouP89UxkQzFGbumKPCnfkNYQRwmZxatz",
+      "voteAccount": "DriFTm3wM9ugxhCA1K3wVQMSdC4Dv4LNmyZMmZiuHRpp",
+      "stake": 1796020553835164
+    },
+    {
+      "identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+      "voteAccount": "4AUED4uj6nSTuANzaAUnGBPJQRmhpDYDwoWJNkoUUBBW",
+      "stake": 1713252390617356
+    },
+    {
+      "identity": "C1ocKDYMCm2ooWptMMnpd5VEB2Nx4UMJgRuYofysyzcA",
+      "voteAccount": "AS3nKBQfKs8fJ8ncyHrdvo4FDT6S8HMRhD75JjCcyr1t",
+      "stake": 1590084139196441
+    },
+    {
+      "identity": "FZ4MT1HYJHd9GK8D5mJ9f3r7irLaDL5NxBNLjGqrLqs9",
+      "voteAccount": "FuvD3qqrVjuh355sBs1u8bUS3aU8NgknymLskPvtAc6N",
+      "stake": 1569579957356435
+    },
+    {
+      "identity": "9n1eEtJJfj1535NYfx524QcCG5aHbf5DH7ejqBrFLBwG",
+      "voteAccount": "FbDPRNQZkCuDGsAbmRj1JbbXLzCiU6K8hSWRrL9RZqct",
+      "stake": 1524511440791646
+    },
+    {
+      "identity": "7y5VhV4fkz6r4zUmH2UiwPjLwXzPL1PcV28or5NWkWRL",
+      "voteAccount": "HxRrsnbc6K8CdEo3LCTrSUkFaDDxv9BdJsTDzBKnUVWH",
+      "stake": 1520081579747161
+    },
+    {
+      "identity": "6TkKqq15wXjqEjNg9zqTKADwuVATR9dW3rkNnsYme1ea",
+      "voteAccount": "GvZEwtCHZ7YtCkQCaLRVEXsyVvQkRDhJhQgB6akPme1e",
+      "stake": 1454563687309416
+    },
+    {
+      "identity": "G3a3iYZKNLbivothF3twqcaTCEvoPb9uJ2bFc9DNKkBQ",
+      "voteAccount": "Eqwa3Jo6aa4ugEbPZNcDQyBfVU7dSz3VR8CcDYRrPyh4",
+      "stake": 1446052859971180
+    },
+    {
+      "identity": "privaEdSEmnMPGPoQACUkcDGkFBbTArVvsEGd7C5wUM",
+      "voteAccount": "privSGy4XbFCjzEkdLXssV8xMWRWWiWbJeDzh1emUyL",
+      "stake": 1446050864560129
+    },
+    {
+      "identity": "GoLd56YQz8nJQnCsPFw8g5hcxrNaQBvCfAgbtwYFLbd",
+      "voteAccount": "CaBaLhyhzBx3oiEUxUPvwmAG4bSYCM4Emb1NiWJJS5mr",
+      "stake": 1363536624012305
+    },
+    {
+      "identity": "CoG8d9Fp2TFJRkAmrPMiPsGhQWHzdTTVoegEp9svRgmJ",
+      "voteAccount": "2NxEEbhqqj1Qptq5LXLbDTP5tLa9f7PqkU8zNgxbGU9P",
+      "stake": 1345840109657531
+    },
+    {
+      "identity": "6WgdYhhGE53WrZ7ywJA15hBVkw7CRbQ8yDBBTwmBtAHN",
+      "voteAccount": "6aow5rTURdbhbeMDrFrbP2GR5vZjMEhktEy87iH1VGPs",
+      "stake": 1340124588771437
+    },
+    {
+      "identity": "DZVySotZvrvJyVAcgjFtUDm93zoCaq9wBruMAUz83CWW",
+      "voteAccount": "DZVyygR326SerwzVivgqb8REnegEyU4teMkGQaBV6Bpw",
+      "stake": 1335509140998938
+    },
+    {
+      "identity": "722RdWmHC5TGXBjTejzNjbc8xEiduVDLqZvoUGz6Xzbp",
+      "voteAccount": "EXhYxF25PJEHb3v5G1HY8Jn8Jm7bRjJtaxEghGrUuhQw",
+      "stake": 1335432284396070
+    },
+    {
+      "identity": "CfgRXmp1LEYr97EaT2RyoL2cSvtWgJh52Bes89RxVSoW",
+      "voteAccount": "g5kwi5sFXQTx26jwetYK97ytvx1WpA1RWuQ82Afdzyn",
+      "stake": 1318478670598968
+    },
+    {
+      "identity": "DZVqmD4QqSWM2gUyEXdQhvt4u3NZtCRxdsn2n2nNiBRL",
+      "voteAccount": "DZViGjfD4um4GQaNEE1h8tmWtMpgCW6qcvPBuHCyLwRX",
+      "stake": 1317499434347746
+    },
+    {
+      "identity": "HLnodbYkL5PFA8hjAZDkm5pGzV7eLTvcs671AW2L6St9",
+      "voteAccount": "7KVnUL45FH4N8Z7x1dnvJ7GzMx12cs81mS26mHzNjQPN",
+      "stake": 1251122436471161
+    },
+    {
+      "identity": "A9mvukTd77EbRoBX4ydSCFQHdu5bsRFkNXTTRstA8FAC",
+      "voteAccount": "FsT844wGgZg7MLR9Uc9T9qHQxmSoFVanhfgAEQvS966r",
+      "stake": 1233372727679312
+    },
+    {
+      "identity": "8uJiHDJ1b7UDQ4KFsQGJXK9nUCkokdKRJymg1Wy9nxvM",
+      "voteAccount": "5sMmkL4BXjU6vZXQxE3RquH2CR8v8Zbfi1EAAFxLfxMx",
+      "stake": 1211785625834071
+    },
+    {
+      "identity": "DZv25oNCWFvGXu9tH63BiAXvG94syweGZhbvdN3HxDxT",
+      "voteAccount": "DZVSbEJQfAFftodtveLseuzc1Beqm239usKJhx9TiBRL",
+      "stake": 1208531493604267
+    },
+    {
+      "identity": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+      "voteAccount": "AzbQjKoLepbDS8C6hgkRY7UCRwbwZZ9HqdtnWyef9WjX",
+      "stake": 1207979324911175
+    },
+    {
+      "identity": "FWwwP9tNttSy9dJFxwf6ebXWfc6VJXqFNMTccrMiLFTH",
+      "voteAccount": "5orRi4tMEGneZ9U2y381JnBEnsqFJDBSNQLhBn98Bkcv",
+      "stake": 1198085055446455
+    },
+    {
+      "identity": "8tjFeSApQ85ThoQXT28acfF2KUfQr3TvTdirSkzNnYC7",
+      "voteAccount": "AtvnDGvf7Dd4AUA7iihx3hV8598skHejZTn2YTNV6AMF",
+      "stake": 1149665513501542
+    },
+    {
+      "identity": "PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb",
+      "voteAccount": "DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx",
+      "stake": 1143626217415126
+    },
+    {
+      "identity": "G2TBEh2ahNGS9tGnuBNyDduNjyfUtGhMcssgRb8b6KfH",
+      "voteAccount": "F5b1wSUtpaYDnpjLQonCZC7iyFvizLcNqTactZbwSEXK",
+      "stake": 1118957311504255
+    },
+    {
+      "identity": "6aDs9tUm2gErcPn2c1TZnp5cu2bQV9BzyuwW4baWQYd4",
+      "voteAccount": "ERut3CwqVeoa616QBaoHc5jL52RpkXjZZZ7MeaMaCtLi",
+      "stake": 1087851790167913
+    },
+    {
+      "identity": "rubyWZkfnjG716rx69n2oCAhevVZaMRQunir9VQcY2E",
+      "voteAccount": "RuBYsjLeJYtWXbabcxPbNcbbFXQvMLrJGutpcqVRomz",
+      "stake": 1087112289624311
+    },
+    {
+      "identity": "pSoLoZx55zZz61gjxSTwHtwTg4yTwdm7ruBmyjbYgT2",
+      "voteAccount": "BU5CXmHhXwZfSYwFjCjqAqdbu7MTUsiKLUj45RSXiPsE",
+      "stake": 1070735931495433
+    },
+    {
+      "identity": "GmCxjmjKZoaKN1DKunbYq8RCYib94Nm3sHyncFfofaF5",
+      "voteAccount": "7S9dHgoeMYvtShTjEC3x5D3THRDQz123WVGPseZsm3hm",
+      "stake": 1065242049160820
+    },
+    {
+      "identity": "CwyVpfmfSiMeCexi3JgUNvaiDfYN14cLDjzT99zcBuD2",
+      "voteAccount": "8uEgdseqbUrDLfmHbUpTHoH1LLRxeViYDk7K6NdXKRYM",
+      "stake": 1024216443233162
+    },
+    {
+      "identity": "G9vCpJUUSpEm4zPwzSNpDmZ8MGwLEbiSLV59EBzCGvzM",
+      "voteAccount": "8UHnwrLihP4q1fZjAYGCZdGgtAkCaFiDLXa33r7niRjD",
+      "stake": 1017781242956879
+    },
+    {
+      "identity": "3psxMyr7rQzywVp1MXKd1XFmFz33NjydzCoJx9t2sMQW",
+      "voteAccount": "23XqhxnRHt5gQWHowvyRHDX4Ky6BZyFdYxjTzxx2QEFr",
+      "stake": 1015834148117047
+    },
+    {
+      "identity": "84gC25fbFKYueR9WEfreUysk1n3ZFxLFDDjbyqeqGpoW",
+      "voteAccount": "FpTQXdt7NjYsJWXaE9UgG2yPUshoFiW3nzXbXKz1CjKh",
+      "stake": 1014542506581788
+    },
+    {
+      "identity": "EXckihF3qmguH5znjhfzLvHsbk2E3nEW2DqNh4MMnDMm",
+      "voteAccount": "CMPxjQDTDyXKh3ZsKP7HLwi3tvgSVpFtLJYMxbeNZE68",
+      "stake": 997430078213102
+    },
+    {
+      "identity": "GYx8kpp7SsRwtQEEsGQjAxb4hFMMmT91kFJuDeky3YGQ",
+      "voteAccount": "7jPqpHuN5v59dtBom2tjmYEfi6WaM4sFtJeTD6fzhcdS",
+      "stake": 984459243739990
+    },
+    {
+      "identity": "58KprHKFNHgH1Cvo4QwxWkDeJNaSQVteCoAAFUWjtESn",
+      "voteAccount": "3tUZu4CkwMLwYdosoGc85n48VgDMyxZVkL1VUJc7DrxW",
+      "stake": 973760924228932
+    },
+    {
+      "identity": "4SsMncJdtKiUcDtukkX15mqei7WiuQ9yvRtQrQW4reWC",
+      "voteAccount": "5s3vajJvaAbabQvxFdiMfg14y23b2jvK6K2Mw4PYcYK",
+      "stake": 934279874099161
+    },
+    {
+      "identity": "HzrEstnLfzsijhaD6z5frkSE2vWZEH5EUfn3bU9swo1f",
+      "voteAccount": "DQ7D6ZRtKbBSxCcAunEkoTzQhCBKLPdzTjPRRnM6wo1f",
+      "stake": 922765111136889
+    },
+    {
+      "identity": "CaveyttUBTKttncu1e4RF814XjuoGfYv8cEsiKGDNCPX",
+      "voteAccount": "CooLbbZy5Xmdt7DiHPQ3ss2uRXawnTXXVgpMS8E8jDzr",
+      "stake": 908860658773423
+    },
+    {
+      "identity": "AiDoLWFKzNxSXKeZ4zym2TEPkg6F4kQ3YBA8WhANVPEq",
+      "voteAccount": "AiDoLYTz5CVN3ZLzqDWRtaGUaHGzDnWMeC6KCNYJPqFX",
+      "stake": 860934109235537
+    },
+    {
+      "identity": "Ha1iade1AH3B12K9SccfWoPdFtQKKQsj2ZyWwxcjqJJU",
+      "voteAccount": "Ha1VoTEPWFQp1wZjbQhBNXJftuHvimu1ruzF3xKYRPDQ",
+      "stake": 833805292740870
+    },
+    {
+      "identity": "AicQr2zCWBLiBwt2r6o7iTemmtyE7q5pTKyuuupbXEQA",
+      "voteAccount": "Bkskrv38Kn7zJR5mvmbCDGn2M4Jyhzt2ZqwQXV6rYnXa",
+      "stake": 826346233035273
+    },
+    {
+      "identity": "Certusm1sa411sMpV9FPqU5dXAYhmmhygvxJ23S6hJ24",
+      "voteAccount": "CertusDeBmqN8ZawdkxK5kFGMwBXdudvWHYwtNgNhvLu",
+      "stake": 820563114819647
+    },
+    {
+      "identity": "AMukCLCr52XxsEjXoDxKKxjNg4FpnsReXNaQx8aR6DJF",
+      "voteAccount": "71nnaeTyVeA4pTozAPjRuQyMydQTZCrFUkz7Pzy5tiDJ",
+      "stake": 810794955658022
+    },
+    {
+      "identity": "CXPeim1wQMkcTvEHx9QdhgKREYYJD8bnaCCqPRwJ1to1",
+      "voteAccount": "J1to1yufRnoWn81KYg1XkTWzmKjnYSnmE2VY8DGUJ9Qv",
+      "stake": 803951275670198
+    },
+    {
+      "identity": "BXAxLMMMUNYfC1z166VjWHR3WjTmqzLxB837o5ghmRtH",
+      "voteAccount": "J21SMPFJEY9ExCDPiSJQXN23PVSeoQe3LnKD7QcP3bgP",
+      "stake": 797520814681635
+    },
+    {
+      "identity": "XkCriyrNwS3G4rzAXtG5B1nnvb5Ka1JtCku93VqeKAr",
+      "voteAccount": "beefKGBWeSpHzYBHZXwp5So7wdQGX6mu4ZHCsH3uTar",
+      "stake": 784957255574452
+    },
+    {
+      "identity": "7PdKhpKz7T39vZHFL1UfcYNDsLvay6hp4KPQq1aUckFf",
+      "voteAccount": "7opSZGmevWhRDyLt5Wu38FZFjUyredGmMki4DNmxDnjd",
+      "stake": 776768065848296
+    },
+    {
+      "identity": "4mtXJ5pUcMMB4t8cLbi7zfDJCHfYLRrQb4qSLmh57sKL",
+      "voteAccount": "94qeNkhspb7DjuqNPcGUgVcnnsNuibGYuqNTvm9FnX9m",
+      "stake": 763066556065986
+    },
+    {
+      "identity": "DB7DNWMVQASMFxcjkwdr4w4eg3NmfjWTk2rqFMMbrPLA",
+      "voteAccount": "oRAnGeU5h8h2UkvbfnE5cjXnnAa4rBoaxmS4kbFymSe",
+      "stake": 752693501804878
+    },
+    {
+      "identity": "5TGfVQV1S3wHE9hkgGaQkRoPC7xZxiqwMcjQZxVYsf1j",
+      "voteAccount": "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys",
+      "stake": 743943010190156
+    },
+    {
+      "identity": "t23p8aBQN6P6tziMuN5XPmzqVRrip9oes7KuQwSmate",
+      "voteAccount": "6XiVWAyRpG7wGUQPVRd2XrYdgQVQyoQamd2J8XAmate",
+      "stake": 734414945503482
+    },
+    {
+      "identity": "oPaLtitM6cwpFVzP2rDhLsJLdY2vcbuZiJJyD1TFUKs",
+      "voteAccount": "oPaLTmyvoUhW26QCMwLA5JNUeBYy72PDpFoXQF8SeX4",
+      "stake": 729986970500314
+    },
+    {
+      "identity": "juigBT2qetpYpf1iwgjaiWTjryKkY3uUTVAnRFKkqY6",
+      "voteAccount": "juicQdAnksqZ5Yb8NQwCLjLWhykvXGktxnQCDvMe6Nx",
+      "stake": 729496069101552
+    },
+    {
+      "identity": "Ex1AxFCipXGfSxgvXPPT3nPQUARddCduHwKR6jHiXAaT",
+      "voteAccount": "8tjRQLzor4dP4qd1e7pVDdQmsdwdVv4kSeCVEHwWEiQW",
+      "stake": 712186808394709
+    },
+    {
+      "identity": "sTepQGoReJq2tBKStL19DT6nnGHcGiAvFjyYaokLyuM",
+      "voteAccount": "StepeLdhJ2znRjHcZdjwMWsC4nTRURNKQY8Nca82LJp",
+      "stake": 697326543977476
+    },
+    {
+      "identity": "6yFGGAgYpBxgYPuHW4rv7hJmhKrUiXKyHkpVGaYtKrwE",
+      "voteAccount": "9jYFwBfbjYmvasFbJyES9apLJDTkwtbgSDRWanHEvcRw",
+      "stake": 696987649496407
+    },
+    {
+      "identity": "fishfishrD9BwrQQiAcG6YeYZVUYVJf3tb9QGQPMJqF",
+      "voteAccount": "7VGU4ZwR1e1AFekqbqv2gvjeg47e1PwMPm4BfLt6rxNk",
+      "stake": 692054969834695
+    },
+    {
+      "identity": "Cogent51kHgGLHr7zpkpRjGYFXM57LgjHjDdqXd4ypdA",
+      "voteAccount": "CogentC52e7kktFfWHwsqSmr8LiS1yAtfqhHcftCPcBJ",
+      "stake": 676745968061796
+    },
+    {
+      "identity": "7Zm1pE4FubFYZDyAQ5Labh3A4cxDcvve1s3WCRgEAZ84",
+      "voteAccount": "XzMLju7T6BSSngmsPogeuryd6uswiimkPU87gB2chho",
+      "stake": 672200231526972
+    },
+    {
+      "identity": "vu1sGn2f1Xim6voHNLt4nLn38zNkYdLasU7hEr1TC2D",
+      "voteAccount": "6F5xdRXh2W3B2vhte12VG79JVUkUSLYrHydGX1SAadfZ",
+      "stake": 664267501918313
+    },
+    {
+      "identity": "HaLanfo94ezLc3JZ55qqxr7W3qbe1PprJyv2uEtriEqN",
+      "voteAccount": "8zHJtME22tiY3UsSHtDJXo2J8hUfwikBxXNbVqQzA92r",
+      "stake": 652817455517685
+    },
+    {
+      "identity": "VQwCCSfW3o5NDx7n5FBr9SoYiLXVgetstHvaWBvv2YH",
+      "voteAccount": "6XtfZoG7P9Hjmecg4Da8pqd9A4TzU4QynbwY94Z1ZLcy",
+      "stake": 632432081129769
+    },
+    {
+      "identity": "LA1NEzryoih6CQW3gwQqJQffK2mKgnXcjSQZSRpM3wc",
+      "voteAccount": "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL",
+      "stake": 611622034029962
+    },
+    {
+      "identity": "BeaCHioStqCEFDFxKwAEzyrUPYxqnBPhJ98gDKeEiTPb",
+      "voteAccount": "BeachiopjxQxL7CaHNSZsynApiZCKx9QFVtcWNz3jDBo",
+      "stake": 610968848255454
+    },
+    {
+      "identity": "Frog1Fks1AVN8ywFH3HTFeYojq6LQqoEPzgQFx2Kz5Ch",
+      "voteAccount": "Pond1QyT1sQtiru3fi9G5LGaLRGeUpJKR1a2gdbq2u4",
+      "stake": 610631453657442
+    },
+    {
+      "identity": "5RvfTSowms7BTYaBj8SxVjj7ELAAKdQadKsuNpmBAwCs",
+      "voteAccount": "C89gGyN6Q4N47bg5kZWGYVc3P1x3rYaHbpG3EjSLeEx3",
+      "stake": 598133223129503
+    },
+    {
+      "identity": "RNXnAJV1DeBt6Lytjz4wYzvS3d6bhsfidS5Np4ovwZz",
+      "voteAccount": "RNXpSdqrJL6eoLrbW69Q9qsFviEwRpfFfk3HiRRRohq",
+      "stake": 592746747155658
+    },
+    {
+      "identity": "HM1KjNaXa4w8K4gCXbieoMh5gUTNeUhg9fvdXMKeBW3L",
+      "voteAccount": "HMV14UAuULSwqmZhsKHzaVkYAd94iWpEeURgbUegfQLc",
+      "stake": 590550804372260
+    },
+    {
+      "identity": "grptonHnt7YSmJokGK9TJJTBXDT8ca4LSWMHCCfzzPa",
+      "voteAccount": "mnvkHm47ZmRKoSWuQZAfXLRiDPiKCq8PWkMWrp1Wwqe",
+      "stake": 578004331905272
+    },
+    {
+      "identity": "2mMGsb5uy1Q4Dvezr8HK2E8SJoChcb2X7b61tJPaVHHd",
+      "voteAccount": "CAf8jfgqhia5VNrEF4A7Y9VLD3numMq9DVSceq7cPhNY",
+      "stake": 563382415211857
+    },
+    {
+      "identity": "MutT1jxCXbRWJXpXoJK259gLrNfzDezdxS3BSkQAmv1",
+      "voteAccount": "6H9J5xtcqGwh2hd2GpBHfvrnDicWk8GtvpnypH7piktA",
+      "stake": 556572091340201
+    },
+    {
+      "identity": "CRNyGD7xNPThLjNviGdxoAiHpQXZKx3UeyCfrxnmTi8r",
+      "voteAccount": "8nshUCt7FvxGRphfmiqAr9wdkRMrktfuS7YMhaaP3oUV",
+      "stake": 550218756372032
+    },
+    {
+      "identity": "G1bLKfyNm7zsmmYEL9dyxBvMtxpFcwy2s84bHDj2ZFUY",
+      "voteAccount": "xBLpiTwufjcuFCjbk4aCmFy7HUY5D9xy8L1EX2rBwmC",
+      "stake": 543478725614563
+    },
+    {
+      "identity": "5ikB9XZNVsjwKb6hHT3FS3So1Z1SrDvU5yaniWEQyDEG",
+      "voteAccount": "55L7AV93xRmx5F7rX1GCfsHxfYWNu4bKsG6f8tG6dFRo",
+      "stake": 539124475130088
+    },
+    {
+      "identity": "GREEDkgav1ox1jYyd9Anv6exLqKV2vYnxMw5prGwmNKc",
+      "voteAccount": "GREEDkpTvpKzcGvBu9qd36yk6BfjTWPShB67gLWuixMv",
+      "stake": 537985574310086
+    },
+    {
+      "identity": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
+      "voteAccount": "H43AYFsvhNuALQieHpLXefp1ECgEBT6oVnS4EcTsC25C",
+      "stake": 537170382589051
+    },
+    {
+      "identity": "82vucuWCTTQEz6nYe3VetnL3pJYBrfDF2gDAjec9sPUy",
+      "voteAccount": "DLKjd8DJc9NajCaHPeQL6BnhPi3a4BZm7zCdVF3MzDRZ",
+      "stake": 536833508649999
+    },
+    {
+      "identity": "BM2vE2QqkB9fGtC34WPtM8drbgta13SBkhRq6dRG9J4J",
+      "voteAccount": "8r4Fu6M8brgnL456RJfwxk8kN4iw1LgczfuXeuG1g4px",
+      "stake": 536343452066861
+    },
+    {
+      "identity": "aXiomFkk6VzXaBhPuhMqTLZZguCFzzbyP9LTtZ7ZHLQ",
+      "voteAccount": "DqbRPQXbN8GDKWZkKiHnRjiSKPqE3rQaNgTPxdLGPDMK",
+      "stake": 534256430920740
+    },
+    {
+      "identity": "Va1idLRtYEtVFJFsvz8vtt1uCJgea4Q1zi2Rh3eraJh",
+      "voteAccount": "Va1idkzkB6LEmVFmxWbWU8Ao9qehC62Tjmf68L3uYKj",
+      "stake": 533638991039367
+    },
+    {
+      "identity": "6XKqyUVUcpe3CNucjF6gk5zonJDqNGvob6kaTy4Ps1U",
+      "voteAccount": "SKRuTecmFDZHjs2DxRTJNEK7m7hunKGTWJiaZ3tMVVA",
+      "stake": 529692971347054
+    },
+    {
+      "identity": "RBFiUqjYuy4mupzZaU96ctXJBy23sRBRsL3KivDAsFM",
+      "voteAccount": "RBFvvcGPBpgkBYmJGsphoDQJD8sszSuorM7TorWm12Y",
+      "stake": 523831979780906
+    },
+    {
+      "identity": "HH5dA42XF1HxNk1TRpG6LuKfLViMYNdAz5iWrFM4hWFi",
+      "voteAccount": "FiijvR2ibXEHaFqB127CxrL3vSj19K2Kx1jf2RbK4BWS",
+      "stake": 520260571368234
+    },
+    {
+      "identity": "7CR3Jq4ny2tsr3DX3DvyjoU8TYs776MGkU6nLMWjAqCT",
+      "voteAccount": "EcLPNfLFgCkbcTuvdeQ85pnQMgAfBDqi2dkoNVPrSyr5",
+      "stake": 514805938841232
+    },
+    {
+      "identity": "Ste1115xFGdAYK5jaWA3dEFcUc1S5jEbVvD8e327zty",
+      "voteAccount": "Ste11vRHQJyQjcTKrDbTWAYsTXkX6PCnoEw3mSH3u2k",
+      "stake": 509183949209745
+    },
+    {
+      "identity": "mrgn4sJJu5GBa5wbKyjuASzhyCifvcedGoLtpKjB3Wf",
+      "voteAccount": "mrgn4t2JabSgvGnrCaHXMvz8ocr4F52scsxJnkQMQsQ",
+      "stake": 503518674561114
+    },
+    {
+      "identity": "AoUwfPuiEek2thVRDhMP7HbQb9rguyab4rDiz2NAfwwA",
+      "voteAccount": "8HR5rCobbFMDe5EbgKdJLNDWVCeGG79w837BUxtsCngs",
+      "stake": 490029677065565
+    },
+    {
+      "identity": "bkpk9KVsDRfrArzzmkJ9mPEvbXfQxczzQYR3QMGiR8Z",
+      "voteAccount": "bkpkQKgJMQXqwZL5dRX9LMwnsz9zkZZqCtqWfnBcwDx",
+      "stake": 488465996105711
+    },
+    {
+      "identity": "7tqeaFKsg2K9xKnQWe61w71AtCZVMQvG4hbFAiFAngYw",
+      "voteAccount": "4CjWMmjGtRAZH6unY8EAzDYHWKUoPKqkZoFNrgxSGnyc",
+      "stake": 488299361466803
+    },
+    {
+      "identity": "ANC1u9sY36q3mi2MyVhtz71un8yLgTsFBUuyLcSPzKsk",
+      "voteAccount": "ANCVpxEySGWWLqqkVKw2xWYDE9UP4fmZWMCBr5t96jch",
+      "stake": 486350662238074
+    },
+    {
+      "identity": "7EzbSahSfSjeRexHcNDLDpzHBAGBLjLKtjbmuoQnEtjE",
+      "voteAccount": "2HQ5YHuw8cR1erRYZmemDmQVpfEMCjAvwU7V4fgdemJB",
+      "stake": 486214721303510
+    },
+    {
+      "identity": "6MiEjXqYksCtKnJpvAp3CAoEZnnWZyoSxu41HCzAYNdc",
+      "voteAccount": "GAoCBDE9ABRYmhWUREDp4po4L8JgCPeQsPS77p1mx3WR",
+      "stake": 480394212728016
+    },
+    {
+      "identity": "SSmBEooM7RkmyuXxuKgAhTvhQZ36Z3G2WsmLGJKoQLY",
+      "voteAccount": "punK4RDD3pFbcum79ACHatYPLLE1hr5UNnQVUGNfeyP",
+      "stake": 466218809369182
+    },
+    {
+      "identity": "SLAY6uN1zZpXBTfbuDDCesNmM5D288xrz8uYvfS3n41",
+      "voteAccount": "SLaYv7tCwetrFGbPCRnqpHswG5qqKino78EYpbGF7xY",
+      "stake": 460155227669392
+    },
+    {
+      "identity": "TxtxXzLTDQ9W4ya3xgwyaqVa6Tky6Yqhi5BLpPCc9tZ",
+      "voteAccount": "TXTXAmsarrYrTobiCzq2r9NBqfChqRE8wEfJNsYZZ6F",
+      "stake": 452335901817840
+    },
+    {
+      "identity": "6xWLi1TDSh65fWsSqE1zdvANTSuVDRMx4ghsGJwgunS8",
+      "voteAccount": "BbM5kJgrwEj3tYFfBPnjcARB54wDUHkXmLUTkazUmt2x",
+      "stake": 449769562603898
+    },
+    {
+      "identity": "Diman2GphWLwECE3swjrAEAJniezpYLxK1edUydiDZau",
+      "voteAccount": "voteRnv6PBzmiGP8NicWtQiqEJTwKKq2SxtqtdLUJjd",
+      "stake": 447000252130169
+    },
+    {
+      "identity": "ACvL73V4GNnxPVfZ7K89jCrYurLyzpEuE9qirjvh2Xmi",
+      "voteAccount": "HCvnhbT3Sn5RsueDisWzzn5FkW8tAqoQK1dr7cvAVzin",
+      "stake": 439044400997222
+    },
+    {
+      "identity": "Cu9Ls6dsTL6cxFHZdStHwVSh1uy2ynXz8qPJMS5FRq86",
+      "voteAccount": "5iJDEVRi1nMLwKAWhYbEokZnvBAe15rgFaHGkggVEP9z",
+      "stake": 433054049484913
+    },
+    {
+      "identity": "EfPYQ4BUMiKa6736qqrtnCBGkUSRDGSr1WvtyUgWHuyp",
+      "voteAccount": "6x9uLhegx488uA3dPoq8DWHS488K4FsEqeeMXeW7kQPx",
+      "stake": 430566710773111
+    },
+    {
+      "identity": "6PvHaibtZhuba14dzbhGFJRASYX3Ka2oviRzSbXV2wYC",
+      "voteAccount": "HM5H6FAYWEMcm9PCXFbbiUFfFVLTN9UGy9AqmMQjdMRA",
+      "stake": 426308405123072
+    },
+    {
+      "identity": "3RXKQBRv7xKTQeNdLSPhCiD4QcUfxEQ12rtgUkMf5LnS",
+      "voteAccount": "BxFf75Vtzro2Hy3coFHKxFMZo5au8W7J8BmLC3gCMotU",
+      "stake": 425456394429676
+    },
+    {
+      "identity": "UPSCQNqdbiaqrQou9X9y8mr43ZHzvoNpKC26Mo7GubF",
+      "voteAccount": "A9V5e8ZLwQ2ArKZnCcrmz9Q92pDCkUXE5tqJmJDZkCMo",
+      "stake": 420023176292492
+    },
+    {
+      "identity": "6M53yM6dsE6hiaHgxWvYa4fsfzQTGyAZn7rM6JrzbqJV",
+      "voteAccount": "DierScgiTrz5AM7mddeJLHYNvafym3XhjjdM51AnKevU",
+      "stake": 418119222567270
+    },
+    {
+      "identity": "8nbE53mcKhy74HLiGZ1q5HRocwiCvgh49csSaHSdtukr",
+      "voteAccount": "HdQ1Ap8wm6Mz65FaP8jMNBVfCDv5T9NdS8UTSvHmcotn",
+      "stake": 405626952855675
+    },
+    {
+      "identity": "EUcJwf7jXskRE6NZBtFPVH2EedNvNYko8LL2WT62XctB",
+      "voteAccount": "Bwkz1ddKoGE8hgiSV6HZLXi9RBLqfBi3HZb2QujzVGgz",
+      "stake": 400007980517993
+    },
+    {
+      "identity": "5zuNci3TV79w6zLoJZzbZujMvkVZb2FcSPhgv9aT24AK",
+      "voteAccount": "76DafWkJ6pGK2hoD41HjrM4xTBhfKqrDYDazv13n5ir1",
+      "stake": 398191001861346
+    },
+    {
+      "identity": "hy1oMaD3ViyJ8i6w1xjP79zAWBBaRd1zWdTW8zYXnwu",
+      "voteAccount": "hy1oJTV2kX9acsqpwk7hbteqXFw9VDbWvbxoamFEufW",
+      "stake": 397327379618377
+    },
+    {
+      "identity": "anza1rXDVhy1NfVNtsbT3kSBh2jgB1BGZUKuUibSAJd",
+      "voteAccount": "anza1Vgz2kcN9Qo6ECvf43v8RxBzQ7UpvxFoxJtLmGz",
+      "stake": 392672712272285
+    },
+    {
+      "identity": "HLXxkmjb47spcmbbKi3UCfZ2qmFY29t8MN562AEmh2Qh",
+      "voteAccount": "HLXktVmNFeELB5uL5nrpP4WL7jyi3TMyekxASVjDhZ1t",
+      "stake": 385025978923718
+    },
+    {
+      "identity": "9r2CsyjRTmTRtu8GFk5oJRSQr5YfSENxDkf3eox8iPLa",
+      "voteAccount": "2iWXwF2Q5W6o7yntV2mkbxncB4rYHnX61y3NU8a8EFMJ",
+      "stake": 382965005490193
+    },
+    {
+      "identity": "FugJZepeGfh1Ruunhep19JC4F3Hr2FL3oKUMezoK8ajp",
+      "voteAccount": "7emL18Bnve7wbYE9Az7vYJjikxN6YPU81igf6rVU5FN8",
+      "stake": 382339463190632
+    },
+    {
+      "identity": "mint13XHZSSxtgHuTSM9qPDEJSbWktpmpM4CZxeLB8f",
+      "voteAccount": "mintrNtxN3PhAB45Pt41XqyKghTTpqcoBkQTZqh96iR",
+      "stake": 380952269597733
+    },
+    {
+      "identity": "ByszyWdqC3rVMWy8f6jwK5cmwkpwYdwsr7UL58xS5vnm",
+      "voteAccount": "DG6fVEB2Qy1jntvHVPui3R12CMqcwNNnjYPYdsbQ9ACP",
+      "stake": 371160339570101
+    },
+    {
+      "identity": "BfgMdL4FaNHp5zZpD7WMYG5sZUrCWQPEjXDwWS7M5q3F",
+      "voteAccount": "BT8LZUvQVwFHRGw2Dwv7UeqDUq7btfjegLpuz5bwgziD",
+      "stake": 369024668294291
+    },
+    {
+      "identity": "Mwz8VgAEnPtfqS62r3ixrFiMJwnNfEwR141CGnsTo5k",
+      "voteAccount": "A11pGbZDE8fPNZgiqDjoST6v3QMdhzZ3r8W5YahCKtS5",
+      "stake": 364576461801341
+    },
+    {
+      "identity": "Sh1ro1CaaVjNuihgNK6kay7jwcWzSqD2fdix6RNPaSh",
+      "voteAccount": "Wh1teWn8PVimrF5FLJyrPzwzCFx5adGqjsWoTaLGsKK",
+      "stake": 356546562760273
+    },
+    {
+      "identity": "H9ENbtmy2tWFtAJNmpC8xQtbcr1NTp4FXLdphRaG8L2T",
+      "voteAccount": "BH2PMb9vuHxkVFMMHbH8iudCoBfUoX5tVaHfnEkKJ2gQ",
+      "stake": 352883976830154
+    },
+    {
+      "identity": "8vk6QpG93JSaQCSgnycBsv5qmfQBk4qC9FjNA35E5JhU",
+      "voteAccount": "2ZP7DPXW6gwMRSY9PSXQ75fZLrk4gKWKnT85pK5sVPa5",
+      "stake": 349839199875257
+    },
+    {
+      "identity": "5d9Mdc2Zk8as8GL1AxQeXxv5htBBvC5bjfmsXC7UUWwG",
+      "voteAccount": "47hzyKgoz9Fu1HP4mR48tvAFj7akCFZKGzZqWo32sNqG",
+      "stake": 345852661153374
+    },
+    {
+      "identity": "mineL1YNwcRnxN93B2sX6q22R11WfRqxnY4NBV8KfFY",
+      "voteAccount": "6q1VNp8Vy2Go12vb8CwbjUqqj2SXr2JYftJRWs71sW23",
+      "stake": 344067775686947
+    },
+    {
+      "identity": "43Am3PKFeo9cACpqYL5Sk95rpVdxLw3Mc22PqRqZXEW2",
+      "voteAccount": "EBVj3uwSKZpqEb1K267JaPxDQhULVqCy6hYeQqjsPh81",
+      "stake": 343504436877834
+    },
+    {
+      "identity": "A4hyMd3FyvUJSRafDUSwtLLaQcxRP4r1BRC9w2AJ1to2",
+      "voteAccount": "J1to2NAwajc8hD6E6kujdQiPn1Bbt2mGKKZLY9kSQKdB",
+      "stake": 341311087391813
+    },
+    {
+      "identity": "CVvaeDPR2o7P1eawG5c9TPFLzSXAewwPovPmREaEL4Cm",
+      "voteAccount": "DMSuZcavta8L1w1tSiH8bALWjz6Q6KSryGG6m6Az4Qt5",
+      "stake": 337363216417138
+    },
+    {
+      "identity": "Bi9kKNxfW2XqgCmLcuhHt6A3x55GuAGmrVZxRHLyVoQ4",
+      "voteAccount": "ADoJoWDcMS7HVW8cMu5GRvy3FBm3RG5bEWQi74YRnwKt",
+      "stake": 336624970173122
+    },
+    {
+      "identity": "3cZSHGfNdaULpFAvGbWbxpVwzXB4gHdk8NFucPNR5pgA",
+      "voteAccount": "HJmfKJjKiyuuxFUuXgecgD5gdD312apCpHwZt6ETuRMU",
+      "stake": 330740007149088
+    },
+    {
+      "identity": "mds4GEuiSgQRqveGyktWpETBFCb4AS2wDnhqwLHcT6Z",
+      "voteAccount": "GLCrZmxWYcrGMA5uRa8mmNnQurGBL2p9zrKk9DKugSZX",
+      "stake": 327068158410392
+    },
+    {
+      "identity": "nymsHergYedT9CJMgtGMvqXUTGcbs5o3MiWTJUbqTGY",
+      "voteAccount": "nymsndUdAZyUPpWYz5VEg8Ghj9cFvwTRgciLogpmYaQ",
+      "stake": 325113063737755
+    },
+    {
+      "identity": "4XspXDcJy3DWZsVdaXrt8pE1xhcLpXDKkhj9XyjmWWNy",
+      "voteAccount": "9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk",
+      "stake": 323018449503101
+    },
+    {
+      "identity": "Lake8NXDThihebhxS3Js7mFnj9fthmus93zEdsFNrsL",
+      "voteAccount": "LAKEuKJQYVFpf4vyjX7iuf9ajHo3k9FiyewYKf6VxPV",
+      "stake": 322902599002915
+    },
+    {
+      "identity": "BCeczqpTRPigndHVJu1KEzno1Uhb4hjrE7ttmAndrV1p",
+      "voteAccount": "FdGcvmbpebUwYA3vSywnagsaC3Tq3pAVmcR6VoxVcdV9",
+      "stake": 322167621143173
+    },
+    {
+      "identity": "FUNDTXgtnkfuhK6G6JUi5CzxPWeZNF9n96vFuBNGFy1v",
+      "voteAccount": "SAFUitvicp7bGv9pbYhRJB5wu4doALqR5xB22V6EDjQ",
+      "stake": 320148626319261
+    },
+    {
+      "identity": "EdGevanA2MZsDpxDXK6b36FH7RCcTuDZZRcc6MEyE9hy",
+      "voteAccount": "EdGevanAjM8a6Gg9KxBVrmVdZAUGAZ9xaVd7t9R4H2x",
+      "stake": 317051300140244
+    },
+    {
+      "identity": "vALigXFg9wnnhVHN16vNxHxXtAXiBv5QjAE6udoniBY",
+      "voteAccount": "gaToR246dheK1DGAMEqxMdBJZwU4qFyt7DzhSwAHFWF",
+      "stake": 316545297701464
+    },
+    {
+      "identity": "D2RV1q6FgePVVjrMa7AMzVbvvAeg5oS7TAV7qdNKSDsX",
+      "voteAccount": "CCxSNvJogH6LWyoiEbG7JfcWybw2FqqCExs5GuemChGr",
+      "stake": 314012074529658
+    },
+    {
+      "identity": "3YVoK8UN62dyiPZnGBzBTkGdwsVmmK1MpRoLcxNRs9BE",
+      "voteAccount": "FRTcwF2LHHLV2VxKB9nzNpqyBXjpKvkEs5aRuMXrrk8X",
+      "stake": 312504288491157
+    },
+    {
+      "identity": "3tm92VTxwyZ5MDhGoYR4tVTkwWYkzfam6hwBjauUACCk",
+      "voteAccount": "4m1PbxzwLdUnEwog3T9UKxgjktgriHgE1CfAhMqDw7Xx",
+      "stake": 309707889496001
+    },
+    {
+      "identity": "2dfgsiSaZ51QYPsECMYMG247PXxyKdwkV9wTHoQb8YEC",
+      "voteAccount": "NDf9Pv6TAxTDPR6ud3djsd2Ux1WS2m2YfTw4qEmSnQH",
+      "stake": 308659176815543
+    },
+    {
+      "identity": "HT41udB8mLZZf7tev9tUoHYJ41TP8GWZ6zFMbjiviXk5",
+      "voteAccount": "FrtCZRajYfrdoZarPxCsUB6f66ga5DPSXGz4F7VKyfKP",
+      "stake": 307608105883118
+    },
+    {
+      "identity": "2Mob8FJkb8chZY5pTBMpKfLwgZAQHE5i9jAC5zbASitD",
+      "voteAccount": "3Gzmaw7NVNeaTzYBySzSwsU8ctTNy2DBRkxi46fumw3X",
+      "stake": 305685690916743
+    },
+    {
+      "identity": "AaapDdocMdZQaMAF1gXqKX2ixd7YYSxTpKHMcsbcF318",
+      "voteAccount": "ALiQdX94fYbGUt8ar6chuAN1nj8g8bKSgJ7qV3W7bPsS",
+      "stake": 302569716360865
+    },
+    {
+      "identity": "3fpcsJ2WPdrmpjVVA5Lmv4m9Qx5xqND1xJhFprDSjWJ4",
+      "voteAccount": "A3ahHFBFkPkuLMhxLGEnKVVZu2J6Qy8Z7z2zozyXGhw2",
+      "stake": 300057618987995
+    },
+    {
+      "identity": "8hAYbagNt7CMBooFfqVJhBgLqLffpjXTWJMk8yybjJsN",
+      "voteAccount": "74y2qkCaJ5L17hTsz3E8jftNxTBCTvdz4P2L6qTHDW59",
+      "stake": 299678003660926
+    },
+    {
+      "identity": "HnwMGBAw5PxaX56eSYc969MorEy2NzEMPLkmBkdnJmeq",
+      "voteAccount": "2wUhcnViyzstvWmk7NAboKtjbFbqJPo4BvFBV37dacLc",
+      "stake": 298909700917205
+    },
+    {
+      "identity": "9AW87WqARQonyJYhx1G25fKfvjURFYVmHs79z1NUXDPD",
+      "voteAccount": "2NXwP6K1ityVnvK575SY7KdoEkvPHrfcRLY7BJRBk4ht",
+      "stake": 298637313217248
+    },
+    {
+      "identity": "CEL22Qx7p85qY6gmhCZaYJrrnynJitkVRMQo6qZdT8Ns",
+      "voteAccount": "538iREQi6JxNqDHsMJRAJJ1ZqDQ2tvYuS8tfhtb7BaGu",
+      "stake": 298001959140610
+    },
+    {
+      "identity": "5VrW7YNBccVnhnZVmooCePdLFcs2UjfxRT3hoY9mN8Ec",
+      "voteAccount": "78QvBqfkWbDbyo1DMb2ku42r1UfxecwptjbPWJqxkX6E",
+      "stake": 297553605881639
+    },
+    {
+      "identity": "BULKzVM41WAyQZfL34vxqdsYwEYH9mJAJyzRS4xraf8b",
+      "voteAccount": "BULKEEKf9Hjy4nwCthjzheEk4joH23LLXttAHjqEZmB2",
+      "stake": 295653147010932
+    },
+    {
+      "identity": "5zm9g3zgAPWzX3wmUB2JtTkcwCqe74NWsTmt5wLFwCKK",
+      "voteAccount": "4udPrmxccbP1NwDJ6vChFKs5qcqyjmQff6gsKXD1mdaj",
+      "stake": 294926073549671
+    },
+    {
+      "identity": "2gDeeRa3mwPPtw1CMWPkEhRWo9v5izNBBfEXanr8uibX",
+      "voteAccount": "3Xn3K5zeTzs4sURj1PCRaF6rvFg2hPgT49B4SiM998f7",
+      "stake": 293573351662511
+    },
+    {
+      "identity": "4k6wgP5WPBKQpsFGtzuXNrjcTE2fKWLj17nDvFeG5zSF",
+      "voteAccount": "8zuMRTXThoPTTPLLvaiKiJshLLCqGMt9BdRjjCL19xBc",
+      "stake": 293139124698748
+    },
+    {
+      "identity": "2oHUYyW2PU9VJh4XBs5TbGgzdernunvGqyKth3kxW4ns",
+      "voteAccount": "6tgtejPHUHR1pECzXqQT8EHZqnKCWZFSqdZXDyBaKe3b",
+      "stake": 293102322304116
+    },
+    {
+      "identity": "D3htsc6iRQJLqCNWcC2xcZgUuvcd1JT8zoYNqraNcTQz",
+      "voteAccount": "3xjfK9C9YNcta8MvK1US4sQ3bc6DEjoJoR3qLExGf9xE",
+      "stake": 291053469369528
+    },
+    {
+      "identity": "Ey3DkEVbfBxfWmkTsG7Hqj7jshYf5Zx9H8462Zjjkykf",
+      "voteAccount": "GA2t11gJcmuZ4y7pShTzgYDkxVaJaVQJqkVUqojhPPsT",
+      "stake": 288974210775975
+    },
+    {
+      "identity": "5HYjArGt81naevDdwMaEx8yeGNw9jYBSDJa8YavT9Mp4",
+      "voteAccount": "4ibf8qJirtoBGg7gSD7V7CeCKoFB96PBYQ3J5QjSmAob",
+      "stake": 288801158204908
+    },
+    {
+      "identity": "HcZvwZ83PfjrQDiq3GLHxisTs17aGURs6bJ2LwtmL4qv",
+      "voteAccount": "JnGGar3XbAN6J3cKGRbNajCuhqnc9XWrk6WWr6hDmuM",
+      "stake": 288378316012877
+    },
+    {
+      "identity": "23SUe5fzmLws1M58AnGnvnUBRUKJmzCpnFQwv4M4b9Er",
+      "voteAccount": "4PsiLMyoUQ7QRn1FFiFCvej4hsUTFzfvJnyN4bj1tmSN",
+      "stake": 281861955420468
+    },
+    {
+      "identity": "BNtHBLo1L2vAG7PBQ6mJvWz7GqVPxBnioXsY2Gjtubrg",
+      "voteAccount": "ErvMUdtMC7AX55zKdYSyy4DnWNCrTsWn5GwprSG7ocnx",
+      "stake": 276591118277264
+    },
+    {
+      "identity": "7qGNnXKW1e3DsqEaSxwxMdBTFsrK73XtWTmkGitRyMQc",
+      "voteAccount": "JEJzKYzyYJJjtn6Yb1P7r6YV75TdSNmmJT49sgDoHvmk",
+      "stake": 272304831374933
+    },
+    {
+      "identity": "7GkMBmtrTZz8QbjSe1sXvAUtz7Pp42SQxfT5ymmJD4We",
+      "voteAccount": "J2nUHEAgZFRyuJbFjdqPrAa9gyWDuc7hErtDQHPhsYRp",
+      "stake": 271817255250942
+    },
+    {
+      "identity": "SFundNVpuWk89g211WKUZGkuu4BsKSp7PbnmRsPZLos",
+      "voteAccount": "SFund7s2YPS7iCu7W2TobbuQEpVEAv9ZU7zHKiN1Gow",
+      "stake": 271538249189336
+    },
+    {
+      "identity": "4uH4G6YiD5G8rU3mtPg73C2Uqamrqedy3FboTZcZrh6x",
+      "voteAccount": "EJHf5N9is5spAF5Kz384tTvTV3CwTka6qzUoZrYm53SV",
+      "stake": 270071460586632
+    },
+    {
+      "identity": "BPKAfGkkzF5u1QRjjB1nWYYbPMUCMPJe1xZPmwEMNMCT",
+      "voteAccount": "9Gko8QZBbV5SrEvHKtQHcMrGGSfgFP3KJUozEGifu25x",
+      "stake": 268696827667909
+    },
+    {
+      "identity": "5MAGJ3zShtXMMVXjZRoFqtFF7XhP8iLSyZrxdL7KpjcB",
+      "voteAccount": "9J7aJMntadsYJP7ZAyXgpRsXqrZQfRMob3pfkiB4sv8a",
+      "stake": 268089787127752
+    },
+    {
+      "identity": "qZMH9GWnnBkx7aM1h98iKSv2Lz5N78nwNSocAxDQrbP",
+      "voteAccount": "6JfBwvcz5QUKQJ37BMKTLrf968DDJBtwoZLw19aHwFtQ",
+      "stake": 267855950909602
+    },
+    {
+      "identity": "CLsFr1KZVbAyz16iFpwg2e4hiekR1unpwyxfNdjBMaoE",
+      "voteAccount": "9bb63m29Xy1KiWqijLs3f8adTE4KcSmVkt1qPxGkbkna",
+      "stake": 267430481136128
+    },
+    {
+      "identity": "5tfcGyf3NQFcufDigvbRt9kWoVN2KPEkBRUY3UaC3Zwm",
+      "voteAccount": "46mwXQRqWwj8Jp4ZR2tL1Yr3Snm99xDfKUs5jz7hLmEK",
+      "stake": 267338927872493
+    },
+    {
+      "identity": "phz1CRbEsCtFCh2Ro5tjyu588VU1WPMwW9BJS9yFNn2",
+      "voteAccount": "phz34EcgWRCT9otPzRS2JtSzVHxQJk4SovqJvV1TQk8",
+      "stake": 264615601081773
+    },
+    {
+      "identity": "CTDGxTK789ZvhgyHZHtSnxTtysbyY1mrywXEJiYYqXxC",
+      "voteAccount": "CTDGxxJBrZVqUUHdHopLn4k4gtc2PCpcM9TB7ZEC4Hu2",
+      "stake": 264463051684235
+    },
+    {
+      "identity": "9GHvMeJ4ZWuAX6sDGscFL1TBMszx2EehnrcTVUy4MZJQ",
+      "voteAccount": "GVYt3tbokX7mH4i86AA6Nh5hPiHEekercNZyNevviotL",
+      "stake": 264120959666042
+    },
+    {
+      "identity": "FyrwfMaomErzqrFUXMjCJ7mA4u81DsiDdrzC3MJD6d4j",
+      "voteAccount": "1Dadio3JRvpEjY6iSmXmhbGy9RiU8Nxh2GmoVbNusbE",
+      "stake": 263660295587409
+    },
+    {
+      "identity": "3C2cXXVHCm2w2EWnHUNxhtZCB2EMv2AeJ4TpW5ws18fi",
+      "voteAccount": "HjQugFHAUm7XbaZhmjnGioNUccdMUnFmwFTJgepm5q3n",
+      "stake": 263275801196163
+    },
+    {
+      "identity": "8Nvaxzif1NrdvxNkRetjT8xJvd33EHkKVrfL8EDkgaNy",
+      "voteAccount": "2DNGsVZ9rg6RvT8bY4SGmGvyiVJ4xt9RL3NDd6uhfN46",
+      "stake": 261853825769622
+    },
+    {
+      "identity": "rsbp8zMHbGCpLoRktmsjspYv77VcjxAzH1KxPCD9BiU",
+      "voteAccount": "R4spmF6oFW6wMQHv9L3PCEKumkspN3nveQihWyDAdRy",
+      "stake": 261282339288680
+    },
+    {
+      "identity": "NdMV1C3XMCRqSBwBtNmoUNnKctYh95Ug4xb6FSTcAWr",
+      "voteAccount": "NeodymeDFipD7eA1ShrLJAZTBdHWcFsDB9YkoHshZNk",
+      "stake": 261104060298948
+    },
+    {
+      "identity": "PRGNnb8DxVcP2WjSHfVRGgc8SkA5u6dbMwoTVV1BGKN",
+      "voteAccount": "VotESBSkLKU8vebS6wTR2rzWWJsLc6YThYS6tebPxXq",
+      "stake": 260991727658193
+    },
+    {
+      "identity": "ALPHA6rdHZkx1om79xp47vX1iZXcbM3qfEwLyttZ1T7R",
+      "voteAccount": "ALPHAthakWdoUxXJP6z8cjCkwrufcARXqi34EjShtFVT",
+      "stake": 258199018963700
+    },
+    {
+      "identity": "3B2mGaZoFwzAnWCoZ4EAKdps4FbYbDKQ48jo8u1XWynU",
+      "voteAccount": "edu1fZt5i82cFm6ujUoyXLMdujWxZyWYC8fkydWHRNT",
+      "stake": 256983222951276
+    },
+    {
+      "identity": "CkCMabrc3HgBgDkeKPXkbWuQpUuSqW7zs1Mg3HFArx61",
+      "voteAccount": "BN6EvLCeuYdrTjGaHCyugF7sSH5uckoVoy3Kg2TkyuDW",
+      "stake": 256206196741058
+    },
+    {
+      "identity": "8ZQg3K1V1Z2BVJkjmnxpi43WKhjPGXphzu5QmBkJibSP",
+      "voteAccount": "7qTwituXJJ5dtUwBZXjMNgtAyXJbx3X8V4B9gXFRjK9d",
+      "stake": 255551487895153
+    },
+    {
+      "identity": "BoNKmNCGvoHS4CkKvYRnF21iEpUP827pZjhFGdA4t5as",
+      "voteAccount": "BoNKvwirX136zCjcnayEM4W82vn13RKkjm1Sy3UPBdim",
+      "stake": 255333369841331
+    },
+    {
+      "identity": "radM7PKUpZwJ9bYPAJ7V8FXHeUmH1zim6iaXUKkftP9",
+      "voteAccount": "radYEig9KGrMTMWbWRFV7LStotQbnLgPaEFHVDsudQz",
+      "stake": 255095259483661
+    },
+    {
+      "identity": "ETuPS3kRfLufz5VSYN2ZrePoEVSZSpgVPKz3MUZpYe3x",
+      "voteAccount": "2Bgb4T6Zdy9iy2S3xxDRpwdgQHpitoDnZt5aBnCwv3Ez",
+      "stake": 254598550429186
+    },
+    {
+      "identity": "3KiDz3wuZrJfsgKt5KEvRb1WPpbci1PWj78aPVF5ei3F",
+      "voteAccount": "2s2K5hcECd67832EzrVMCiCtbb54CHsqXtewuwwNVqtA",
+      "stake": 253643651328319
+    },
+    {
+      "identity": "PAWsME7oYbjt5TRNc11mBa33JhKnQr9AYherdr9YAZ6",
+      "voteAccount": "3ZUQekqiZoybB57y49eqtvSaoonqDwuNbeqEGwN88JkQ",
+      "stake": 253199514264353
+    },
+    {
+      "identity": "bxrAptB5ZpZBhoLedJpoGWY5hBjjt3zvVBr2323Rrq6",
+      "voteAccount": "bXr9MyoUAaGusQZ4gaUPmSZByHAV7RRGr1FhCW5tFh8",
+      "stake": 252004471217035
+    },
+    {
+      "identity": "BiGcsiuFCLuiTzXoQgfLdge9sfpwr55YzdT8Kp7bCXmS",
+      "voteAccount": "G8hvpQDLe7hGgYtWYt4TJJEbGbgLFCBJYiMi9pMD9Kk2",
+      "stake": 249356014422434
+    },
+    {
+      "identity": "KoLibrJsbABbtmtFPc7nPvDxT81rc4UPM7mY9xSLjpo",
+      "voteAccount": "34mSDco9FM8599y4QF1GJvyWUrPixeT3zRNZAvzNXF6x",
+      "stake": 248060193528234
+    },
+    {
+      "identity": "8T8AJfUCXwPFwEMmjca8gCRSktPrqbUBVa6ggNyhLhFJ",
+      "voteAccount": "DPsW8v7gkGUbPPRnraS5e163bDepd9tD537X9S231T2j",
+      "stake": 244494608220911
+    },
+    {
+      "identity": "DeXsDvvZzKhVux4YfDFE6p4acJLGzr8yKt5pSTjzZB8t",
+      "voteAccount": "H6rbcwuQtadcv9JvxLM7GEskF6xFXnrNT3iPkk4RfyBE",
+      "stake": 243557441228952
+    },
+    {
+      "identity": "3s97yjq2MhoPVPC3U9VeE3Z5S643Pweovg88ysvrQPw5",
+      "voteAccount": "D3QPJm7BDzzPeRG51YZSEz3LfV7GvFNu9NkcibzURxuj",
+      "stake": 242611067982655
+    },
+    {
+      "identity": "spcti6GQVvinbtHU9UAkbXhjTcBJaba1NVx4tmK4M5F",
+      "voteAccount": "49DJjUX3cwFvaZD5rCAwubiz7qdRWDez9xmB381XdHru",
+      "stake": 241289612644870
+    },
+    {
+      "identity": "57i31UEyDg4koaZMZ1wAHbYuezXv3AVaHtvJgJarxt3f",
+      "voteAccount": "Ev3gPXRo6TJeQ2QhxfqWFoasdoGbmDytYvJbUabEHfLf",
+      "stake": 241154923654427
+    },
+    {
+      "identity": "5aD6KB8g4MPt3xJafmMmun86hHMDnoFiGbd5gYiMFZw7",
+      "voteAccount": "QWmexgr4teHa2ZF85tyf2hvEwBvJ6ioAEr1h8DRjoie",
+      "stake": 238611145608314
+    },
+    {
+      "identity": "8pyp3vfVPRziYdAYEyqkwytdBbdVbQmHqfQAVDcRV3w",
+      "voteAccount": "GB44NXtM7zGm6QnzQjzHZcRKSswkJbox8aJsKiXGbFJr",
+      "stake": 238509026855783
+    },
+    {
+      "identity": "gridqZmeBcsUKT2Mv4M9YFHFN3tVLFb2TCtTcLD1cAd",
+      "voteAccount": "gridZ5cMHjWGktAQt6o36NtF7XSv19nJBrW83zmo7BM",
+      "stake": 238114711609259
+    },
+    {
+      "identity": "zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX",
+      "voteAccount": "5BAi9YGCipHq4ZcXuen5vagRQqRTVTRszXNqBZC6uBPZ",
+      "stake": 237960807395834
+    },
+    {
+      "identity": "9gFxqsXbFyrKXUkqpAatonn47uYZ7sEZSnMxhzQoXrUJ",
+      "voteAccount": "48oxpSHQkM4sdXUY9NQ8KnEtebzZbyk8uUT7JRdVQNuf",
+      "stake": 237080887227220
+    },
+    {
+      "identity": "PAD9aPiKJGcbGxuVLbc8o4Vf65GPq3fJQ7PkHWuX6a8",
+      "voteAccount": "1234LB7uvDC23rdCQoK8C3jNwnovUNyeKxz8wC3dghJ5",
+      "stake": 236931283673954
+    },
+    {
+      "identity": "1unarWPGGseFag2WfnoFv8o9P7vTPU8eHex9GinP3eY",
+      "voteAccount": "LunarE7WQyxpPwKo2hkEZZquu6UDWMNjvf3JyzGmdfp",
+      "stake": 236012974207083
+    },
+    {
+      "identity": "CjmXSapt1ouz3CZzgkRJckBEwMSo5fVdVrizLeRscwYD",
+      "voteAccount": "B6nDYYLc2iwYqY3zdmavMmU9GjUL2hf79MkufviM2bXv",
+      "stake": 234587985214779
+    },
+    {
+      "identity": "HMWXfjaeSHhww1wvdBhqhHVP9v96mFB4LJ9xP2MXbDGH",
+      "voteAccount": "FwLsjPJdnSiuCvs1NXyR1cV6Sw5GRE6Lj2s1gZ9NNTmv",
+      "stake": 231778190787143
+    },
+    {
+      "identity": "BitokuDHQiAhpUKrwx1VssAAoW5Rst8zB6gpfoaxM3Kh",
+      "voteAccount": "6hZL2FZim27WkQccMfygvvXH2eow5u3wR6XUJHbMoeWP",
+      "stake": 231259733268411
+    },
+    {
+      "identity": "D4r6Rcua2L7nHHhdaiZe2k2bTfPg2WQqcNYpG6bugvCG",
+      "voteAccount": "8yPiZWMNYMhEqTmPSRc6LsWLFC8pewYEzmgc5kRCLTrZ",
+      "stake": 230531392275034
+    },
+    {
+      "identity": "yJeahQNRHNWtL9Z1SqPX3SBwTYXr5ECMYYVK4uYVwxt",
+      "voteAccount": "J4pH3yiFrzFG1AQPRGBJXo3HP72MCZwsQamtp9ym4LwN",
+      "stake": 229053751642625
+    },
+    {
+      "identity": "simpRo1FrQYGa1moicfgnPDp6KyE38d4gYrZzhjXYJb",
+      "voteAccount": "Simpj3KyRQmpRkXuBvCQFS7DBBG6vqw93SkZb9UD1hp",
+      "stake": 225581547995922
+    },
+    {
+      "identity": "forb5u56XgvzxiKfRt4FVNFQKJrd2LWAfNCsCqL6P7q",
+      "voteAccount": "76nwV8zz8tLz97SBRXH6uwHvgHXtqJDLQfF66jZhQ857",
+      "stake": 222453766532395
+    },
+    {
+      "identity": "vvvvbtDs9HsdsE6NskZMnb1RA6muoud1ChQuiF9QhSM",
+      "voteAccount": "RaydiumJDX8X6om6Fg44xyqz5eukZ9KC3LX61SttLbH",
+      "stake": 222259812572498
+    },
+    {
+      "identity": "3WDh9HgusCujDmXCVhophLrHvoKHQd1Sd4uFHz1Awo35",
+      "voteAccount": "9G19HT8xqceG7mKQVSrTRS3DGnGqDHErPyQEaEfyWEuW",
+      "stake": 222145518102880
+    },
+    {
+      "identity": "2mDrrmhSzpSyaF12izGk8hnFjtKCGeCFPwQHpRiJDby2",
+      "voteAccount": "9wQQnnnkk5b5GkQWTW9L4kEA3CjFv6CqsQd5gt6tRsHK",
+      "stake": 221885759522329
+    },
+    {
+      "identity": "Tri1F8B6YtjkBztGCwBNSLEZib1EAqMUEUM7dTT7ZG3",
+      "voteAccount": "tri1cHBy47fPyhCvrCf6FnR7Mz6XdSoSBah2FsZVQeT",
+      "stake": 220508624798619
+    },
+    {
+      "identity": "EQhTjikb1L2jvxsCaSW2o2TuRXh4Do6HzBEWCxpeM44W",
+      "voteAccount": "Eajfs6oXGGkvjYsxkQZZJcDCLLkUajaHizfgg2xTsqyd",
+      "stake": 220402907836109
+    },
+    {
+      "identity": "8yjHdsCgx3bp2zEwGiWSMgwpFaCSzfYAHT1vk7KJBqhN",
+      "voteAccount": "DPmsofVJ1UMRZADgwYAHotJnazMwohHzRHSoomL6Qcao",
+      "stake": 219767467958951
+    },
+    {
+      "identity": "9bkyxgYxRrysC1ijd6iByp9idn112CnYTw243fdH2Uvr",
+      "voteAccount": "6W8yrMwtDU5G6ErazhZHfLjqZV8cMvajpSRGYgrZ3d4v",
+      "stake": 219749627506989
+    },
+    {
+      "identity": "7Nn8qBJey7vXtVFMNBbbuN8UkujU8Y6nWzbHVGuf49yV",
+      "voteAccount": "6SF5cmEXFFEmnFd5BwM4J6NkZhh3WfPkgmqdoAGjLLPX",
+      "stake": 218389514605926
+    },
+    {
+      "identity": "GWJyUxzcVwRRtpLuLiu1mpiUQsZ4onYFAYfCjQnuLmz5",
+      "voteAccount": "9KgZYnDzHhQANoJ43Z8czkgXYdTjtWLRrH9nDf42gqa",
+      "stake": 217546854564075
+    },
+    {
+      "identity": "AEAJtnjjB19XFreJH21UP8rfd12f9kxMmngwZG3tGXbP",
+      "voteAccount": "QhyTEHb5JkMBki8Lq1npsaixefUyMXWJtbxK6jNjxnn",
+      "stake": 217338801686370
+    },
+    {
+      "identity": "7mF8NZJdREuM1uwYcvKffuY9QJBEoHhNp4hZ4NS2fuXW",
+      "voteAccount": "H2tJNyMHnRF6ahCQLQ1sSycM4FGchymuzyYzUqKEuydk",
+      "stake": 217026883974723
+    },
+    {
+      "identity": "73hojLdq1vZDSxeVQEqVFJ4iwLngdvEJPEpEHkSdv6BZ",
+      "voteAccount": "Ehdn9LdjTAURQSMoDPERXLehtvzy7QD762wwPkzGT7RS",
+      "stake": 216878732618298
+    },
+    {
+      "identity": "RoYFUUD7QD9aQ34UCMcwfye8dC5YvJeXz2J3mmoy5S4",
+      "voteAccount": "2ayMCC4aizr8RGg5ptXYqu8uoxW1whNek1hE1zaAd58z",
+      "stake": 216601934969284
+    },
+    {
+      "identity": "THWsLPufeq9LWs2H9vYPbtFwdxAHbQHvSbT6pztG8x1",
+      "voteAccount": "THWfRpcJSC7oDrNMSCcixTZmCHVBTEVQL4qnd1UTD1x",
+      "stake": 216440518204795
+    },
+    {
+      "identity": "AsMpvJ3DZ2Ydu1WTRMAyMH4QjSLiUG39rKzfzvtE1bWr",
+      "voteAccount": "B1w6SZcyvjyp6zEyStcc8u9AxXAh2AbYvNzMmP9rRKE9",
+      "stake": 215906792151514
+    },
+    {
+      "identity": "FACb6bbTDRBHCK999V8ox8jga5JBnt1r3vvzmAYAMv2o",
+      "voteAccount": "FACqsS19VScz8oo2YhdMg35EsAy6xsCZ9Y58eJXGv8QJ",
+      "stake": 213722610234628
+    },
+    {
+      "identity": "GkFT5nmcFVmJiLwuE98PjdF3LReMeq4WbejFHfwrnsgw",
+      "voteAccount": "9RXDftY5xyhtYyzk4z7U9ddvBF2Z8DMfXmV6P6du9dxS",
+      "stake": 211062749009896
+    },
+    {
+      "identity": "ABC1U4cf9DZMwqy8ktEr4WJj8VHmVBQibbC57gEJthwY",
+      "voteAccount": "abc1zP7ihWsgQW8z5YmfQNqMckJE5Dfx8fwUNMNVNkY",
+      "stake": 210692977832450
+    },
+    {
+      "identity": "idCE5k2BtTpwXdwAC7Var1enT9reut9fWECcxQP7LY7",
+      "voteAccount": "Cer1umMkC6cvRGKKLP3QwxsdxsgxmC1EhqMhB1mqVvYZ",
+      "stake": 210000310441230
+    },
+    {
+      "identity": "NordEHiwa6wT5TCjdeWJzpsA7DSmWQPqfSS7m2b6cv3",
+      "voteAccount": "NoRDTy8jpkpjPR7yxahVdoEUPngbojPhFU5jb8TtY4m",
+      "stake": 206968957068205
+    },
+    {
+      "identity": "4QNekaDqrLmUENqkVhGCJrgHziPxkX9kridbKwunx9su",
+      "voteAccount": "GNZ1PAAS33davY4Q1BMEpZEpVBtRtGvSpcTH5wYVkkVt",
+      "stake": 206603065642200
+    },
+    {
+      "identity": "DViARWAWKkxAzp4UCgbw5B9pLSrBY3PaztFErcwgVUKX",
+      "voteAccount": "HeTyhZdUKswQoonJJTXqAnDN48ceyVAeFaKfYKayGPNS",
+      "stake": 205894428868367
+    },
+    {
+      "identity": "mrgn28BhocwdAUEenen3Sw2MR9cPKDpLkDvzDdR7DBD",
+      "voteAccount": "mrgn2vsZ5EJ8YEfAMNPXmRux7th9cNfBasQ1JJvVwPn",
+      "stake": 205514880998942
+    },
+    {
+      "identity": "FwnWx7x99rGwLmipzz8ii15NqcHkKRo2oS1Y7j6LivgZ",
+      "voteAccount": "9f7dqiYNBZbgPesAnLeWnKCtxYHSfMg5x1EMZCJwVwG7",
+      "stake": 204588843408960
+    },
+    {
+      "identity": "CPcDFHCAKkr5Kp9T5aQWJhXV5J6iFj141NMQ87L6poPL",
+      "voteAccount": "8n9ZTVwH2ZMTmCNmAgT54TUUJbLRLCDDy77nBpVzGEcE",
+      "stake": 202998557889720
+    },
+    {
+      "identity": "sTEAKPk59EtPPbixCweyv6oRLNCDEE8pnnef6gUfbiW",
+      "voteAccount": "STeaKrJdxdPMww27XJsjRBfrzqfjFT1BxotgQtFyDgx",
+      "stake": 202511436458490
+    },
+    {
+      "identity": "Stakex4B2tpDHPWGvV1dninfiaYCGdakgTknpzPitLh",
+      "voteAccount": "StakeyJXE1yJbEApBVswHN4JdZXcj7V5MHbzffa4dFp",
+      "stake": 202258780195231
+    },
+    {
+      "identity": "SLNDCSGTEsA6KHpgR32MBt9UAurZnVSJGUtW2tRpdU2",
+      "voteAccount": "SLNDoinxE7cCgE5ga6FJZ19F4FiUaEmtzSatbY6cjWy",
+      "stake": 202239198778667
+    },
+    {
+      "identity": "mastWEbKEMjvBCd1uaUBpNjWcfSPhXMWnH9tTrgzn1g",
+      "voteAccount": "masvNDXtxVVMrYSV84RMry97JyHXAFcdfTZJ5VzpSYR",
+      "stake": 200679535368573
+    },
+    {
+      "identity": "NLMSHTjmSiRxGJPs3uaqtsFBC2dTGYwK41U18Nmw5kH",
+      "voteAccount": "H4QVPxS7napq3NEYxqLhxbKi9nJ8s56dD2EQZGsyZ3sb",
+      "stake": 200001970906846
+    },
+    {
+      "identity": "Hj2jzpAp57KyM3SmnYwJbDVrQ8tTWizMon2hhzYzwxet",
+      "voteAccount": "686JcEJ98r8fMtUiVuKiz4WRoBpJ2Sm9zMhdc2b6H4bu",
+      "stake": 198900515010124
+    },
+    {
+      "identity": "ciTyjzN9iyobidMycjyqRRM7vXAHXkFzH3m8vEr6cQj",
+      "voteAccount": "CiTYUYPAPHdcri5yEfsmqVcs54J6j8X1QaiFLgYqMVe",
+      "stake": 198379732253731
+    },
+    {
+      "identity": "VALiDcyCpujxjJAZDK2av2TpMAigpSodzj2ApqgR4e6",
+      "voteAccount": "VALiDsfZKafvvQM5CMHhJd6PeVx9UpeDEC4Zk3WYikz",
+      "stake": 198204676682017
+    },
+    {
+      "identity": "kom1oNHyyt84XLGVfi5Jo1qkVkU5xG1sBxPG19rWknE",
+      "voteAccount": "25quQGzrtcU224Kk7G5YDJ9oJXgYsiur8pZ7pAnCMhhV",
+      "stake": 195070036486395
+    },
+    {
+      "identity": "MBVyz9s72WSfUmbr1S8fgHjDJQkPs1Q4Wxi6A2Mees9",
+      "voteAccount": "3vwstewNgWAwN2uyuJduoZVVhmiwvAbwCxrjeJG6bASy",
+      "stake": 194822233053934
+    },
+    {
+      "identity": "F3tdN8SoakjEPb743VY18YyKJWYHo6rojV3nkas5YJh8",
+      "voteAccount": "EJ59wFK3qPrnsFFSpZ7jSwCnXe8hVQ12heXYUqry7Muc",
+      "stake": 192876881173686
+    },
+    {
+      "identity": "8AkVj5aAtJ27tYXeq89cnSf68V43NarFHMx2iSDjZv7c",
+      "voteAccount": "CV7uvPY1Hk5Avb2NvkGJoUzGnipZrEZK27j5rQJoUae9",
+      "stake": 192606678173290
+    },
+    {
+      "identity": "B4dn3WWS95M4qNXaR5NTdkNzhzvTZVqC13E3eLrWhXLa",
+      "voteAccount": "5EYp3kCdMLq52vzZ4ucsVyYaaxQe5MKTquxahjXpcShS",
+      "stake": 192579500609048
+    },
+    {
+      "identity": "ArMBx6veRq33ffEP9sxHafiPRgrtzww4XvbwZbSMfXiM",
+      "voteAccount": "GW8GgoeBpLM4TpeR2ePVcYYSoySBaKJgt2JiwoyjXRz3",
+      "stake": 191788903261555
+    },
+    {
+      "identity": "CTwsruptUccEtZGNxBDbuusHYxkBX3P6ndrxVjSG213y",
+      "voteAccount": "Fhks5gukimP6vxKYbRY4V1aw888EgHhpdDSscD9V6bub",
+      "stake": 191614309411443
+    },
+    {
+      "identity": "Ed9WjPnZfAXsPttcqxMwj94qsuXVRyBsyXnDkxFva2Zv",
+      "voteAccount": "4YykTGwg94GgHZEPSsQfbaMaEE9HHAHqSuXT65L6C6wf",
+      "stake": 191325675447467
+    },
+    {
+      "identity": "91oPXTs2oq8VvJpQ5TnvXakFGnnJSpEB6HFWDtSctwMt",
+      "voteAccount": "Ac1beBKixfNdrTAac7GRaTsJTxLyvgGvJjvy4qQfvyfc",
+      "stake": 191321750487243
+    },
+    {
+      "identity": "GGX3BEoZDqjxcw4AbCdu62ZTMrkpSgmPt81oP2mVuZNS",
+      "voteAccount": "Cat8oWQiFfrR3c7BcceTYcpnYCzSWfCPjMXT7mfHXvEP",
+      "stake": 191097465061878
+    },
+    {
+      "identity": "8n4pc4sCJtBeLfJdGyJn6EcZuhtfTiepRa9ExdJFdmEN",
+      "voteAccount": "FnAPJkzf19s87sm24Qhv6bHZMZvZ43gjNUBRgjwXpD4v",
+      "stake": 191067587006975
+    },
+    {
+      "identity": "9FXD1NXrK6xFU8i4gLAgjj2iMEWTqJhSuQN8tQuDfm2e",
+      "voteAccount": "2g2QU1NDRax6i2mKzRwgRfdBFoDkMC6bj7Zp5Q3i8sCq",
+      "stake": 190650251067706
+    },
+    {
+      "identity": "adramSYKBv1yHoZTub4kepcmF5LybPxwyJcsz4fpfi7",
+      "voteAccount": "adraBKLNY3DL3pg6SJRDYiMA8BsznaWpUdE42X41gbP",
+      "stake": 190293794344272
+    },
+    {
+      "identity": "H8fHToVcZPi5bupGZohGPX2SWs8NHzgFKQ31wi5n6oux",
+      "voteAccount": "FKBPfTuoqdF9yTmMJowTukend68EnyWXQXdc5Cxd5rSa",
+      "stake": 189484614648784
+    },
+    {
+      "identity": "AwcMVMvmT1aCETVYV42WE1cSMCyNp4vZqVjLsvs6dM4o",
+      "voteAccount": "57QggzHa8AEELBU3C8RG567oGmbG6VyoX5jsi6M3gaHp",
+      "stake": 189436106380163
+    },
+    {
+      "identity": "6JKwz43wDTgk5n8eNCJrtsnNtkDdKd1XUZAvB9WkiEQ4",
+      "voteAccount": "2LrSZWeyvFovnzVFpFPQE7Lxt64xs3s3Re9HLxMJtGwf",
+      "stake": 189367702342207
+    },
+    {
+      "identity": "HyperSPG8w4jgdHgmA8ExrhRL1L1BriRTHD9UFdXJUud",
+      "voteAccount": "DzQHN1oTdN85Sbku2bc9Fu9yEwrgRMiu2XbRcntZ31yb",
+      "stake": 189266378110044
+    },
+    {
+      "identity": "puffinQSvKFriPbyE5atyx1ptfnyytovbzxybr1jsyy",
+      "voteAccount": "PUFFiNkUHF2DMfbKeUcYTSQckDDtkswfxZCDv5WQqwp",
+      "stake": 188711105127512
+    },
+    {
+      "identity": "2P9ZYA4vBoBBr56hrEFTmrd5ctuz3r7wtvRYmbgk6jRL",
+      "voteAccount": "FGtsnE1HB4bBi6g4xAt5mvWtuC3qBPWPBgWVrnRmUiVH",
+      "stake": 188614651684964
+    },
+    {
+      "identity": "PuRposE4utktenW49N8DCtVzdVEwYrmsrroboEUram4",
+      "voteAccount": "purPoSEsip98bLpbh4K7GKZYSdRmEJJKdxSvL6sg3uX",
+      "stake": 187102126495680
+    },
+    {
+      "identity": "ECZx4Dfyn2o55KTYbM9r3Dt4VZRcrdfdrst7sUbWgrdU",
+      "voteAccount": "3VZHxnkK1A3HYeWYaqgMebHnc2acgLzRiXYwTNm3ooYM",
+      "stake": 185852701509393
+    },
+    {
+      "identity": "BeSovDCzhEAfgwDyXBuhmCFKsu5WQ3PaX61GEfteNzXM",
+      "voteAccount": "BeSov1og3sEYyH9JY3ap7QcQDvVX8f4sugfNPf9YLkcV",
+      "stake": 185644380396373
+    },
+    {
+      "identity": "HrpWeJSYnQVtZe3BKxFCBrAEr8GRCmYUbQev4hoGDBs6",
+      "voteAccount": "EZCQcPkgsNS5rnfoAWRsVZNGEo3GoZSVV4qSdeWrXzhX",
+      "stake": 185575704027880
+    },
+    {
+      "identity": "8ebFZA8NPLBZD91CwsG1HWQsa2B5Ludgdyf5Hi3sYhhs",
+      "voteAccount": "9tedbEYypEKXAMkHcg42rn3fXY1B8hB6cdE3ZTFouXLL",
+      "stake": 185405216634244
+    },
+    {
+      "identity": "Ee8dX3qtwrDRnxYK6NGQfmMeKT3Qpp2QZHpxiAiw23W9",
+      "voteAccount": "5szskKdH8nfnUuHTvn9hnhH3Xuvo7RVmcDDvD5WD7yNh",
+      "stake": 185146334803238
+    },
+    {
+      "identity": "8GLRbAstsabZuZUx73AoyfGi1FRCWSUhRgMugFyofEz7",
+      "voteAccount": "7PmWxxiTneGteGxEYvzj5pGDVMQ4nuN9DfUypEXmaA8o",
+      "stake": 184905879476013
+    },
+    {
+      "identity": "7MTjmteQHhthwwTZhUzsc2dP4NBvGNRqj8jzdqNxHFGE",
+      "voteAccount": "ENVaKoD7ytn58xJ8s5htFfQ8hqQt1G9dcPUDqbSwVcgB",
+      "stake": 184869409692460
+    },
+    {
+      "identity": "G4GT8z4AKWNoy3x6nuzxW83UfFXLXzrwn7DZQt4GvWdU",
+      "voteAccount": "77i1Ryv5bLp45yNeJCwCU28f37fGYspvRtGbNyxsD6Qe",
+      "stake": 183840441575342
+    },
+    {
+      "identity": "tcrkE5QNG87Zbexm6fdWMbn7A5MjLC4ML7i1JfHF7cj",
+      "voteAccount": "vskzrzSd6owQiNb2YA52ZM4YtRzmsSyp6dJbjx2zTVN",
+      "stake": 183594644931311
+    },
+    {
+      "identity": "4vcmYPfLztUckU3c3FvXDwSq8aDNDqwEpvEiqAv97LGJ",
+      "voteAccount": "8xG2YekjpQYLZLr8iWa6ZtFo79jYEhgySk5Khxq2MYbN",
+      "stake": 183017221858968
+    },
+    {
+      "identity": "GFXVa19rX6iwfs3sLS5UvX9Exu2usRsG4V5MRMDRo23V",
+      "voteAccount": "GFXVa1g8zzAVDRnSuB6o9PnHuyH25ADvy2YJPZLpATuP",
+      "stake": 182861218630287
+    },
+    {
+      "identity": "2XmhZKHmfjku3T3nC9xKhgr5bm1CAmWXqNsNt49mo82C",
+      "voteAccount": "Ebm1XKkMzaFg2L5rzLPBnFHMtpDPa6SWJ7nVUzZUmXmR",
+      "stake": 182378771640046
+    },
+    {
+      "identity": "EUDis6LJeJzDHTEBgfHGQyjHp63XZkGkx4E69xunC2Ej",
+      "voteAccount": "steakxfubt37xYdvuXz7BV5Uhhhk1FyJx9zGHfDcTVr",
+      "stake": 182148534527477
+    },
+    {
+      "identity": "1KXvrkPXwkGF6NK1zyzVuJqbXfpenPVPP6hoiK9bsK3",
+      "voteAccount": "1KXz4xKV2viJCGpxqnQqdf2J45vQr5USdmtcJLTaHkm",
+      "stake": 182114423445966
+    },
+    {
+      "identity": "EydLxzdWfD434DDxZYXkTcajvK5VKH7p6CofEDCRUkJ4",
+      "voteAccount": "7Eg46UwGgsufXdd9C9kF27UAyD2t4VdmCdVTtPFoqxCy",
+      "stake": 180951841760852
+    },
+    {
+      "identity": "97jbhVBYcSmwGXjrx5PPWXucDsVBqwyoQ6rzP3B6eeMt",
+      "voteAccount": "57GUg9QH2LFMV11oaduuoqVJ5qHDEp7EGJ2xgkGiqAum",
+      "stake": 180779299086737
+    },
+    {
+      "identity": "h3ZXAE168mNxsszYYrUfkMVSCWx6DU2Uvrx97Kb1Nch",
+      "voteAccount": "Ec37CQZjwRgGnuMmUi3BnEBXS5Xa3siakAPxPkHtahSf",
+      "stake": 180156876675115
+    },
+    {
+      "identity": "4DraK9wUrMSpzbGjUbSWTHAhJimMyB49HyKhvfwe6e51",
+      "voteAccount": "D9BcS9Fasxj7zNv3kP5rHErv7aFxihi5EBZo9xUqaHeh",
+      "stake": 179081952122133
+    },
+    {
+      "identity": "Av8EnYrPBnSJHK5e2wmTdnCpSy7nzmBgyFaUKSyLnBfe",
+      "voteAccount": "3QPGLackJy5LKctYYoPGmA4P8ncyE197jdxr1zP2ho8K",
+      "stake": 178974772151337
+    },
+    {
+      "identity": "2zykwzzo1pd3H2oSj5j5SRLTvmpa9Nr2S2Bh8tTVd5Tq",
+      "voteAccount": "Hmq1oALENff8DejgYhJxB4njb6pyCtuMKKxotdZicB4n",
+      "stake": 178950291284831
+    },
+    {
+      "identity": "BR1aTt4ZZUCwWJDkSYf1hqkYJjo7Mb7Ar8iVTkeSwUB8",
+      "voteAccount": "AbacusTT3yhEFEKkQKjGStDhKDnvSFGpg9EqBwz8FnDF",
+      "stake": 178292788914462
+    },
+    {
+      "identity": "A23LfQn6khffj2hGhGfXr6P52W2pxrVcCaHVQLYQgiX2",
+      "voteAccount": "53RJBy7aBGA7Aag6AryxEmBbsHDgwfBWagLrPbGHnfvR",
+      "stake": 177488666838117
+    },
+    {
+      "identity": "By8MseMKtZQQaQjMHJiyetmc5AC8RZZv8C2ss33ktrHt",
+      "voteAccount": "H1kyn75BFTXr8QRmToRRvuEEmYan5n6M5APyfhMLau3b",
+      "stake": 177260996331835
+    },
+    {
+      "identity": "3DaPk6TdeGnEBwTR8fEyZSLkdayk6vZXrqGZhAgYK8BV",
+      "voteAccount": "2ZiMfQaT59j86HVWCvspuMtBotnVBeTc3BKk3kKpwgKP",
+      "stake": 177066988054739
+    },
+    {
+      "identity": "7PpXQgDb9eCHN1Uudgi77Wm89cRz4T85YgDw83qvaJXd",
+      "voteAccount": "B8Jud6Mqv1FSKpjBM2hPBqoPhGMAciX2UqR9WcepDF7F",
+      "stake": 177012475247955
+    },
+    {
+      "identity": "FjYEr2UCeFzNfAKiFrbhG34Zv8LxbmfHYAFhAfc7SLQL",
+      "voteAccount": "21wUViiyG1g47VZ39ZZsSkFX9nu6bkyfy6jryHGD2TUB",
+      "stake": 176925058975643
+    },
+    {
+      "identity": "vaoJKVZYPAsqc52T2nNQhABR1gU6Cy2koDKfCQaEiva",
+      "voteAccount": "voEskim7SFWrPx1tV2PVisqyrJejxmDEARX11mtZ5vo",
+      "stake": 176150222591876
+    },
+    {
+      "identity": "KiNGTLWCgoqLKn266xxT2Zosko3FumNv7Z4V7V9cyKQ",
+      "voteAccount": "KiNGunz943rm3mJmnbELCTSh61EPqbNATFiP9XbFb9G",
+      "stake": 175695693613514
+    },
+    {
+      "identity": "ChB6C6dmNujAi79XtQLPKLL5SWdNLMShA7KKnrMMFF52",
+      "voteAccount": "kWEiSEQZMeLAbMUiz1njRTZEjuSpJDCgVynB6pJHpcr",
+      "stake": 175505786681583
+    },
+    {
+      "identity": "jagBNeXYncnn1hzwSq1JJ16XhWTgQ7DCFVqndSJZ6vT",
+      "voteAccount": "jag77EXci8uf5uGmKE5izaYvxBCS5H9U2rxWYh8BUUf",
+      "stake": 175408230753678
+    },
+    {
+      "identity": "5S1vPAd2MRJ9WyLAK8mfLQ2Jz43oQHX5pFGVkAyaxLb7",
+      "voteAccount": "6rDXRJdNVxWVgtPtnsHV4hqonPPrumNaa3VUMPMRhMU8",
+      "stake": 175322844337843
+    },
+    {
+      "identity": "5pZvwjSpGYCxpJeySwSbSAji7kZe4YntL7rQvXM3YcNT",
+      "voteAccount": "4vqwZsEEEsKtSqqEWbLyFAciWg66jGLP9zrbcZ1Hsrxb",
+      "stake": 175279707703802
+    },
+    {
+      "identity": "FGj2F187dqKfCQLfa4NvRPhiTeXwm8LZDCq4q4z5g6ai",
+      "voteAccount": "6AAeoHYMUQfSdFGqubUmWVAasFkzJEq47oKpHNNTZxLN",
+      "stake": 174964833568376
+    },
+    {
+      "identity": "RLMS1pv3YKi7CSUCKTNcFN5fFkXJc2SmCwPhbQpqZJo",
+      "voteAccount": "RLMS1xvot6R9RCDbCtZN8toXGm1ceJHXnBSNC1wY3FU",
+      "stake": 173913232408408
+    },
+    {
+      "identity": "bonkcbAQvHpYWxEG63E8ufTB1cxkkk9eAKaPdGePE88",
+      "voteAccount": "bonkYyhB6oWHP6si4oTSXKnEQZTrrCyGZLMgt2VqgHP",
+      "stake": 173666389786639
+    },
+    {
+      "identity": "6qwYjs5vCSEKaTMBbHinnW8fvdGj1r8cpzPoAV1EHKsw",
+      "voteAccount": "Azc2uttGtHsRLorfQzd7tsMNtfaEg7LyvVEMVtckPCNN",
+      "stake": 173589340703580
+    },
+    {
+      "identity": "7Hp1e6BrTBkbBN4wFiNmycPVPsjvyUUBL2tGhYEMT6gt",
+      "voteAccount": "CwSZ17woioM2bqEbaswZJYvx5pemN6t3shBcU6zqPHyG",
+      "stake": 172903441533008
+    },
+    {
+      "identity": "CVRr5oHCAAooVbYze7CvXtRp4FUtkMCSqBZU7MVu8v8e",
+      "voteAccount": "cover89z945JotsCRGdbjakJm4rnL5XspFSPgN1mVZj",
+      "stake": 172339100723623
+    },
+    {
+      "identity": "ADjyeNzWd8yhEjCVyAqT87eqoyGRbimERQsNhFQcXjop",
+      "voteAccount": "26RGqX3mezgYDxJnGh94gnMM4L2k9grH1eWcTSCHnaxR",
+      "stake": 172149652877256
+    },
+    {
+      "identity": "Crg1X8FftV44NmwfFvgREjanBQmyyS7NEu6duLU7Cyy6",
+      "voteAccount": "323d4ZiSqS1PwGwpJwD88jNPaGqkm7YYW2tJt2T8iFzo",
+      "stake": 171871127278965
+    },
+    {
+      "identity": "GwHH8ciFhR8vejWCqmg8FWZUCNtubPY2esALvy5tBvji",
+      "voteAccount": "3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD",
+      "stake": 171514457339494
+    },
+    {
+      "identity": "FnRqe316RrxVBv85EzMgcuWaVLZYYuyEq9znJnSZAu55",
+      "voteAccount": "6hkfqeNAbURk7CmAQsP4Qm6WwHVF4LxHupEvQf7Tkrf1",
+      "stake": 169824463537361
+    },
+    {
+      "identity": "6xUK9Nbonr4eoJNtHGoUEMmYKoPz5mipKzyDBv6deX4d",
+      "voteAccount": "8vyuJTHSDkx7k1zymea4TMsgvixf3rCYBXHPDQajePkE",
+      "stake": 169371328441980
+    },
+    {
+      "identity": "4VrjyXQT61WFSjuG3ehgqZUK1jqvYqB46veQbXLotq3n",
+      "voteAccount": "FahWJg2PkphJaMUUCzdYhXkD5NngUuuFRFD3YCE3BSwb",
+      "stake": 168854510538441
+    },
+    {
+      "identity": "chdvWr6T14nqGRFD37KY36dsvhkCtDaufW5rpu3AfHe",
+      "voteAccount": "chdv8H9fPfk2zFqSVaxRjsEo2qEDmswbju3BVgAHPNb",
+      "stake": 167524890241278
+    },
+    {
+      "identity": "6c6RrC9TWNgiVXnbZ6hehNuhyh81pZK1yAj5w2nXZTwi",
+      "voteAccount": "5eJQDSbgTZSEmH3zSWDEdAKgjavUUn9BkouCFNLz1x93",
+      "stake": 167445657146607
+    },
+    {
+      "identity": "61QB1Evn9E3noQtpJm4auFYyHSXS5FPgqKtPgwJJfEQk",
+      "voteAccount": "5iZ5PQPy5Z9XDnkfoWPi6nvUgtxWnRFwZ36WaftPuaVM",
+      "stake": 167210973149690
+    },
+    {
+      "identity": "BLUEHGDihXD9CqqC5XFSQzDC3aS5jASohb2BAsXaJokR",
+      "voteAccount": "SmithX2hngQMZXVN36C6TsyjthTU3YnsALAs1MaDghV",
+      "stake": 166967973269355
+    },
+    {
+      "identity": "DCdTPyDbXNHrmdv4ZyPPzEfY4mPAqH4hDPtowAteoNgv",
+      "voteAccount": "DSzLJLUQD55sxaCsJBHLFSV1SYngMmT7oY8rLpFhyGgb",
+      "stake": 166836432670841
+    },
+    {
+      "identity": "bay3wXfJsu9ds1zQBoQQ4DUwFGs3NP6q4gca9WM5G1z",
+      "voteAccount": "bay3rQMjiLPy6Nvi7tfNeVK26inBCxf88hKYyeKy64H",
+      "stake": 166313839282233
+    },
+    {
+      "identity": "6k1YkmTKwPRUhChnxA9ryJmbtuQMbro4xFTL6mL9jycB",
+      "voteAccount": "91413b9eEvG6UofpSgwdUgH9Lz4QBF1G3J325Bw7JwGR",
+      "stake": 166026776541135
+    },
+    {
+      "identity": "6xFDLX751L7H9d5fQT9sf2SM5RWWE9LDgqz25pPDbWoJ",
+      "voteAccount": "5CBkJdDPMWCmss3Y48B36w78Bgxur4mDib6tQ9yMKe1B",
+      "stake": 165947729442745
+    },
+    {
+      "identity": "11AMA4mnNbsrPQeuoNN7uiZVJZtqEzQHrTfa5vnbcjk",
+      "voteAccount": "AAAAQwH5KManM6mbxGLc1m1XnWcRBFDmdUgpZ4Ww621j",
+      "stake": 165782075338704
+    },
+    {
+      "identity": "4SgoyAwN26iu9Gpf12Bk1rnzp4G4yDUM3XVv4w7VQcAf",
+      "voteAccount": "sdo2QoiSsPknraeCts5GeBkV3AYDdtuxJ3VpYCS1CxR",
+      "stake": 165590642961665
+    },
+    {
+      "identity": "Pid6HQnMCFb9izqX9i7X6ePdUPieGmjHoPxC1Jfooix",
+      "voteAccount": "PineDoC593nrX16W8ZLWfF5Evb6otv7fRfZMLjPAHe3",
+      "stake": 165366982038693
+    },
+    {
+      "identity": "2uxEHizFmmnLekKG2LZJwxNabhpymEYfdVCpgDxjt87m",
+      "voteAccount": "Dcoj98wWiKhA4iqxcSg7NtuR2miA7tZqtycMdkPo8XDw",
+      "stake": 165105156602641
+    },
+    {
+      "identity": "5fSQdv4zsAJNx6RKpGho6sL6rY6a8nziaqcmwaRJB9NE",
+      "voteAccount": "89DXJe6XTDASsmyXJoPyRetLq1csRj9N2Bwn67fNvYGt",
+      "stake": 164855510975871
+    },
+    {
+      "identity": "SWiz7QwnYPm61pWWUUkMhj4r5pZLP1SvYibdHcB2cov",
+      "voteAccount": "SWiz8fJt7CV99Uv9VZTLGAkMP3vTpc6u7ZqNN5dsWXU",
+      "stake": 163671572895674
+    },
+    {
+      "identity": "E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo",
+      "voteAccount": "3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA",
+      "stake": 163335810079928
+    },
+    {
+      "identity": "VicAQ3U2GjjAuF3tPCtEQZdZKnpAAxkr5Q3zjDKmdo7",
+      "voteAccount": "ViKLknQuks11DLEjZ7Y2aNYAAT7Q3NTKLGxs8rdnLVi",
+      "stake": 163019050792226
+    },
+    {
+      "identity": "8uPW9msN75rfaKiwy8y8NxEX5zSk2WejtVv5YhZr3jCo",
+      "voteAccount": "5daP6pZoPSak6UEKuRg2HHjvTPpqqwB113oNamGNKuuZ",
+      "stake": 162480942331855
+    },
+    {
+      "identity": "9pBHfuE19q7PRbupJf8CZAMwv6RHjasdyMN9U9du7Nx2",
+      "voteAccount": "FCvNkHa4U3yh7AXWGGL2jWLWiSRouR8EtzY5WVTHKTHa",
+      "stake": 162479085700309
+    },
+    {
+      "identity": "5marvipGzf98hxnoJFXsZbGHSXcEQ3yRGJ4ps7D3V4ou",
+      "voteAccount": "i6PZjkPHGYmPfPE8LsJuLn5huZyusXhmysiDiHGPjxb",
+      "stake": 161410117319718
+    },
+    {
+      "identity": "PoN1E3VyqwqoGQEhC8ExpkRKTuyhxtGLnHHH3DwbgTU",
+      "voteAccount": "PoNV8asqSrjTr9vBBW4Y7f5PVWUCzUXByz2AqcTzv1j",
+      "stake": 161246150659459
+    },
+    {
+      "identity": "dcntruDNP5SEcGV4RxnsqXFURdDZGT3DTQv68Q8H7Vu",
+      "voteAccount": "dcntrKBwh8j5yL62Eg96Z5QjJWv3UXxMu4rqL82w6Cb",
+      "stake": 160905104001397
+    },
+    {
+      "identity": "BuoZ7q6faiJNTN24r7Kcj8dp96axs5XPEKXmWGsh2pDE",
+      "voteAccount": "GFWtwTkSkgc9RcAUkUxs7LyZ124DsBtcSnWGWwbrA113",
+      "stake": 160211158339845
+    },
+    {
+      "identity": "ALp2GdA1eJV8vZHMHazCtTxNXe3BLUSco9LDASgjDs8R",
+      "voteAccount": "4tuMshQNpAFpy1YtEHnSsE5EPN1mAT8FevWvn2UPJHNM",
+      "stake": 160178490693593
+    },
+    {
+      "identity": "5ivRNcK1yThcK3koZR1oikAfuNm6rj1LceMskayoVSzc",
+      "voteAccount": "GiJj4MFyM4sCQ1aYQRQA9tqwtZFoaBdSxgNitWjHc2o9",
+      "stake": 160110165552560
+    },
+    {
+      "identity": "SPHERExTW7GaMgS4RN6MbghYvXU2REfFWHgpxMH1P69",
+      "voteAccount": "SPHEREcukWjz5VUiGU7Kh3fWeN4neyNw1ma2qQHXmrH",
+      "stake": 158629438386406
+    },
+    {
+      "identity": "MCFmmmXdzTKjBEoMggi8JGFJmd856uYSowuH2sCU5kx",
+      "voteAccount": "2het6nBRLq9LLZER8fqUEk7j5pbLxq2mVGqSse2nS3tf",
+      "stake": 157653150564991
+    },
+    {
+      "identity": "fdzip81euDS8jEZHx5H1mn27zGVMLzkgpQuzYRBfBYG",
+      "voteAccount": "fdvtuDvWJZ89Z7TmeLjCwxgoLcmoEWNxruV48DvJtfm",
+      "stake": 157298986665695
+    },
+    {
+      "identity": "Bs19Z9SokV1s46jutN9tqqaCgYf1GsVyyytVfkzwn9qK",
+      "voteAccount": "5frYQSynysBe1akCVK9tNBJ5j8jgBgUsjAXAgqHxvykJ",
+      "stake": 155461954376885
+    },
+    {
+      "identity": "sbidYi7fbif6qNsMpwBKvyF5DKcLCbjaegpADsKqNux",
+      "voteAccount": "SBLZib4npE7svxFA7AsD3ytdQAfYNb39c8zsU82AA2E",
+      "stake": 154785026137879
+    },
+    {
+      "identity": "YuRBAsy9Stw1u46A8dMp7WQVBFweLP1PKuYibzYAMmQ",
+      "voteAccount": "9gANMngbGUmAaLXL1RC3JdiaLjRowJXNbzCTh53ht7mq",
+      "stake": 153963538382908
+    },
+    {
+      "identity": "5ysfTZ42VT1TjnjzQShZSrix7wdVtjXwssocSeYKDs5d",
+      "voteAccount": "ExYX8UKQTCf2VPtV9jbfqikeTV6tPfhzauJ896o91wtj",
+      "stake": 153912975878128
+    },
+    {
+      "identity": "WUNoB9YQXmXXRcJsjY1G8PfVag5aAfnyGmFd6YwJVwp",
+      "voteAccount": "BDn3HiXMTym7ZQofWFxDb7ZGQX6GomQzJYKfytTAqd5g",
+      "stake": 153141504556649
+    },
+    {
+      "identity": "3Pfubj3ytkRxFAGwFb5vtacuZJUxko5Du39xie9MBXuC",
+      "voteAccount": "94EhHE7MaKHq4p8oFADeyizDjwYwgFn1YBYGky8mR35z",
+      "stake": 153063529411727
+    },
+    {
+      "identity": "SscQkTYV2BFQYGGffAmTzvefrFrw6z9GNYiWHstVZ77",
+      "voteAccount": "sShosKd6uA5c1ZpVMxdsE6do13TLRWSMYsXbSMmNC77",
+      "stake": 152894273749773
+    },
+    {
+      "identity": "gVALrRd3xq4D62KJNGDCpMMGz976w2x1Vo79mSNn4bh",
+      "voteAccount": "gVot34jauJpexBL2YUSPBKsmZ4V2ffmDcRk4yfSEnx8",
+      "stake": 151727190160409
+    },
+    {
+      "identity": "4aRPyjsqqFsf5488a9QAaHJLQJMGwoL5P6wRtLmroe2d",
+      "voteAccount": "8EVaZkBcoJAAyyRZfozNAnZiEopgPvnixx5Ja5PpVDae",
+      "stake": 150122434011745
+    },
+    {
+      "identity": "PKdLMugp1Mf88Ji1GkdqRDBewaUh2cqg79CBEo6eJoQ",
+      "voteAccount": "PKvGYwh4efgythYddWAqGaPVuoZt8ybk7eXEoUqWxuA",
+      "stake": 149731875154211
+    },
+    {
+      "identity": "7VZM7YHcX73TpGoXDeBu61g4QKC86GwAEnew8dA7Y2xn",
+      "voteAccount": "HMk1qny4fvMnajErxjXG5kT89JKV4cx1PKa9zhQBF9ib",
+      "stake": 148336635001612
+    },
+    {
+      "identity": "DiveRaPKviyDnQyiiMFdV4rujsCBJzMNvPjKfvGNLGvL",
+      "voteAccount": "6hcGvZypizjf6PPsxboshZHRqefyQKSG9L8vZqYdm7UY",
+      "stake": 147305228455317
+    },
+    {
+      "identity": "hxMhrsuGPDmkLJ4mTxEjyeMST3VGhTiwJvS9XgHwePj",
+      "voteAccount": "hxVjzDmta9TuN1gM981TRKnfwG2uZ9TQDGwSCs3uDow",
+      "stake": 147164606149222
+    },
+    {
+      "identity": "N43JWBg42ZoUFMkHsRUVbP7wGVdxaHKanqaF9BBNiFC",
+      "voteAccount": "vanFfAkyFXFnj6TpmVwet6pJBnS4nBWNcJiE5GEsZ4K",
+      "stake": 145150767037742
+    },
+    {
+      "identity": "9PRr9k87HjjdLMRkxtxygidjxVta9VQ1kAsqgLBWXKdQ",
+      "voteAccount": "7obieMdVPKKcwEhhKizSkpdLaW1HMZh2ENrUDUhdGvVr",
+      "stake": 144905865809638
+    },
+    {
+      "identity": "2Rv9npqdWE1mLPsT1r2obn3xtKmA5afkxt8GsWeLnKoc",
+      "voteAccount": "BrRf2kyJEuW8TgdeDjvJcKK4NzTzRtM9RB6WuVKXHxkN",
+      "stake": 144389796042126
+    },
+    {
+      "identity": "6NDen7aDi65apHo8m1Vea4nuS6LyjQeM6pDNqcW4Q5Pg",
+      "voteAccount": "6cvBCfFXugkTqgSFVPvzhoWaLbhHWvZfSsZadWP5rryR",
+      "stake": 142302881422563
+    },
+    {
+      "identity": "2N7v8pDKDYhtBUJBQUgxvysUjgM9s4ULPCmeEiPWTf6Z",
+      "voteAccount": "F3scMRjzSvXUa7JoK2uwBjNsYGi5sM84sDzE7FfGBo6o",
+      "stake": 141708557655950
+    },
+    {
+      "identity": "D1A4F2yh38JLQExKjDiCi4G2tCMwj93c3sikseSSePKe",
+      "voteAccount": "5Syh63iLwvddy7HqhnQbLnQfJGF2wRtQ2AVay6oFQmYK",
+      "stake": 141610153852238
+    },
+    {
+      "identity": "4b1onMDEasBh4BuPekQWijx3BYR64hAE1z2jJyeZUkck",
+      "voteAccount": "6anBvYWGwkkZPAaPF6BmzF6LUPfP2HFVhQUAWckKH9LZ",
+      "stake": 141575204834679
+    },
+    {
+      "identity": "uEhHSnCXvWgtgvVaYscPHjG13G3peMmngQQ2ghC54i3",
+      "voteAccount": "5K8qgC9nHzKHSSyo9fKLsMfYmavYdMgEaYx86cMmVKVv",
+      "stake": 141203809991371
+    },
+    {
+      "identity": "DDnAqxJVFo2GVTujibHt5cjevHMSE9bo8HJaydHoshdp",
+      "voteAccount": "9GJmEHGom9eWo4np4L5vC6b6ri1Df2xN8KFoWixvD1Bs",
+      "stake": 141202596896679
+    },
+    {
+      "identity": "2AKKnirWVZMhnzuwqpizw9SwfZjGpRFLx2zCCNtPWpbc",
+      "voteAccount": "CHiaohVV2SQCFhiYP73iQzWT6HxnZqnAZJJqAYTeLAo",
+      "stake": 138269466034865
+    },
+    {
+      "identity": "9UbU7oaVXX6t7bMthxzzGPnWumFNxoWqUwX3qsrxb4pp",
+      "voteAccount": "3RGSTMXnGoeXW1y7uWpcBmQvhBQU6Tc8stxY72SuhN8y",
+      "stake": 137979016626539
+    },
+    {
+      "identity": "2VKu11f8zc3huqDQUN6WJTFpX32PgHpXXjf72P6YvYMd",
+      "voteAccount": "EUiPhYZ8NoWX5ZzDh2cRR1fAS4su9jjV3YE7veyactzd",
+      "stake": 137955497294966
+    },
+    {
+      "identity": "BxkAkLR2W3agWtjMXBNvhxmB8vsn7zhjNQcyfost99KY",
+      "voteAccount": "FSDKGroWxgBf7VmV6X1NLDhnncrWW2ekztwRWiJrPf3k",
+      "stake": 137596369003129
+    },
+    {
+      "identity": "FSyAsxcE7g8pSSEu5nx7Hkz44rMZiYio5Wz8Lszh3Nbi",
+      "voteAccount": "QXmsTYFK7YT2BpP2AnvXwuRpfwmsJZpovLcUqdSjoK1",
+      "stake": 137553120934173
+    },
+    {
+      "identity": "9Wmaz9VPpEnH67ZqrvYd9bcH66DtsGaEKcSQE1ac5wkf",
+      "voteAccount": "3Z1N2Fkfha4ThNiRwN8RnU6U8dkFJ92DH2TFyLWJf8cj",
+      "stake": 137389237665824
+    },
+    {
+      "identity": "FphFJA451qptiGyCeCN3xvrDi8cApGAnyR5vw2KxxQ1q",
+      "voteAccount": "5HScvYkTWL9iojhPv26xK7GqB7oBsj9A2qHCeNRFmdyG",
+      "stake": 136546925818279
+    },
+    {
+      "identity": "CwhdMezLucz7bcuWzStpLXgrzKGC2tBBiaVmJZjfprRN",
+      "voteAccount": "VNbW721iu6uVkrx246N2BiQth8u4b4SCPJwH3JvUovD",
+      "stake": 135123832499418
+    },
+    {
+      "identity": "mXv18ov8qCiQGs3ieoen981LdgZzYJjJak6reK6fpNC",
+      "voteAccount": "Mxv1Ubm71XoUvxrN3qjN8ii6Bh5b43NuuKywsWx6ox2",
+      "stake": 134806360003971
+    },
+    {
+      "identity": "2abwQG3v2xRemFxRszVHSfnjJNe9zu5X8duKgxjyLeaK",
+      "voteAccount": "EogKVYgic8LKAuV1kR9nRqJaS5zpwCvSMfqoehzmAMpK",
+      "stake": 134513155698730
+    },
+    {
+      "identity": "axy3tCRL3wmFMVG4c69rYurcf4fXhBo2RcuBj9ADnJ4",
+      "voteAccount": "axyQeKp44XqUnvC1jVHoeuAJ3j8wVnGeWtddeAcNYcF",
+      "stake": 134031054429222
+    },
+    {
+      "identity": "c3rtoMCHSbFrLRTAdw4iRowKSn4BrDtvSPbuyJwkHwx",
+      "voteAccount": "AuBB9st3RqhHBkzZgBSm6SVnHZNJQSHeBWCSkik4bzdA",
+      "stake": 133825561571128
+    },
+    {
+      "identity": "7Nu9ckgtjobZ3MkbadGFKEvRymYuah9HmcxiUJKMM9NB",
+      "voteAccount": "DPhzpiNGU9C6576uLsNSHmdi2AxwxpjMsRdh2iVC4TPh",
+      "stake": 133693183330350
+    },
+    {
+      "identity": "AvNsK6uxBBwejyPe7tZqgX4onaCnXTqKQvKRaTe9Ekya",
+      "voteAccount": "7rUTjy6KaEpZYCUx2xFP1W3s57kT4qGt6fN19osyLL31",
+      "stake": 133259801314558
+    },
+    {
+      "identity": "EN5F2BU5juUEWr9zRNNqKuQMi9zBUY1YLPHV5EyMrvnW",
+      "voteAccount": "9ymU1ayh9mZVyDL4dUUtXKtX1wCaFNzZPGutLJgqzuC1",
+      "stake": 132318079572015
+    },
+    {
+      "identity": "HVXXmNKkmDZbZwj74iL2Y9Wu4SyrchBoxAfFYVAktLrG",
+      "voteAccount": "644K33yWfSzc32VvY5fRUfUqphw8LTaLQntCkyEpJ8h7",
+      "stake": 132044682086124
+    },
+    {
+      "identity": "HwN6eoEe9N3kwHi66hpQDBMFPk6ASQGthWKPX5MZmisp",
+      "voteAccount": "HwcVgFSgmfeeF7zGFUBLoVA8Hpx8rtwyfCrJ1npBaSVC",
+      "stake": 131633673260356
+    },
+    {
+      "identity": "FdH9QEQBxPQfaF2JpcjgdfcMnDb7rjZkCDRCWLRjTQwj",
+      "voteAccount": "HcbE5huUVDgsf7SURsRfQqnFMp3Zz3i49eXMddugPyAP",
+      "stake": 130808006405327
+    },
+    {
+      "identity": "LeDbQ99QT342j9S5YdyXLrsq2Gu3T3dMGajExdAuE3V",
+      "voteAccount": "CpfvLiiPALdzZTP3fUrALg2TXwEDSAknRh1sn5JCt9Sr",
+      "stake": 130412236244241
+    },
+    {
+      "identity": "5FbKKGdEaFcxGxxaLKVvBes2JxiKbreh8w2ZpMcSQ2a5",
+      "voteAccount": "6n8taYki7RscA1XW7xGmevLcqj855oSgDgjPe1dZyHfW",
+      "stake": 130278383991061
+    },
+    {
+      "identity": "9T6SNsBimjCRJpkEjiVsc8AcxTBa1XVA7RjnBGGfWP23",
+      "voteAccount": "5cYwwC8dmQ2tvtjDueHrU2B6NvmTHmoimsNGeGXVbkP8",
+      "stake": 130057484259945
+    },
+    {
+      "identity": "EtoMApqP2h1vVm9XLTTp5HERNezm5btkqrdAGQ9fZRnp",
+      "voteAccount": "7HhmcAGzjChFjG1qsN4Y9NPgDWfytXXVA7ZRBWE7eZc3",
+      "stake": 129809899284125
+    },
+    {
+      "identity": "FGiEdzde7Fco2WLpNQMat299hUVoykJdaA5hxdmCzHiS",
+      "voteAccount": "3r5ZXC1yFqMmk8VwDdUJbEdPmZ8KZvEkzd5ThEYRetTk",
+      "stake": 129616382255068
+    },
+    {
+      "identity": "nodeEgRVkbYLAQePtMx2zCN7CGw7qRgzKMCBtjMfN1D",
+      "voteAccount": "Node56Cr7y4Udym2vPt9DsRbWcBL29JivsGh2drpbKb",
+      "stake": 129247190925570
+    },
+    {
+      "identity": "CmHAicGXp6boDhgp7Kb1JbPcvf7GstyK2yMyMxZY2pKU",
+      "voteAccount": "BKccvpa2f5McCLjE91pSGzEY6Ac5sWm1jmHy5QmZ1vTm",
+      "stake": 129232957362313
+    },
+    {
+      "identity": "ETcW7iuVraMKLMJayNCCsr9bLvKrJPDczy1CMVMPmXTc",
+      "voteAccount": "C616NHpqpaiYpqVAv619QL73vEqKJs1mjsJLtAuCzMX6",
+      "stake": 127083129314461
+    },
+    {
+      "identity": "eyeYaqg9e2L6xw7YwsSLm27eWJfhLNAm6ETQm8TXNoK",
+      "voteAccount": "eyeVhGmVEoPSWmQU2wP5WZmMihPBTCk7kMMm4VhuAKS",
+      "stake": 127026196024393
+    },
+    {
+      "identity": "BFMufPp4wW276nFzB7FVHgtY8FTahzn53kxxJaNpPGu6",
+      "voteAccount": "7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh",
+      "stake": 126350679789435
+    },
+    {
+      "identity": "2UBhtRuyr9nvWsUnrbWrvJiYWEU8TVBD4PLYQJKiRa9H",
+      "voteAccount": "Luna8BkZNpZ9DKmszrZYPvFpTr4eJJfxxTnGDwTrYkv",
+      "stake": 125552859294492
+    },
+    {
+      "identity": "2t53LvZfskcpXkdwLaBnfZLbNgyVHPu2BNFpcRBaEBhM",
+      "voteAccount": "Gvt8s5Bwnhg4G27VbnT1Zkfh7Jsztq6CNvZcc5anPonS",
+      "stake": 125491735044858
+    },
+    {
+      "identity": "FCWkGAHDWK41ANjiaoPudkCZRkvTecaEkoZQugezUnpr",
+      "voteAccount": "GptPXjYUBUjxpRmueH6F5JcqizvjPTRDShTJQ8Vp6uN1",
+      "stake": 125418011338160
+    },
+    {
+      "identity": "9ppJrpsbbuGNjiMhhD52Ueco4KXUzVfrtNQ6tAcDab4f",
+      "voteAccount": "EcjtYtuxBuupjeyXNdttATwoQoNL5Ck7bmrqDCj3ALT4",
+      "stake": 125307878568894
+    },
+    {
+      "identity": "dmMwc4RazLHkvDZYrWAfbHQ6cViAvNa5szCJKaiun8S",
+      "voteAccount": "dedxrPfNqPKBRmUyP9LDkaitpQzU6PD44jA6GP9Ndhk",
+      "stake": 125306184195832
+    },
+    {
+      "identity": "3CKKAoVi94EnfX8QcVxEmk8CAvZTc6nAYzXp1WkSUofX",
+      "voteAccount": "4MU64AyHBkRBUAYgAm91sP5vFgzUUgFHuS82CVhE8Q2Q",
+      "stake": 125186047141999
+    },
+    {
+      "identity": "D8kuk3qEiVBGwYkuMGKfBDwuRi6jjRkzjAZg45fdaRLx",
+      "voteAccount": "7X7oVv6K6wawMNzVriczSAEk18GzqyrYrvqyJbwLAY3s",
+      "stake": 125152485186837
+    },
+    {
+      "identity": "6gL3uHvuUjaPp9mTBf2VZ4tpKiYhbWyPrAPboGByzEHd",
+      "voteAccount": "8mu3JHHF1Qkcrbqjo6KWxyWvTxarZjqptJTokR2jrDFo",
+      "stake": 124892512917489
+    },
+    {
+      "identity": "5AsoSeQtLoN8eLsf3wKrR3LwxHME4sTBGR6dpTCP1k3H",
+      "voteAccount": "uTnZDhnbiSV3TX2obj71nFPAm2aXy83mFTFYzaBRk34",
+      "stake": 124090855034834
+    },
+    {
+      "identity": "3tzpLMWRkWucvTRWU5PjgKzN1iwJuV69yCCjmuuo4gTk",
+      "voteAccount": "GrefCNn5jSbcWv3uiervqZiCC87F8oX7PXz9LEBiog6s",
+      "stake": 123067001167641
+    },
+    {
+      "identity": "8augxYLUge2iWmitQMwbcBL5VQEpsM6aJdRofhwpnzyw",
+      "voteAccount": "o27rnqfNHPwHsRp2xPXXwWzn2q2dGxn6UD4Rt5KMU5h",
+      "stake": 120863982206255
+    },
+    {
+      "identity": "icex1C6pnZxznQWiHZZANjGU8nZ8kNquFnjyY7XXrXE",
+      "voteAccount": "votem3UdGx5xWFbY9EFbyZ1X2pBuswfR5yd2oB3JAaj",
+      "stake": 120011147407490
+    },
+    {
+      "identity": "SQDS9iwyWvT2mQbSZzuNKGoxuBug5jRHouF6SuMRBkA",
+      "voteAccount": "SQDSVTDfE5HqL7D6RjZk1vvZhaheWoskrDdDHCki68w",
+      "stake": 119213351292586
+    },
+    {
+      "identity": "soLStaCk5TiGCpeLKa9Fvv6f5JQGMa6S3uhLh826e9N",
+      "voteAccount": "soLStAckuvkHtNzHF1cwmeSRG1FzVxKxwsdWZ1yrHrz",
+      "stake": 118851995903690
+    },
+    {
+      "identity": "BSGMRbK97DcgLe4u4kfNQnmTVZGVnwdtKQBJqWRBTZxU",
+      "voteAccount": "BSGMtRHy9qvsPbUKtT8yqd7nNqn2urTcSMVUgzj9zJVd",
+      "stake": 118257492485951
+    },
+    {
+      "identity": "LunaowJnt875WWoqDkhHhE93SNYHa6tfFNVn1rqc57c",
+      "voteAccount": "LunaFpQkZsZVJL2P2BUqNDJqyVYqrw9buQnjQtMLXdK",
+      "stake": 118086776362497
+    },
+    {
+      "identity": "CiR8HNCfkjtcongPmP2DRdZPnFgjSbN5gsXdjmsXXHcB",
+      "voteAccount": "7JZTyHRTmzHfmHH89uT9xKSKDVJ1VnNQ1FeTeM4iH3J2",
+      "stake": 117557478270104
+    },
+    {
+      "identity": "4JahMMrVRS1gimWoXpD5H6KwKc2MrsoTDFMaStMttL1E",
+      "voteAccount": "4EsJD6cpaae8rh27U9pHsfxAheCLQnze1bDvXZfpjcUv",
+      "stake": 116457899129723
+    },
+    {
+      "identity": "BJvrWSfonXnS2Km8iA9KLY6D6vS3GcsaUwUNPFBumTca",
+      "voteAccount": "GdVBPczdFaPf1GXvx8ByHeA1ZHAHwwmdQEPihH74SXm9",
+      "stake": 116307549205085
+    },
+    {
+      "identity": "6jMprKjLwc2ezd6VLmkUvGUZExEpnsUsjtK9Yd9Jb4xW",
+      "voteAccount": "3B1ouVzqvFNG881agLD5DNe3AWrimCeN8nVPF8D6NqTn",
+      "stake": 115367162126980
+    },
+    {
+      "identity": "rapXHroUoGG3KvZ3qwjvGMdA7siWXwXpiNC1bYarvSC",
+      "voteAccount": "rapxbkwBSSvtqRFrsY83f51oUuZNuVXci74MuzYhiCy",
+      "stake": 115357126073458
+    },
+    {
+      "identity": "omegahqefiV3bcrbwwx654NqiMrLVwDiewqnqekpNgo",
+      "voteAccount": "EMVmh5hF6LT1sZM9G7dEX1bykRYEymWY2vtE7QHBBAW6",
+      "stake": 115267168300765
+    },
+    {
+      "identity": "bookoVmqw4QjVj5BbkFacouadx9M7816wyRkfM7A5Lo",
+      "voteAccount": "bookLxG3LkSmt4htJ1x9zPw6E34RRMAi7sUn5mM3CNN",
+      "stake": 114385099520877
+    },
+    {
+      "identity": "ECNnK4VjcKTsABiw8FAp3JCE6tCmYyrEJthYVyMazmxi",
+      "voteAccount": "NikGQUQqSLtsdHGGx7mQopojZcgd3N9uWFaZQ1r5EXn",
+      "stake": 114280461974024
+    },
+    {
+      "identity": "novaeuhY2JH2WHhc9KVTHDx2cyJZdXJC6faf4CtARZn",
+      "voteAccount": "novaoLcuVHSudkW3Cphuhiv82vspN5qzinGCtEbwQxz",
+      "stake": 114086964910885
+    },
+    {
+      "identity": "FmaVX7HuaaLRc3jy7HZktJX18hsk2S3MWdt6vYKiMweT",
+      "voteAccount": "6AvJhSqh2B4zUdBENZaepiLCh5hRGdkRovCg6CejavVn",
+      "stake": 113773948871366
+    },
+    {
+      "identity": "5t4shVsKnUqgjmhK3fFNsvyju2E6Rd7cc4S5pmqqEVEW",
+      "voteAccount": "sT34kbaqmHWbPwjhyeG1GnjoX82KpXawFsnzUkzJpYX",
+      "stake": 113348520389553
+    },
+    {
+      "identity": "nateKhsYkrVc992UuTfAhEEFQqr2zQfpGg9RafNkxdC",
+      "voteAccount": "nateBZg7oHVPLB2samBLkKvfzedU3ALZBexMFPMKjn1",
+      "stake": 112857243091647
+    },
+    {
+      "identity": "ppppoqHcHVzigV6SK4856BAsNxhTAi32hqQQWrziyHE",
+      "voteAccount": "vvvvXsU6iG2enDVvs4KeVqS4YrZczTujSv5p3dSeNHx",
+      "stake": 112440224501832
+    },
+    {
+      "identity": "AiBEt9kE8yZ4CnaLfTCGMp7Fg2wCtqhPTfvJ8D3zrLfu",
+      "voteAccount": "H9p8zGs56CnL4b7RrbwQ6htc6V4K8PUtKvqH2m7hYAtL",
+      "stake": 112265843214137
+    },
+    {
+      "identity": "NATsUSZGohWw8xtLdxG4yus21UCkaes4FLfM2eqKbRk",
+      "voteAccount": "fuyugZxM5S4NyV3ZYoc6ebs3fmRTrZ3X27MKCFvHpVD",
+      "stake": 112262361991821
+    },
+    {
+      "identity": "wetkjRRRDrSPAzHqfVHtFDbhNnejKm5UPfkHeccFCpo",
+      "voteAccount": "wetwJSUHT5afX3gP49q75gkz8FcCfvsw2kuSQ1UjT9R",
+      "stake": 112196194434712
+    },
+    {
+      "identity": "MARiKM3t7pDCyXtvLq24ErWDAvYu84yXqCthkR1GS33",
+      "voteAccount": "MARvNLH6rCLroQEGr8fWNxygJ7fHJRCfykRk9DqzwVn",
+      "stake": 111731929141453
+    },
+    {
+      "identity": "revtecFsGSRCdF29atQvchSXrjwBesA9vSisD4fyH5K",
+      "voteAccount": "B1rsc6jv3RsFpkak8qvJN3PfGYSg9E3Uw1joaV1EoiFj",
+      "stake": 111391729651245
+    },
+    {
+      "identity": "49j9bnkdgVNxLwsZ9h88sPR5MYEmsUyKrrJ6ZW8ijBrb",
+      "voteAccount": "9QFvZhLvpbcFJTPkKq5wTWR2DGTXqrsP8z9igPgjSsZ1",
+      "stake": 110926310150989
+    },
+    {
+      "identity": "EAW9vxqogvdPNapq7QTDpiVTHK6o7begUhPVnf854VTc",
+      "voteAccount": "DyDjFYB6i51FMHQvB4eKSwGHmgMxVf1i3FWwANAngqyY",
+      "stake": 109032734817201
+    },
+    {
+      "identity": "DRFh448Zz6AaHLJPZTgSw4fwv3eu776Db5RYEY4BqT7X",
+      "voteAccount": "F1Ue1sePSLeztVARpgtTGzRBjEA2YJgzk7Ror4w3jjz2",
+      "stake": 108362617625990
+    },
+    {
+      "identity": "spur5CDwBvTZszvy1ozGjRc1x2TuDWo3VF4jrq7zgvD",
+      "voteAccount": "spuraUaJeFZfdbgXpJhgqEHFAXatfrMArARXhXioxKd",
+      "stake": 108075013097720
+    },
+    {
+      "identity": "peNgUgnzs1jGogUPW8SThXMvzNpzKSNf3om78xVPAYx",
+      "voteAccount": "pENgUh4K9zNacyU3PXVE9KugW98XCqZsWpEvA8d8wzX",
+      "stake": 107861741499535
+    },
+    {
+      "identity": "SWnetabTLirPWqEK1V1T7HkVLC5vGvfjEsb89wiqrGh",
+      "voteAccount": "SWnetzxKaKtuysePKKAzdPAk3gqWgPYxg31vet69Xnz",
+      "stake": 106822916741252
+    },
+    {
+      "identity": "rssaJ2iKcE9QWsFYRZr8Q66TQh5bRk9DxYrzxGMzWQr",
+      "voteAccount": "RSSAw6n7Tvqi5iJc2xvHMfk1bhx47GVqj2pj1bq5NUq",
+      "stake": 106739617212706
+    },
+    {
+      "identity": "BiU1DNow77wGwSXW1bLmkcQe2cuySpkbz7xtbitD9Fmk",
+      "voteAccount": "BiUSTKzDM57pkf52SqxqckEk4ap7d25y2GB4GLXxdgj7",
+      "stake": 106221888222233
+    },
+    {
+      "identity": "HzF7Kov41YJvKNkVEepUByEP5NKG45NJTc63JUDxT7tE",
+      "voteAccount": "F5xevmQHWX6ivnvsDRHUDtz98h5Wf9snpLhdErCp3i9t",
+      "stake": 105960474689071
+    },
+    {
+      "identity": "AfZTWYoFQbzqCMmUBTD7XwxFvjob1FVyCvkaXRryxtKc",
+      "voteAccount": "86Sw9R6ynPmXnHfwUWinXtq1QoF2KHesfQQyZG5r8sXo",
+      "stake": 105896129660856
+    },
+    {
+      "identity": "4W3jdXyqhLCjzA3Liu8ZNjViwrc6N9YjSB7obbxfjcKE",
+      "voteAccount": "3hhEWRNAVzqRjmF9hW5nYkrmDMxKKzGziE11Sg7yk3iX",
+      "stake": 105746215027124
+    },
+    {
+      "identity": "93Q99nhdKjuSe6WNXgMBbC3s8QVQEAoHKt91PNRkUkMn",
+      "voteAccount": "8D8XL6ovqx15RKwC1XtFyTz6H8JYF2fUsxTnsY4b123P",
+      "stake": 105577541753322
+    },
+    {
+      "identity": "meshRrDTME9cL2FSQ9E56EncfkZ7vL8apwcCFsw3o6Y",
+      "voteAccount": "mesh3Px7WMi7Dkxke4ZZBULoKHM6sp37wKtg4DwPqPY",
+      "stake": 104990033083418
+    },
+    {
+      "identity": "LFGGGJtnBLvq78DyMz1gTeedM6f8owck76qHThDABBC",
+      "voteAccount": "fVotEjqpmpQYgyVyBCwYm62BKqqTQNE6SpYnRmdBazH",
+      "stake": 104845458424687
+    },
+    {
+      "identity": "5XKJwdKB2Hs7pkEXzifAysjSk6q7Rt6k5KfHwmAMPtoQ",
+      "voteAccount": "GMpKrAwQ9oa4sJqEYQezLr8Z2TUAU72tXD4iMyfoJjbh",
+      "stake": 104027336489619
+    },
+    {
+      "identity": "2E2JPuFhjkQvEJEeNGqVSwGLJa5GoFqabQTutGjg1bzw",
+      "voteAccount": "Ck2rHWiP22YzrMgwVSe9ngyRW81JXLRot2CUo1Bf5RFh",
+      "stake": 103965053718113
+    },
+    {
+      "identity": "nebu15XQKGpxzhhckADBX9PgvGN5qk9RRJCFLKc118w",
+      "voteAccount": "nebu1WnZBrFZz5X7sfPWuEqyb8LBSsrXpxaesnK9CRE",
+      "stake": 103040960770723
+    },
+    {
+      "identity": "8Yq98CFAorqAc3CN7XtMVgKLrBc78wsBvjhAbFr4sNQ5",
+      "voteAccount": "EGg6LTZDgV9CgpPZnpTTzmebSSyaH91cQ2eoiDxiJPvm",
+      "stake": 102905808013393
+    },
+    {
+      "identity": "sTEVErNNwF2qPnV6DuNPkWpEyCt4UU6k2Y3Hyn7WUFu",
+      "voteAccount": "STevE9xVb1QfBHU4GgEn28r9oikAf5yxKJddF7fufwb",
+      "stake": 102780398328164
+    },
+    {
+      "identity": "dst2u7mXMyDvb14cSErRNA1mxH1d5VXbSXgZ3DKE9xH",
+      "voteAccount": "dstqVmt3cDH43Ux2SeTY2Hza1eVW6pwGLwehWCLfuPd",
+      "stake": 102727796780657
+    },
+    {
+      "identity": "DeepM3FDWaAb7o53rvyZk5YvHLG3FvDiVXJLRY78z51p",
+      "voteAccount": "DeEpSdaw8uBLQ5T2HQhDf8fBSVbm13jGqJwoSF3HTpL5",
+      "stake": 102589562320822
+    },
+    {
+      "identity": "hnhCMmnrmod4rcyc3QRKkLEC9XnPTvYJ2gBvjgFiV4o",
+      "voteAccount": "hnhxfrndd827LET6jvnQV4aWqpS2EedaHcT4gj8ArSu",
+      "stake": 102378711063222
+    },
+    {
+      "identity": "nSGZ3tv2UhskkPqiB666yDVj7PTi9qKgDqvjHyw5JgM",
+      "voteAccount": "AY271jdvcyo5VzBiWsMGLEjpZFFrarq8FDydJHLmYgCG",
+      "stake": 101954415035170
+    },
+    {
+      "identity": "GqDCbnafLmKkdqiqf278jDLXqjjZMB2sViZQtR82jPUf",
+      "voteAccount": "4KfAqBj3Jvi9GGngFK1MbZkjHTcSFyvhFnVwc2QrNiEh",
+      "stake": 101930205070657
+    },
+    {
+      "identity": "9maF99FLLAMh5v5JKG1ZyRZVBVsT5VkZnAJzDvduCpJa",
+      "voteAccount": "HvuXZAhAqSekCFueQ92DqxhuFvdBRrWeyA6uea6ZaS8q",
+      "stake": 101459546643216
+    },
+    {
+      "identity": "6Rk694kh1QTyQkirdb1uDZmS5xqG9bNaYtxx8d311Mr7",
+      "voteAccount": "AnodeNCzJGQ7QwheFqJr6EknKGa72m6XHiLtDQiXcmEc",
+      "stake": 101209647784265
+    },
+    {
+      "identity": "EWARp8Syq8cTWGWHtP5LT9fKAn5GvXfSCH8LfAwpgQ6m",
+      "voteAccount": "4BVYjw1ztUzUPsxsaCheWWwThT2X4rjogZytGnuWPUGg",
+      "stake": 101162709876842
+    },
+    {
+      "identity": "DCKyEmMENQMtLXgbmUoHRmgP9XdJ9HsR5WxrKnSDCzKA",
+      "voteAccount": "DCKYVqFDwUs5m2DhW9muK2EX86pootvWD8wXA4nSqDxU",
+      "stake": 101138619920840
+    },
+    {
+      "identity": "3Rv6ZVGUuRczP76322LyhTTYw2iM4avV4B5xFJocQJer",
+      "voteAccount": "GaxxAn5335dA4U3772MCFeqdyqCVEfmsQTQ47YXfC2Xi",
+      "stake": 100887263593860
+    },
+    {
+      "identity": "2Wf9V9rPeVRUTfmWdPedCJuWVr6MFfyLuigEq42DuMDc",
+      "voteAccount": "528hi3StRe7uGjt99d35myh95JPc2MqBEHTPYcEhqMg5",
+      "stake": 100743263809606
+    },
+    {
+      "identity": "HgozywotiKv4F5g3jCgideF3gh9sdD3vz4QtgXKjWCtB",
+      "voteAccount": "DHoZJqvvMGvAXw85Lmsob7YwQzFVisYg8HY4rt5BAj6M",
+      "stake": 100664557893095
+    },
+    {
+      "identity": "CtzN7ysR5rX69qd168Aosbuc83mPozhi81bEHbG7ecNP",
+      "voteAccount": "CtzNnqzSLwNtkzi2yEWvq4w3GYQ5gSpCagqFZ5TbdSKb",
+      "stake": 100340474424927
+    },
+    {
+      "identity": "jntr1vkzvSujfckGR6ANmFmirVoPBMNr5XJGKP5uDQA",
+      "voteAccount": "jntrMCSkeNagaMM437fhZxLYbFJh6pvj68bQDZx2pXf",
+      "stake": 100251417514077
+    },
+    {
+      "identity": "MagiCBYNPD9iTBXqiFybAFCREQzG6MSM4LmFLXQZxuV",
+      "voteAccount": "magiCChVWbehZ1e3XqQfLh164yUfQ8LnRWgSP9i4oFp",
+      "stake": 100208782080580
+    },
+    {
+      "identity": "FSVdqBzx5D4UsqBLnvmH5dFx2dCm1pTPAbQWJ1PYzTJ2",
+      "voteAccount": "2EWi8L6xp62VgTqFo3LnhoSP5sL9CWqYxvK7UA63qK9x",
+      "stake": 99898308786812
+    },
+    {
+      "identity": "4vdWYn2KbmQ3Dns5wVBfz4CFQDds4b7CpsC8MHBhHAib",
+      "voteAccount": "DvFTFLrEQSfEadPQdesvf5bpYWYqXK9iaJAjq95piQBs",
+      "stake": 99628556303603
+    },
+    {
+      "identity": "gojir4WnhS7VS1JdbnanJMzaMfr4UD7KeX1ixWAHEmw",
+      "voteAccount": "goJiRADNdmfnJ4iWEyft7KaYMPTVsRba2Ee1akDEBXb",
+      "stake": 99399917591685
+    },
+    {
+      "identity": "1i1yPyh843bTfi5qPgqozTbDcEX65rUNEFcUT2KAs2i",
+      "voteAccount": "1i1yax3thZfiV8id5HTA61bjsxEi4pbjmhXsqy6JePP",
+      "stake": 99144306978559
+    },
+    {
+      "identity": "RoYLttggWwa2st3KAGEjnPhsq4NPD5QwaNVyyR8pTz4",
+      "voteAccount": "roYL9AoyuGae7uEAErzZhPSSxnLLZU4TNx8wmwCk77r",
+      "stake": 99117680481835
+    },
+    {
+      "identity": "gangtCrQg5RmKf5yxvhvZThPugPX58pDSdQ5UuS26vN",
+      "voteAccount": "gangtRyGPTvYWb8K3xS2feJQaCks4iJ7rytFUPtVqSY",
+      "stake": 98613807288846
+    },
+    {
+      "identity": "6pEtDovpyd1zUMYPuNhMCPU37sUTEAtzzgoVVAh1G1JL",
+      "voteAccount": "53ANFYA6BCDzdtiEeWawm5bqsH1Qgmjog8oMo5N4o4wU",
+      "stake": 98446717698204
+    },
+    {
+      "identity": "74Xkp2iLXm315h69sFRiCFjmKnaWkMV8W2LgJwPRSgN5",
+      "voteAccount": "FN2BJjzy7WMRAqMNwzZrv5iDmHaNwukyFMfWCc6FxZDw",
+      "stake": 97991945467922
+    },
+    {
+      "identity": "CpNnGGhgVATJAbzHUXdrcGfpPiGuZyPka4QUmH7YgavX",
+      "voteAccount": "4qvFxnUXYjBdcviCwVV7gKcGJMCENEBfS82hSLJUhyvu",
+      "stake": 97858448478050
+    },
+    {
+      "identity": "GQiWnDYrzHMALWG9avt5FCu1wisAQHjGY5ve7GMBiPEe",
+      "voteAccount": "5XGMWvqZSBk1fktPtxbwaMF5dhkbrtchpwd4xiXG9q8u",
+      "stake": 97162989730182
+    },
+    {
+      "identity": "popscoyTKVksa4TyTXw488b3vvFxM7qQEyTBeMQopKu",
+      "voteAccount": "HLM6hyDWrEca9QMS92nDBa2AreU1qDkppttPVuJ7E2CU",
+      "stake": 96991819779869
+    },
+    {
+      "identity": "E99w1XfS4UNM1xUKXWEuDmj8Mduy7u65jm2NCULTspSV",
+      "voteAccount": "EfnywDKqArxK6N6FS9ctsuzNdxfx3pzfXEQE5EevQ1SV",
+      "stake": 96677263177102
+    },
+    {
+      "identity": "D8xKNftHzFcCekENuTEcFC1eoL9y8wNHEg4Q5z57KK4e",
+      "voteAccount": "4269foF8CYyT8SynFSYHiKFzHva5YL6PoAQj9pH3mQmh",
+      "stake": 96162737738469
+    },
+    {
+      "identity": "CpgSfd6QUoBw1267rTtJoZhELqC5q7isKLojBifSbNEE",
+      "voteAccount": "7miZ2ZoXwS3YDzBRCbWcEtNVyuxk8WbbcyQwq7i5btvZ",
+      "stake": 95812543436390
+    },
+    {
+      "identity": "DtY5Bzxd75iWQRvKwM2xLUxqwLT1RRoeNwmVvgS2JANA",
+      "voteAccount": "BSRRvjdKd8SHApi3KtTGbzrdhUojitiwAt4xt4nAxbFh",
+      "stake": 94956006623705
+    },
+    {
+      "identity": "3rqEEEGjHRyndHuduBcjkf17rX3hgmGACpYTQYeZ5Ltk",
+      "voteAccount": "8xV77wuFP5BkMDdb1845hRRWZNbDNAbcV75BjMuViWpf",
+      "stake": 94420996732933
+    },
+    {
+      "identity": "6gnbmed7kzwQVQ7ghsjgEuCoYmGeWciV2qCwni6WS6HU",
+      "voteAccount": "DTwEEF6VSrmTBYkDcj3BKAc52qhvP8CEQUEAMMT1cG3",
+      "stake": 94193160133114
+    },
+    {
+      "identity": "7knvB4bbqHCKuNp3ef2hJWdwqoH6WAUi55NQt6LdRfkx",
+      "voteAccount": "D4mLBafAJjpRABT5Tyj6UhuwJ8DLRk74JzyuTMUdU9Fz",
+      "stake": 93521954471630
+    },
+    {
+      "identity": "9hQqNe3DQTiwhspatewA8EXhz12e6sq5UJVJ2qNRwnTf",
+      "voteAccount": "2Y2opv8Kq8zFATg6ipqb2AjgCf18tkv1CLMLXQGif2NH",
+      "stake": 93492145445711
+    },
+    {
+      "identity": "8aySXUFrqJz5kath6aVijrkBH8ZtxMWJGhYXwYBpKmHK",
+      "voteAccount": "A7uqmajxP3NdzbYDXiGQRGTL8d3dZ5pjS4kR9NTZcxtg",
+      "stake": 92958008669278
+    },
+    {
+      "identity": "9ueKvL3WiLM4mNUZrfWqPTYY2Np5YwzFTYvAiPibx1Zq",
+      "voteAccount": "68Lq2AaLY1j4zVhzNc1R8sWWgfh5QdPMP1Fawx1iWEVV",
+      "stake": 92534380099723
+    },
+    {
+      "identity": "2nhGaJvR17TeytzJVajPfABHQcAwinKoCG8F69gRdQot",
+      "voteAccount": "mNyQrNRYAuL2CwNCGmCsmwj9EcG88Sf8hs5rCirZaUr",
+      "stake": 92291992274771
+    },
+    {
+      "identity": "CpuDNi3iVoHXbaT8gHpzKe6rqeBasoYjEKi21q7NRVJS",
+      "voteAccount": "2QE9X9X4tdDUTYic1DgBBJjU7cWUNPbKYGerCb9KqDQN",
+      "stake": 91853695251772
+    },
+    {
+      "identity": "DP9iBgK9c7tJYb83KhxQMFNc1LXYu7nE7EhWpEzQnjmg",
+      "voteAccount": "EnRcbgr5r7EUS2P35szncy6TW6eWA9UQiU3yQRCDbh2P",
+      "stake": 91559808347788
+    },
+    {
+      "identity": "DZKTNGR3r4Akj3G42ReZatKhkmgEXoZjk5Ed2tFwRyqm",
+      "voteAccount": "AYSvheimgwhpRHXossLqrTBDPwo4jHDQJ1UhMeAArTwH",
+      "stake": 91068885003703
+    },
+    {
+      "identity": "SaGAgdkowooXBrHihpmE8gsjf1dUG7n5SqnyJxYFnXJ",
+      "voteAccount": "sagasJDjjAHND4hien3bbo5xXkzCT5Ss6nKjyUJ45aw",
+      "stake": 90944970561455
+    },
+    {
+      "identity": "8Zh5A5Hs6bJFAyWrLGMaF2VEUVbXFANtfuw7824Hd5XV",
+      "voteAccount": "3P2Fq9v1NwtrVTnwPGj2qVdVwnSvuNovZJWGS7nRvoin",
+      "stake": 90795588400764
+    },
+    {
+      "identity": "ELE1xBTfmHB7vuhSH94q23r6j3tuvTXYTqgm1u4uzMLk",
+      "voteAccount": "ELE2xaC6i6pmeu7bfrYjBv4whBeTAbgwcg5hf2ythiBs",
+      "stake": 90686841131272
+    },
+    {
+      "identity": "SyndicAgdEphcy5xhAKZAomTYhcF8xhC7za2UD9xeug",
+      "voteAccount": "SyNdica7qx3njeVKNgXvV7KC1NjPYNS4fyb3NxgevLH",
+      "stake": 90594897689376
+    },
+    {
+      "identity": "BuonuQoAR74GoMwCFhxKWVWWSGGt2wfbNmQ3cizaJ97G",
+      "voteAccount": "9FZWpUMfXZ3993g2BfqSFg7xcx9iUCxQwKeYzr2WQCM1",
+      "stake": 89798241547497
+    },
+    {
+      "identity": "Frdg1NUoQaaTmASWNTrtDrBU5PbTnWtUvtdCr1XPNn1c",
+      "voteAccount": "6MP6Bun9VmkGcRVU4iF14Q8P7jTkGtQW9zVwmB9kCYyK",
+      "stake": 89186326088147
+    },
+    {
+      "identity": "cybi55ebub37HZW9YmRaLh59Lh3kqaLTsEBQwW6vFkC",
+      "voteAccount": "VaCdXKupamusfRsDf9Ai7e8Up36Z4f3MP6SqhnM7c76",
+      "stake": 89088098692371
+    },
+    {
+      "identity": "3V2xaccDpFib4DbTksdiveNDmiwpXBqSWyjSof3w1Bg7",
+      "voteAccount": "34yvUa2fxfm2tUqxFEj9PHrVNwCcdzd51eo9hntWpZRs",
+      "stake": 88951286821386
+    },
+    {
+      "identity": "SELEXm1aELCweknS2tsG6A4WivjVvgrTWn9doHNLj66",
+      "voteAccount": "6BUqzA7GtQJ3qZXHrViMSGFdXNvrbcD56Png1mNRqGN6",
+      "stake": 88945705401669
+    },
+    {
+      "identity": "7G4RfctwLLgqG4ZWfCirU8dfJd87mKQWgB4EHQRv8i7v",
+      "voteAccount": "42XzJdJvr1qE7zdEnPQhV5PsN9eyAcR45SWpTrifW1JB",
+      "stake": 88676920431792
+    },
+    {
+      "identity": "CBUGET5PnvLc3HvEeFYj64iTvdKhYV6pujTPDdDh785K",
+      "voteAccount": "GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j",
+      "stake": 88629202258203
+    },
+    {
+      "identity": "ECeaWy82CxpeJQr3EG3XNmYXc9NrVeWDH5ag9Lt6TPVR",
+      "voteAccount": "SzNm2zDpK3eJmSYR21pRaQ5b4wQ37ecds6det5YCZFP",
+      "stake": 88397944506680
+    },
+    {
+      "identity": "LitxAVo3RnYXD2sX1TyRJxfnKy48amXgyGiysPZjZwE",
+      "voteAccount": "D7WodK26tETSqyWBW35vvMGfige9afLEyTsm1Pvvropd",
+      "stake": 87965045697833
+    },
+    {
+      "identity": "CtvdyHYt8cMuGVHFarV2RADfoCdnrbd8e9jAsB225uMW",
+      "voteAccount": "FLCrbfbwEhFARa8nK9rnZw8BVtKNAuHujh9EhWy5A4U4",
+      "stake": 87919655981171
+    },
+    {
+      "identity": "As9NxA9bCfhrVLAFyGeWG5X5iLYPGhU3R7nLfX3tN6am",
+      "voteAccount": "3R4effnUPr3sDo5wdegPBnqTmKTZhKkbgL1wxYw7w4B6",
+      "stake": 87427196427858
+    },
+    {
+      "identity": "odcvDWH5wHVKz9XtmGGxTj5ZsmawTjCCty3nyBKDGzS",
+      "voteAccount": "odc2aCE7yWTcV8ApP1cHmVqQZTkLNduqaYyKE1XhpE3",
+      "stake": 86846459151849
+    },
+    {
+      "identity": "6YDWxPaJWpZxJ6JLGaBeTJaGQn3gi3Pwtivii9cDyDHo",
+      "voteAccount": "EdkhvJYa3kWQkFJAPzmGsQyi1D2JA5a7vwWw4hDuwbt",
+      "stake": 86711269973370
+    },
+    {
+      "identity": "CZanBzZHFzrGY5qKzaX3CNhJ5smHEMTWFFnoeUi4J6dr",
+      "voteAccount": "GzjMbJQDVuBLFY69QwhhjDGDy2o5Q6nswXMuVTCWEFnp",
+      "stake": 86621405043094
+    },
+    {
+      "identity": "2jS8AX38m8F9C5juToW1FmTufEbb1DfDzZJj9HSJcWwo",
+      "voteAccount": "D3DfFvmLBKkX9JJNEpJRXpM1pYTVPQ5dpPQRc9F49xk4",
+      "stake": 85700443407572
+    },
+    {
+      "identity": "DLupiSkASr2wkSLazQodYL3M8v8zvtpoGrJ1nLc9bysK",
+      "voteAccount": "He4AUUbyUciqmWuAga11ucr2tM64GA3NqFXYEPmHPv6t",
+      "stake": 85031351246348
+    },
+    {
+      "identity": "GK2YYwmQk58xA2k2SeugY3i334SJVViqTT8sT5wim3Dk",
+      "voteAccount": "3jkJVgfz1zrHSy6YLK6g96eTj49kCnDj2i8AbbKLZhkk",
+      "stake": 84546533616895
+    },
+    {
+      "identity": "H9METtoxNp2PhcDNxXwqpzBarJw9zJezhzdDEFgBqv8w",
+      "voteAccount": "eUkPmbsMwxMFr8v1m6sBYJ9MoZ2LpbiHNHWeZiGpFHp",
+      "stake": 84513502564065
+    },
+    {
+      "identity": "TopjgY7N1fJdnW89S9fX6t7LF61nspgXGL1NpgAKhDG",
+      "voteAccount": "5DnWqsJceNamPNNUpMnVr1XQ8anSxcj9TXRD5Rn52prJ",
+      "stake": 83963165549501
+    },
+    {
+      "identity": "Fb77sbwgXmtjmkjkaoSckGp5yg3nqdtD8zf1dyxxiCSf",
+      "voteAccount": "GdSJPrzj8q1QJV53s1cHMcpbPhodgB9kjG7X9kq8Z56r",
+      "stake": 83411884309688
+    },
+    {
+      "identity": "3BeharBd3j4sKQp7Qze27JLQLd9AEEwGTX9TC7dXYSNw",
+      "voteAccount": "CP6mfD4Qc5AYrboXBAQeHMYj5x1UnYksDXRjG7DMkHH7",
+      "stake": 83392188623087
+    },
+    {
+      "identity": "xLabscif2DLnYg39rQThqi7A9E45L9qiysRZhmZ1ARE",
+      "voteAccount": "xLabsqDpN9WHXEXSJXk1yhqh5H8BgcqiBP1CR6Mkjcb",
+      "stake": 83218053355862
+    },
+    {
+      "identity": "Fudp7uPDYNYQRxoq1Q4JiwJnzyxhVz37bGqRki3PBzS",
+      "voteAccount": "4QhNoG3PN1FXXFhAEA2QWdor6xjXvM9pjq6MXAUV8Zg2",
+      "stake": 82359106545585
+    },
+    {
+      "identity": "MargusHP4dQyxrBuCWngzJp6EZSvg1aPNxdgpXykfr4",
+      "voteAccount": "MARGUSgKSvtDJ5ybpt6jT1JaHtG4mFD3dhCxkHhQyj1",
+      "stake": 82296027950669
+    },
+    {
+      "identity": "32jCuWyy4aJjyv4gd4DSGBHmFU5KUSSfqbmPb9GpMin6",
+      "voteAccount": "HFpuMHuQqUY9o5D4g5ByAJKEYQrMLjwcusDNjozXa4Dg",
+      "stake": 81914657253107
+    },
+    {
+      "identity": "CVgwMrWo9chKEuEPCe6Za9KJe8jamnAcoeWzaMeNubr6",
+      "voteAccount": "F1wBgGku883aGGCQYMQFR4PmdJ7faej3qKSk8xGCycP7",
+      "stake": 81656996457247
+    },
+    {
+      "identity": "AjGby82yXeYgj3kmng9y3c4nQpZFmiPpJKecLJTHbfbP",
+      "voteAccount": "6D9w8FRw5EFr5qtZEphPpughN3W8zc8p6zMXg4PFuaXL",
+      "stake": 81074060033928
+    },
+    {
+      "identity": "wifwUaAXgGXixi757cinR8RhAzNuuyKg8hh7mkCDPEc",
+      "voteAccount": "wifYT9aQQoKdJtzoXtBwqzjDoAytdxwv7kVLUytWug7",
+      "stake": 80529508693147
+    },
+    {
+      "identity": "tkmaiSoZ3F8MofkQBVWG6JYSCzyN6ioe7ReYXohx3WJ",
+      "voteAccount": "TKMA1fBGq4M7gF2CNnhphX6vNateFc2cm2FL2mYwq7e",
+      "stake": 80021806930443
+    },
+    {
+      "identity": "23U4mgK9DMCxsv2StC4y2qAptP25Xv5b2cybKCeJ1to3",
+      "voteAccount": "J1to3PQfXidUUhprQWgdKkQAMWPJAEqSJ7amkBDE9qhF",
+      "stake": 80014044968544
+    },
+    {
+      "identity": "Fy7RCjDdFLG8wLn7TBKbccaKwYX1FetdSoVDREdUHf5o",
+      "voteAccount": "4Q1khZnsdtNyQjUCpYPBDYyogui8b9x1MWtKNdaPiJdv",
+      "stake": 79977879860495
+    },
+    {
+      "identity": "TRUMPdBAv1xG1BeuiYMbeqCzySBVpkPtw2bfL8x2GJA",
+      "voteAccount": "MAGAwoQLu8gzMdb6S7hUCW6twaKrXWVHWDs7qZ1UNJu",
+      "stake": 79280902974408
+    },
+    {
+      "identity": "A79u1awz7CqnxmNYEVtzWwSzup3eKPNW6w2Jrd56oZ3y",
+      "voteAccount": "6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma",
+      "stake": 79195013439232
+    },
+    {
+      "identity": "7kwZc68XSEs3bgPcHjh6XKUG2t5ocWKEZtnVJYcEjvPs",
+      "voteAccount": "4k4op6epymSYQkuJoX31azW2bdXh3exmEsj7wLCRKaPB",
+      "stake": 78461665460080
+    },
+    {
+      "identity": "AYY1TCe347UZ7zueBmF4MyoFkeEZquRUNVBNoUZiRoew",
+      "voteAccount": "AfyTzhTXBRBCxGdTEMc9LNEkVGVGfGA9wHf1VikaNb37",
+      "stake": 78377457276691
+    },
+    {
+      "identity": "SaV6UWBaE8M3kwMBfAhQ6Tmvd2qdJRm94NTwLqtoyGd",
+      "voteAccount": "stsaYQJUhKZDHSqndGtgo6jgbhVaHBSHhtfVWxCwrhD",
+      "stake": 78027762548188
+    },
+    {
+      "identity": "GvfaiJUhNCRZGVGumsEF1eHDb8JpAeFAyHSrTifyhrbt",
+      "voteAccount": "6oscGUEkXE8fyWoC4czRKbM1cuLkJNtgRsX1Un6w88Vf",
+      "stake": 77870764718818
+    },
+    {
+      "identity": "Gd33fENP1XsBimff41s1EWrs2kmqfGQqEJ5CQPQB3Jwy",
+      "voteAccount": "BK5Km4MyuncoBWKCM9y3zntA1JjhdqNcHd3mxitms4Xo",
+      "stake": 77733245934777
+    },
+    {
+      "identity": "chrtyETASKQhsndRM9pr6qC3gAHG5MuRwCgXSNVqnJL",
+      "voteAccount": "chrtyiAw8suFRvS7rTcfgcDyNu49bGPNZ2fjSPzNPFr",
+      "stake": 77612477653814
+    },
+    {
+      "identity": "HW4zorvt6xDwhU36RqjcWNwU8YMj9tiqnAafBKW4cqV",
+      "voteAccount": "4jEHuQZTNTRYAhxRYEjV3HJ1b4wqdQjnBRdPzFWzkCft",
+      "stake": 77532290806801
+    },
+    {
+      "identity": "FyLVPAKkgdAy8Gn9jnFYN5yjC1ubQWRkw2EHt2UnC8uA",
+      "voteAccount": "DKeL7T5t7XXKSbWpM3i9mkV9hRhqrEDbVVyL63AJ7TqE",
+      "stake": 77247343773183
+    },
+    {
+      "identity": "DKSy9mQn63487j7oXHxqmykLEYUA3akTHm1QNPgDLGN8",
+      "voteAccount": "9Q1cWVFNc4UgU7dyFy29mUyeDnNZWSDaJKYVAR5jLpaK",
+      "stake": 76311835192184
+    },
+    {
+      "identity": "PULSARKCJTG5xMoJTxaKHtVzr9H4Kv84haZnnewArAG",
+      "voteAccount": "PULSARWFx8NpS5rbUxRgJiUbGVrGrVT6j8CykdH4UCX",
+      "stake": 76297561957477
+    },
+    {
+      "identity": "29r4yNFTEczzMxLN39jPj59dZZjLZdr5p1HyjQC5Wvnu",
+      "voteAccount": "3hxomW2SZyW23BVsxQdLb7nqKqUF6UBAd3bNKWA9n8j1",
+      "stake": 76033051562947
+    },
+    {
+      "identity": "mythxvB89eT3C1TKwwhsvdHfYq2aoCt2es8vLoDFYyk",
+      "voteAccount": "mythxna3hpzXSbaseyR12vu5Vvym1HxS92eCgXLvY7w",
+      "stake": 75849339563019
+    },
+    {
+      "identity": "Atom7LRkdXj6MBoWJPgjaetrCMrgB9nnkQBYXTWE8Z3S",
+      "voteAccount": "QUANT7qKUEW4PS4eP9jq4K35rDHpgWkWcgjbW1CwnGJ",
+      "stake": 75529349027892
+    },
+    {
+      "identity": "wiFDeRHa4zcPvrZzdrnBEYCWAjMTjnV2vBgQeCpWSa9",
+      "voteAccount": "HaTniLULzUW7Mfq5qBXPU3okduucnoq81Kr21niLjNgT",
+      "stake": 75380357412418
+    },
+    {
+      "identity": "DSgY41vCWSi57q3DK9V5FzFpegSXM6YpjmhiSKjByiU7",
+      "voteAccount": "B88zXQkusXcsMn3e28ZCjZHWAAYv9ryBHXZj3EwcsSPm",
+      "stake": 75077991870579
+    },
+    {
+      "identity": "BaDhUB1eWfunwD21Tu3WywyYQ9wZx5hS9WXeHHNGZUPy",
+      "voteAccount": "CBSrVMzHqnjb1td6diYaqy2Nq1GotkKQBB6i5eaR1ZyR",
+      "stake": 74999998717120
+    },
+    {
+      "identity": "2pCxbAfUEwuL2k9Fiz3xnronPqRnXsuz9XV76ddq2GEt",
+      "voteAccount": "BZZFpWeasotFsxhwiwTz37BqtV5BjQtfkrVxz73zqQV",
+      "stake": 74788301118687
+    },
+    {
+      "identity": "iggyroq4YSBgSfmruSxuz3uj7dZvnsFXyZFXYcYy3FR",
+      "voteAccount": "motHerBDDLoLpk1VwWmztHvw81sMdyoQKtcGsdbYzYq",
+      "stake": 74436192776594
+    },
+    {
+      "identity": "EXAJfWzR6SmYyWQpCrP6o8Ppj9YNPVLjdHZNssC12xjV",
+      "voteAccount": "5NbEJGaA9J3TL7ZkwFxwAmeNLsUd6K3miPDjcmesE1av",
+      "stake": 74434970528400
+    },
+    {
+      "identity": "HFTcVVrX93SJwYHAiiHAssb3c4zXqSsF4mNjg5arGPEj",
+      "voteAccount": "qjUuLxWo29QCBr7ZQw4EPLkAtmjHS2ZdZpZcH9g7fRb",
+      "stake": 74116379804933
+    },
+    {
+      "identity": "vahMVcSS3v6uwyFormV7FDAUbQSHwmy6vUedp1P7L42",
+      "voteAccount": "vahVByZszdHguLa7U7GLz8UdUFN85mcwdkefiqVjtGt",
+      "stake": 73839547890078
+    },
+    {
+      "identity": "DEgenZMznWXvg5YHaZM75arVTauV453SeXX1UrxcGNup",
+      "voteAccount": "DEgenL35vQWg3pE8rvY2vJ2SrmpMsXMecu4PmvJcCCJv",
+      "stake": 72958841932412
+    },
+    {
+      "identity": "CpdzCVzaR9gjFymmEVE8xHboJFHaDnimRZ448cMBs6Rn",
+      "voteAccount": "Fy6zNoZ1eCPpQX3JXeQ9Yd1HW1BFL8rrFmDvYYDnuxjT",
+      "stake": 72718357997255
+    },
+    {
+      "identity": "DEU4agzdUCA5oZ1QSLxCyZb1smvdu5j1NXXsK2r823Uu",
+      "voteAccount": "Gmmjsfpr1cj66zqwaYzEiSPsA1Y438MKXVNPnGZ2zB9Q",
+      "stake": 72712816927464
+    },
+    {
+      "identity": "UNrgBLmc8JT6A3dxXY9DWeHvDezt2DZQbhg1KPQfqEL",
+      "voteAccount": "unRgBLTLNXdBmenHXNPAg3AMn3KWcV3Mk4eoZBmTrdk",
+      "stake": 71954610679079
+    },
+    {
+      "identity": "4mzLWNgBX67zVwTykNnq96Z6KQLc8UyV5Q35EfVCDifC",
+      "voteAccount": "8inoRcYLtHdDL1qHWvGph7pkJKuJdrE2kNkFpjcYaYHf",
+      "stake": 71693253045817
+    },
+    {
+      "identity": "pitMDEaMmWmr7qP8HsNqarPQkd3jhZbLJibhhQnL5RG",
+      "voteAccount": "BLX5PkLh7GsHaqCpLDxiW3UjxfT2GMyteVAhRZBYhCts",
+      "stake": 71162106036957
+    },
+    {
+      "identity": "DBfh9QUCZde2U6buTbNhxSEnaqPV9Z2cfmjsBJu9qrLw",
+      "voteAccount": "WkP89qGBLsdu2XNVigu7WZThfCEsBJEvDBwWxUCv5vj",
+      "stake": 71097746855450
+    },
+    {
+      "identity": "stacheBmGG5zMKuetUevAbc4m4dLbve1VPcpSur3voH",
+      "voteAccount": "sTach38ebT8jnGH8i2D1g8NDAS6An19whVMnSSWPXt4",
+      "stake": 70972202099518
+    },
+    {
+      "identity": "BCjGyexo1i7qpN9CbJ9Zt8avWr4Lb2JRtcm43sJvsgQK",
+      "voteAccount": "7rwEPPMQgHr3mn5nQX27SADt3tR8yucBgsNapYdrqRhB",
+      "stake": 69601678794865
+    },
+    {
+      "identity": "2icWF7TvxyycF7d1NHpMZYuJJqiRy2h7wmjFSbqUij1B",
+      "voteAccount": "CzGLRXJXoDo9q86MpphPVNNsTgAxHvZfUfAiouWDH89M",
+      "stake": 68922886846294
+    },
+    {
+      "identity": "4Kbcyn7JVPAWLRLPsNGTPmcNMvCkLTw51ZLRhqsUC6jP",
+      "voteAccount": "9gX9MV3nGHRs1R9E52Q3vMg1tNGe5NHvzdfo3AMHnr5t",
+      "stake": 68826262282199
+    },
+    {
+      "identity": "3x9nibnhgBHWKMRiGnsXJELRBjviQpKyigfrXtKW27KJ",
+      "voteAccount": "5afRnmkFn1pRU9oussqwk1RRBVyoDgUkL16Jz4qNf574",
+      "stake": 68768579139507
+    },
+    {
+      "identity": "farbZXR7aBQSMCYiUXzoS4pRUsvuCZ38f6AXMXiKACf",
+      "voteAccount": "Ej35PiU6wxfrQeJJwuqoT7s2gYSwCjcxQtEpHvpvWBu2",
+      "stake": 68762057107934
+    },
+    {
+      "identity": "Love31pnbDJNVzZZVbtV4h2ftvTPVcBpXW11BSTCa6s",
+      "voteAccount": "Love31JHTTweTzCu3BjyjhXJadjRrd57hiNZn7M1fLj",
+      "stake": 68755473832529
+    },
+    {
+      "identity": "4rXCssbNbfGjPH727pBJXix3DPy47PN3ZVGMERdZQQ3D",
+      "voteAccount": "GbC2vzt6S2HsUAJ46Qfh3aoG6oB9y3V4T7XD7914K5na",
+      "stake": 67177223511709
+    },
+    {
+      "identity": "7HMHSdQkjDwz9Q5zAhEy83uzW3XHJchjdpMYapKXcKt5",
+      "voteAccount": "GZgVV7MMweKm11hh8z8Nui9kRo3VxUVr2qgmkDdtJesa",
+      "stake": 66185238556140
+    },
+    {
+      "identity": "91DHuNCQq3CjcUrhfjyL2JZgGZ9Xip2Ct1DVioZSeyMu",
+      "voteAccount": "BvTcpaL8fu38LaPzFr1ZmckH5CSsY4YppTDmP4EfViBe",
+      "stake": 65758221622563
+    },
+    {
+      "identity": "parafiUS6h6oLhCFwhjvEmQJKw8pF1iXsxMJdTq46dS",
+      "voteAccount": "pt1LsjkNwqCKdYYfc35ToDkqtEG9pswLTJNaMo8inft",
+      "stake": 65316239928621
+    },
+    {
+      "identity": "sZAqxCSN5kkVfG2s65Bje4jzCkD2aLyk21qU95PMf2Y",
+      "voteAccount": "CNcaYdqkCwxDpKSVK8in5f6kqrTiZ5SuHsHFDqx6jNvu",
+      "stake": 65055335499408
+    },
+    {
+      "identity": "9dH6wfdJVgnDcbCUjT8rkmejAzTnGQaFarmLfvBYXANK",
+      "voteAccount": "GakAanHMN4dYY8rMKL1e6uUKjNJj2nN2sENFaxzdMEBm",
+      "stake": 64855517271574
+    },
+    {
+      "identity": "7ZjHeeYEesmBs4N6aDvCQimKdtJX2bs5boXpJmpG2bZJ",
+      "voteAccount": "8sdFdnuKsY5KvpEU7gPi7qH1fP5DdYWfDhiF7NLjtaX8",
+      "stake": 64362041440157
+    },
+    {
+      "identity": "5ghoFEVrsXeAPB6SUmBpZ2xq3KvHEjNMeSaBnxEBXkHV",
+      "voteAccount": "J6KaKtLRj7eQGuVVL2CAz1AS9kDxsrmej9QbYkEtsiAD",
+      "stake": 62279452322409
+    },
+    {
+      "identity": "KTMkUG8WCw9FdH44jLMBpc1teGafnYL6SgP4fHHbsNM",
+      "voteAccount": "EpicsoqLdDP8qRn3wQRKTSKAXbjK9dUgFfNPRQS77MQD",
+      "stake": 61741049962226
+    },
+    {
+      "identity": "FoigPJ6kL6Gth5Er6t9d1Nkh96Skadqw63Ciyjxc1f8H",
+      "voteAccount": "irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W",
+      "stake": 61403522945096
+    },
+    {
+      "identity": "SoLiDJGk4WkdinyLiRWjkFbgLUhjL3idGJK8H1rUWqH",
+      "voteAccount": "SoLiDDVm88uWUMk2rQpG7B9wC55a6xveYEz3JnS6tzC",
+      "stake": 61297049295775
+    },
+    {
+      "identity": "DeBB6xpUEUQWhKaYgBGzsfJxR7UQaRJbPmZmGA7jZdu8",
+      "voteAccount": "6PtoG7XfUhs1tSmNL573bio8FKYDHcRufZfb5D2tjwiP",
+      "stake": 61153630572981
+    },
+    {
+      "identity": "Ettghfhr2kQerqAyGUuifFtBX17QecRe2gwpUZTAbZuw",
+      "voteAccount": "Ay5AcULBRJznGEEaGm2mWziRbefETRjdfZ1kwsoXS9u",
+      "stake": 60255580255518
+    },
+    {
+      "identity": "FNTPSUuRpDoJx1hwFmB5ncNLLMX42aE83P4hsFYUfNRL",
+      "voteAccount": "A9jRCzF4uxLVnVs8ihQECtZ5ZMbHUvoZusddxTQ1iRQc",
+      "stake": 60083407347920
+    },
+    {
+      "identity": "6oscnrXS6LBipaXfcbMhQLm4M6bihhsxfTiHajvtYy9F",
+      "voteAccount": "wBHoS4crohFySMYhApDtjgoMFsXPTsu2nULPf8Geon6",
+      "stake": 60030610561744
+    },
+    {
+      "identity": "5CfFhpErZrKcrDLQtB7R9V66cAvQkcc6NmMPeA12vDgS",
+      "voteAccount": "4mUZWLYoo16fe2S2xZ1DdXZHBxynRWBAf3prokBQsxac",
+      "stake": 59986447311493
+    },
+    {
+      "identity": "4GEEKSwuiBHWTff9WaqrDcToZjbX6KYdyB4c578Zxse2",
+      "voteAccount": "4GEEKSwzc242QKF1uzzodpFaxb4GShQEZhkZfeXd27Vi",
+      "stake": 59875782630748
+    },
+    {
+      "identity": "FEtkEYC16YG4ANgohvGUhobZMTSKmNKJc5h8QvpRazrA",
+      "voteAccount": "C6o1toH7rriz2DocmgTw6JzFbJdLpQ9w2QsjeKQQinfZ",
+      "stake": 59797300868674
+    },
+    {
+      "identity": "AnKWYWA1zktynzWqPC5KQFYWrTEWNny2CAHbAVU9zSXT",
+      "voteAccount": "9DR48EtgDzh3Gx5HiiQikZn9c2y12casm1bcUMuurV2x",
+      "stake": 59725449208384
+    },
+    {
+      "identity": "9U4WqNGVywKt3gG9HSt9tGVXBDXJvgid6BVweRysaJmg",
+      "voteAccount": "6hTLQ5HSdWcpZkbXmZxXaGjCgTh7zh8UeWKWKgGE1BPp",
+      "stake": 59529072821818
+    },
+    {
+      "identity": "4YGgmwyqztpJeAi3pzHQ4Gf9cWrMHCjZaWeWoCK6zz6X",
+      "voteAccount": "8jxSHbS4qAnh5yueFp4D9ABXubKqMwXqF3HtdzQGuphp",
+      "stake": 59041165894659
+    },
+    {
+      "identity": "8mhdbYU3PxALpTfDrdTYvk5obaGxL8ATQMvCLXW9SV2L",
+      "voteAccount": "1eufsJbqNgMProke17FLSw7JrD97fYhGggrnH9zyWnG",
+      "stake": 58321863623434
+    },
+    {
+      "identity": "Spiky3mMSLHGhffuEhYR7ptMNZ8NddddwrTjki4VhWk",
+      "voteAccount": "3dXXxEaV4fZqw1PL7VezfDkiJV5W4WTtRjh2EHgKSthF",
+      "stake": 58278823386881
+    },
+    {
+      "identity": "AmhQFcGvH2hjkucP78rn6GMKSbstYwyFpCDVKZUwBGrG",
+      "voteAccount": "BdM7KCd6ZYWcaCMmHVi8YeL4jFzDVM9cRLJUeRAGSvMS",
+      "stake": 58257737255896
+    },
+    {
+      "identity": "ZoD1XLMhxdMveAJL4x9oab4FhRKP5NThTnSCH19Tdjp",
+      "voteAccount": "ZoDVQ5zCgFyVm2Y6vHhZ6boQEZNV6sMVnefev4M2Bes",
+      "stake": 58151493148560
+    },
+    {
+      "identity": "CfXY2KyS6PvGW3oeSb7NCFZcswRZp2FAJY9E96hCvvVp",
+      "voteAccount": "8wEfU2LDRFTJf57fv1FutTkp8LEW7cR2m5L7ZNNXXMCT",
+      "stake": 57994719745026
+    },
+    {
+      "identity": "7TYbdqaFpHbLUWBe6fTc19XPweUMN6fB3GBW3TzZWu1i",
+      "voteAccount": "7YCDRyGNn8g3WgZg25JLB9wKuERMkj99AFc8zHAQVwSt",
+      "stake": 57797617022752
+    },
+    {
+      "identity": "uxqVAFQfox97HazsPtkKiwhypQH6jEGXkQBHDtXshrk",
+      "voteAccount": "gGQb6ZcDG7fsVLWTvXZ1LLoY348tc1zcP2wkh8kshrk",
+      "stake": 57738513460642
+    },
+    {
+      "identity": "2X7WoaXX9KPqNrNfvguhnwo3rjFPNsfw2t75fGjWRthz",
+      "voteAccount": "BmMVRAVef2qmJ1tJpG3JwRUtnfEiTbvDw9ZeFEi4wE7D",
+      "stake": 57682692540723
+    },
+    {
+      "identity": "4nGV3oRHi9Fkk7HwakFS1ZjVq6U7M2v1p5xLrAbYLQtZ",
+      "voteAccount": "5okzFSJ474W7xZ75Xztdcvr4Kh61ZQzEW7eZisCdHxzc",
+      "stake": 57466679165890
+    },
+    {
+      "identity": "sce2zXNjLpPMcSCATTrLiQhAAvHNNMKypTFVtg2H37U",
+      "voteAccount": "9BSZriSFS8Yb835exZwTLN19Dqy9B43yvuMAAdL3nBvz",
+      "stake": 56423786369871
+    },
+    {
+      "identity": "scb2TYPmwHgKxXJaJNq6gHKwYkVyLKx58hz9RbCKZZR",
+      "voteAccount": "FWwnxVb7Q59MoMraDN2k8gqkdJJVd2qu9o5iiQsxpoUp",
+      "stake": 56422928048806
+    },
+    {
+      "identity": "scs1NCSTafrUX6RBx113B9YDCepo1QdEzU8WwEkf25i",
+      "voteAccount": "2zxo26eJJSryYa5fdMRoWWvPTx8aoeqZHe6L4767sCaN",
+      "stake": 56413281093619
+    },
+    {
+      "identity": "scb1Z7du8NVSaHFXsafSjRdXr6xBjWR3iugikL739Y1",
+      "voteAccount": "95Kg9C27WjjrnQpgZ418hxWTeumPTyH1ENnBoimVN5PL",
+      "stake": 56409264801192
+    },
+    {
+      "identity": "XAqHfPFsqTfAJHBRHAcEECkMSykXjkUj2Rta16Qshrk",
+      "voteAccount": "ySxF6XaSFSwU46iJbgyh2rAW5jagLbYULPtWvZCshrk",
+      "stake": 56386429348026
+    },
+    {
+      "identity": "sce1oTWYVXv7a7Hy2skxREozs5nwkQ4wDT8XJSi5tgE",
+      "voteAccount": "BRrgfW2AKKYYEGVU6j1mbnoQajHTRuUgXCAPPzFgcF9q",
+      "stake": 56384952803919
+    },
+    {
+      "identity": "sce3TfT81rxYYcdbP1kBFMcTK3ZBc8hvHVeXD6WLSzE",
+      "voteAccount": "6CscV2sTXdurJKwuJ6RZnPKca6pNhqAhN57ygKga2T7G",
+      "stake": 56328228744373
+    },
+    {
+      "identity": "scs2Ra91pMbvqFAP7uitrN5U25SoyBTqZgBbhpVMJko",
+      "voteAccount": "BjREhubbyR597w8tK9NUCLY74Zct2VuhvrNhyLinVc2e",
+      "stake": 56315998261464
+    },
+    {
+      "identity": "5ZjxMYBbnKd4VFxLjAChSWMTeQ96147HnxZvQJxUseHV",
+      "voteAccount": "8B2Z2R8dRvqFcXuLBwinu3Jq7HQidCaJCnDuRRqeJLC1",
+      "stake": 55702325810935
+    },
+    {
+      "identity": "mds2fZEpJP688PqJHvfLxGyf2VFrcNkvjuUxNYCwjrq",
+      "voteAccount": "5cJyfCLBfghRtoCuVJNreJgNCStqXLrhHmRhSRYtbgtr",
+      "stake": 55377716898221
+    },
+    {
+      "identity": "mds1WWedpezW3qvgML4WgP341jZksYAy5SbMLwjP5KC",
+      "voteAccount": "6zzAPhyFZgS6rdknHNZLcsoooZ744GtVmTDyfvRmN37Q",
+      "stake": 55249122015167
+    },
+    {
+      "identity": "mds3Df1ieBonG2qS8ZoKTqshq5MgTUNfZgc78cjiCdq",
+      "voteAccount": "ASifxiwxht8FvsiV3VcLngsCBMw4E6zw3QMWoJTbM4Uf",
+      "stake": 54565161239858
+    },
+    {
+      "identity": "huinBRP3muBuqZLMW8ARjdn4mBnEmFFcxiBzrkQz553",
+      "voteAccount": "G1juWDqojmp5CWDhgRqtXrtpAFw9xqhjmEQAKr9faf4V",
+      "stake": 54420535863848
+    },
+    {
+      "identity": "7AGmaR23EUZFsxuyJ8VNUUPb7dzqY41uh9Tsjq7fQGVr",
+      "voteAccount": "FqavJAnX2ioPssR7NkZnSU65fVLCr3AgnghuBKfSnePE",
+      "stake": 53623011742957
+    },
+    {
+      "identity": "B94PGWcxE9iEDov8sZobTkqEY96Yb5gfcsYWSWpQxh6S",
+      "voteAccount": "FgiteGaHbA22Wt4Quzv3muscQtvX7gzVwvUHbFnb3rTJ",
+      "stake": 53542591458610
+    },
+    {
+      "identity": "574rvsKGZg8rBuSNX7k8gG2mHFvUMwt22sSgJJBMCQVy",
+      "voteAccount": "DhU3Q2NoCxU5ArXJWm3zxFDRuBiPU4fGrJ8kUasPxMnQ",
+      "stake": 53511630736373
+    },
+    {
+      "identity": "sCANXAaS1a7yB8jz3USvGNLfd8DSc9r7TNzNSKKPkfY",
+      "voteAccount": "21oUQzzytWh6y3G3SQ7ehktMh1RrbsJNA4R5pAMNyyrG",
+      "stake": 52892169712349
+    },
+    {
+      "identity": "65pHd5P2VrehonT1cdJ2JUnq5wi3WUgfL3A8RhYH7Kg7",
+      "voteAccount": "HjiwKP8UAYigpUJyKeBEWfKWvaRgKw9fZQRcSLzdhP2w",
+      "stake": 52773425429164
+    },
+    {
+      "identity": "7pR7t5axFfkg2VZB1uAuFNUvpAeowq2v15J4gw5MmHTB",
+      "voteAccount": "59k9CiZ7L1bpEivLrAtaMPMgw18syZ4RQsJUo3hbbj8x",
+      "stake": 52311927035746
+    },
+    {
+      "identity": "2Ue9zGmDnvYRrJNEjuAdNkbbickw6fKWtbeNM7T2rakg",
+      "voteAccount": "6559KMdiUseNSAkRcK9WcFcNTppoj6jWtKVedpMkBYCn",
+      "stake": 52094134217480
+    },
+    {
+      "identity": "6LCpzSkg3Ud1SpCnsYtmByWiiW6tcjSPNmJQmFGQcwaL",
+      "voteAccount": "MENFRm8PpkP2QwFV3iubwiqG6GyJ4LZQ7f9k8DUE9Xy",
+      "stake": 52074395260178
+    },
+    {
+      "identity": "burncPhAzPbo9QCzN9j8ig2FKZjwDhM5zgN2eW3GmWa",
+      "voteAccount": "burnn86ebxJnhtk3cfpHoZxy5nUaC3K9U8VwzgqhEEt",
+      "stake": 51868242463846
+    },
+    {
+      "identity": "AccReGBNBdUCEJ7ZyP231jw7uVJ3eF9u4cLBFAyqQuWm",
+      "voteAccount": "ACCRENAtboR1MyyoiPvwNZNkjt1GcLARrACh6hZXdddF",
+      "stake": 51637375338779
+    },
+    {
+      "identity": "2kVZVTY8FMRZ3WuHzyqNz8qd4Ytbba9f9DaesUm5WLvR",
+      "voteAccount": "4FsAxdHQ6HmFrDD7yCwsKNApuA67QYSCMoLAy3NfySxJ",
+      "stake": 51311284534402
+    },
+    {
+      "identity": "pineXRUnbaLNFMxaM3zBmFfTiKgQMGqT9jYHXZWq2Fw",
+      "voteAccount": "pine9rHVDS1pjwdhYkx3vRyaAyRd5KPDKXZEXAqvxcX",
+      "stake": 50841259386497
+    },
+    {
+      "identity": "ChaossRPGKnsVhX1GfPC78yq5Sqju4cMThcAsKZNz5d6",
+      "voteAccount": "ChaosDKeBjU22B4nnvYWXyTRPuWTzJBR4m3QPfBw6Tta",
+      "stake": 49811772786606
+    },
+    {
+      "identity": "ES1M3tMZ4rMTJ3apE75cHfeGWizDTrMMXy2zKtWkd38R",
+      "voteAccount": "4RcSXeQbgG1v27M27PNNLhy9PGB6uaJACXUZ3kBVc4kF",
+      "stake": 49734770516198
+    },
+    {
+      "identity": "2dxz129YxB1xtf7Mx6HUT5JspexArNNtQt84FYueWZV7",
+      "voteAccount": "5RCD4pZcKH3NHN4XHxvsnVAawSaConLgsZbreSN5dXpZ",
+      "stake": 49412598491562
+    },
+    {
+      "identity": "gotasRuLTuJNZDtLHmaDJpEUjCWZqkHcuwbLhkgCwCX",
+      "voteAccount": "Gotas1PRPrkqqSNm1ZKcn8Tpx9qL8krSQzTZ5DPKzkFX",
+      "stake": 48905017886501
+    },
+    {
+      "identity": "THE1CosYJD9F1eBq53Fg4MZYZa5WrPUf2RQU5ZHnfEj",
+      "voteAccount": "THEVb5dS9gHYnr8eu2FHCprjnyp3uqmHNofUXD8MCQp",
+      "stake": 48389475929565
+    },
+    {
+      "identity": "BirdeyeK5yooepHNNgaW2bGGDD2jmib4oSRFTHyELbZ1",
+      "voteAccount": "BiRDEYE5K1dr6rQ6memx441BaZk8bYXzCwdShwgvLjtf",
+      "stake": 48355828039927
+    },
+    {
+      "identity": "C4bgengueVA9cRcprjutgu9XgvgoaaFnCqvpZaPy27xx",
+      "voteAccount": "7DCb5VuNx9XFqsaEgERyb5mwwRunDNtLRudCEoqhcz6N",
+      "stake": 47903022346903
+    },
+    {
+      "identity": "MRGSoA53J7i4WidVHTxawPyKdr26LdVYCywnrUZ6auT",
+      "voteAccount": "CzmqDuqEpfnkptuLAcikmJrhCnhFXo8aUBj6Rto1SPAc",
+      "stake": 47866104437285
+    },
+    {
+      "identity": "BCS95L5JHBWHvWkcEJBEF3BH5QHxKcPeaTgoYmHLvfFh",
+      "voteAccount": "Hx4UJCvf8amGeuW9fPFfTckRoznDHxPSYiU9HuUSZKLT",
+      "stake": 47391949844503
+    },
+    {
+      "identity": "YE11a5nVJtUNqsojkphYuWc7StqBzbCeFH6BjhAAUEV",
+      "voteAccount": "YE111yizdzBA7JQKMXjy9VSx1shKAczUbs3b3e6vKQH",
+      "stake": 47317044571175
+    },
+    {
+      "identity": "kyzzzgRymGpePUsLyr48kQHt53kh5CSfRH1qfvz1xgj",
+      "voteAccount": "kyvvvkDpDCtSxQMPhzRhmv14DgUBVEGGzn8Dnb8ircP",
+      "stake": 47016952416792
+    },
+    {
+      "identity": "LodeuWMHPiPj2PUHUyca2bkpFv9HyzR3gaDBmGJ9TSS",
+      "voteAccount": "LodezVTbz3v5GK6oULfWNFfcs7D4rtMZQkmRjnh65gq",
+      "stake": 46866646467283
+    },
+    {
+      "identity": "LiFiDJwJjW98MB8wxcnXpafKYsuz1hwpUkuszkERiX6",
+      "voteAccount": "LiFiDDUsf6GCRHwkHzW4YnR1QErj99MAU9diwb8TvWk",
+      "stake": 46615453285810
+    },
+    {
+      "identity": "prt1st4RSxAt32ams4zsXCe1kavzmKeoR7eh1sdYRXW",
+      "voteAccount": "prt1s9dMM15LdsUX9HugajzqPB5WVN8a2mw3frAiCfj",
+      "stake": 46450215960322
+    },
+    {
+      "identity": "G1eAmANVWf6ZeoxG4aMbS1APauyEDHqLxHFytzk5hZqN",
+      "voteAccount": "G1EAMrJcvzs5SwqAQRgDTjYBEGrxxJVwNS7qiUtB3akg",
+      "stake": 46193413516204
+    },
+    {
+      "identity": "Xoir1BnQX9TbEvon9HRbD8tkjcD9dorsxmNjZAV64Re",
+      "voteAccount": "DzPT1ZWDeURdTj38QBSceWnrpYFxZRBLPRXmUgHVDAGR",
+      "stake": 45680902346748
+    },
+    {
+      "identity": "7nzTzRZzezmugqE5ZjHRMxarhXunpwZ2PUdjV7uYzt7A",
+      "voteAccount": "so1arJJbp9sis5XpovLyjTZPk8bDjfs37Meghi5wXbu",
+      "stake": 45463438466687
+    },
+    {
+      "identity": "ABREU5YkQcfpDZymoQ97iGUgQcfgjctWUUxEMfumiPdV",
+      "voteAccount": "ABREUtpzkkMiPHrBebpsYDU3mubtSohjDKZbyRoTJLae",
+      "stake": 44977991438606
+    },
+    {
+      "identity": "ExCHWgfeJyKRzpfryiQn4W6aYaWhbSAEnsoUnBGNqjWD",
+      "voteAccount": "ExCHgw3CfdZTbsrDA2phe95jswV2bDr5oSJwyKJKzEdN",
+      "stake": 44966260888001
+    },
+    {
+      "identity": "4VmboVWgpQKM9hcULoYjNdhrDsy8JDD1S6uxuU37xEBE",
+      "voteAccount": "6wrzzX8hhhwY8NVtZWJqYJJfqnkDiFq6qTZEKLv3SjZk",
+      "stake": 44744470132042
+    },
+    {
+      "identity": "DefiihS7gLkj6xLjjhcr87bFuwpVVNYpeNBaBeFe56CY",
+      "voteAccount": "Defi89YpAhk3Gst1Jpsi3Nhj7yCu5HropESh37SQ2v9g",
+      "stake": 44672400416894
+    },
+    {
+      "identity": "DTELykegBxxEn9c15GbH1zbYFr9CFd8VHQnhTGfz5JLb",
+      "voteAccount": "DTELA4aHtJB8zcMJvKgcUjAYfkGcKdRUN77cpFoMVgxz",
+      "stake": 44442294683953
+    },
+    {
+      "identity": "vnd1Ps8w3fsi54qUMJxBhUWARES34Qw7JQXDZxvbysd",
+      "voteAccount": "vnd1jskPHR2gfMtgTtq6xCwANrAiNbQTKgVBAJHnMke",
+      "stake": 43851253144541
+    },
+    {
+      "identity": "SP9K2c8Z1aaQaqdQgC6hZMJ5UCTTnE76XNYVse7H94b",
+      "voteAccount": "SP2JKHyxhs8eMQUi1wrJEcganVJoMhPe1hygowsusaP",
+      "stake": 43016521556386
+    },
+    {
+      "identity": "pitch9cMruwjDtAnisNS4mwZUPhMsBztNEGu2weMg55",
+      "voteAccount": "P1TCHYwYPsNaNUK6fGkZzwXPjnYAMYRnUUv4c1TREee",
+      "stake": 42989744099939
+    },
+    {
+      "identity": "R2D2imoV8nXk1ngT9v4dEK65We4uLNyUarTBdWbFruq",
+      "voteAccount": "R2D2vs3bJwpNF2ejaB6UW1JdCZ5VstuAmuwxDuUUWNj",
+      "stake": 42975372440219
+    },
+    {
+      "identity": "2Eq6YD8P8QXTeoz9h6JHjgZ55t8RSxNdx4waMDCoPmQU",
+      "voteAccount": "C8MLmDCg3LReWoNCkFdHgsscFpHx2WdtcU9ZziNfXrhd",
+      "stake": 42317421237286
+    },
+    {
+      "identity": "adre1Xia7ekGsEqNgHeFc7MYwkfzTQNeJgQmZ2agAKZ",
+      "voteAccount": "adrePWHJJQNNuMfK3QrBKXDZZuRFPRjhovMMeSr3Drz",
+      "stake": 42076194848739
+    },
+    {
+      "identity": "AWZhUiQjrjtxL8MEMWsCFbMausFQKkdTnDsFW2i411hN",
+      "voteAccount": "41HgiTYQ3qDWFW8jSDkecH2mEHUqZsmwFGDPndtmyLDR",
+      "stake": 41839526119612
+    },
+    {
+      "identity": "8WKbFye8HjNa3rBvx5jEd9gYtfLLXwXg3wzVhavvMSva",
+      "voteAccount": "A2MtELFxn9wAiUrobrZ6vsypQtGHdH3ZesEnvAogvuFZ",
+      "stake": 41591041979701
+    },
+    {
+      "identity": "parayLyZvwnGjDT2pGqrVn8UDxmNcdNQCE8uPRWMeRz",
+      "voteAccount": "ParaCzYN8KHz4B7xsSeEpmTyE5EBjpWifbpSfsDkiTq",
+      "stake": 41493262321491
+    },
+    {
+      "identity": "b1ueZK9bWTywN2587zsScyLTaH18wfRfN5W15XnkiqF",
+      "voteAccount": "b1uei1YN8YVb3qHy2JitBx4Fq9nAatLQFcNbnk6Ex8p",
+      "stake": 41359212636136
+    },
+    {
+      "identity": "3MVdbyD3niYjAj1uskREY5UsxqNj4nvPHn8fCMahdM71",
+      "voteAccount": "EcWtSUtmgCPfLP456LrKG7QqhSSSeSVuQAJSdqFtBK3v",
+      "stake": 41229062062472
+    },
+    {
+      "identity": "Rosss8KdLc366Hg8tqigieoLiXWUwguw9giX4HP1UsE",
+      "voteAccount": "FREEL1BCzmPpNneC7FHCtBqzeWYrHRbtisFvi4N8XUP9",
+      "stake": 40652144356710
+    },
+    {
+      "identity": "STaKesuXJH6UGRizuEVSWG1tyLu5ycKgWj3i1HUdvs5",
+      "voteAccount": "2PEyBgsPYBQ8pMdXQtEaPGNqWQHE9GCnmV2tTVN4GMru",
+      "stake": 40442160150182
+    },
+    {
+      "identity": "DqRT482tSPAyo9LAyXnqT1wgPFVwFTVFrT5oH1Wv2gyx",
+      "voteAccount": "9gY4S2LkL6QJwBU7hpDFEMKcvb7tvdqW29UfobazJG5i",
+      "stake": 40216925642178
+    },
+    {
+      "identity": "8cnksBVjDPspn3AvmxJd8JKUdh4uWDDXzDemPmDctaHi",
+      "voteAccount": "EjyNztuWsaiVFnEB3M6NSut6p6e8UHsUdE8BkmRLMHWp",
+      "stake": 39180708944039
+    },
+    {
+      "identity": "hykfH9jUQqe2yqv3VqVAK5AmMYqrmMWmdwDcbfsm6My",
+      "voteAccount": "HAYEKSWg2EY21k38St9X5yM7QMW6SunKDefs5SqYSFty",
+      "stake": 39167439007307
+    },
+    {
+      "identity": "9q16BB7WGmBxf1nJTdxH5zPnBUhtHqdqXqRFjSjuM4k7",
+      "voteAccount": "GK9MfwWEK7BvMS8eQDaiEPnKcqMJoS7SKUiEBQY2pfxC",
+      "stake": 38837334088577
+    },
+    {
+      "identity": "9JdZLEKhA7k6SxRQ4cJT2Zh5JhRUBJGXcjTNwMtTwSiz",
+      "voteAccount": "7r1g7s6UjYuosRCHwedpGRCbJhZqM2LhUPxgoayRE6Rm",
+      "stake": 38464056167424
+    },
+    {
+      "identity": "kREnNfJrPEHbrjSQDxmxZdGmN6hi7ewXZ3UZTURshrk",
+      "voteAccount": "FH5SX1WUubW9nD1rweZMofCHGhEp8qUMx3PksLfshrk",
+      "stake": 38346189478953
+    },
+    {
+      "identity": "q1yPXLsYcJhzxhUYLewFDjYmsBh2gDFnYqrZ9VPshrk",
+      "voteAccount": "FRqYRkp3tUoBc62pnabeX8SVr6p3v6HM2tzT2NVshrk",
+      "stake": 38266905587409
+    },
+    {
+      "identity": "U82KEYMnuCiZSQbvuCJTZ652HX9NQ63uNSnxyucshrk",
+      "voteAccount": "c3wFuF1LCtsY5DGo7eBQCwLHhtZgAxNwNDrUCqashrk",
+      "stake": 38186316594155
+    },
+    {
+      "identity": "12i8gndWWWMTRzJBFhnYkobNgZB3XMUUJq75HeUrshrk",
+      "voteAccount": "Cw2b2ng2fa78ndCXHcJMT1pqvdGxUHu5EBEB8KBshrk",
+      "stake": 38183097771185
+    },
+    {
+      "identity": "5LNEDitSMhApT2uFnmtN7FmjCiGuatpnb2uU4f3shrk",
+      "voteAccount": "ksQuu3JAStVXUeDCHeW6QtVRHNMcdtgPyepUd3Yshrk",
+      "stake": 38181976490980
+    },
+    {
+      "identity": "BSMe78Jk1BfeJDdHQj1aXVjrT2aMAYidyNAGQsTshrk",
+      "voteAccount": "T6bpj6H6fr9GyKe73DcNjPbGeSk8twDsiNcU4srshrk",
+      "stake": 38181512071101
+    },
+    {
+      "identity": "9HiuHYVDnoQz7xdL2NFmZdv6S2jYNUQxGg7taDwrZ3gy",
+      "voteAccount": "GwT72fNWtBrFa9GsBru2kPso1NEw3AnzrjPwprVAv32X",
+      "stake": 37438847547855
+    },
+    {
+      "identity": "13DmVBcyrSdsSsLWaKH9x1dwxDf48Wu5wprwxMmLshrk",
+      "voteAccount": "GLB3jUr5zuu79zFuEH3KP7boxtWsjHVyYRBK2SPshrk",
+      "stake": 37248460881326
+    },
+    {
+      "identity": "mALL2W6DUgDDtcyurC9v5YTF2CMMeuRwPBkf6tEoG3y",
+      "voteAccount": "mALLoAbdQrgsnm7kWJyPrhcQcmxfT73t8DaqEkpZNd6",
+      "stake": 36980504067350
+    },
+    {
+      "identity": "CARBN9PY1Qej1aCg4885pfoYH8EHfjWuMy59pVa48ky",
+      "voteAccount": "CarbnAxSfvsBdp6otKtoUa8XmUaX9PcsGq6R2WqZMuw2",
+      "stake": 36690159778828
+    },
+    {
+      "identity": "FzaAiLVXh6xXAFCfJNfBVQVYJ884zWz3LZVVmC8iRgdP",
+      "voteAccount": "AaxfteYTX2ftBRQfW1x6FiC8wY5dCJYgsPr8JwwMUuPZ",
+      "stake": 36325665550164
+    },
+    {
+      "identity": "2374M8ZtmrpdY3ywb7fLqokSd2mRhvdJu2PUwoJmbTUh",
+      "voteAccount": "4565LXcdfFzN9bHqo1eCZRogsgQREf4oiyjoKuWu7XTX",
+      "stake": 36142121808607
+    },
+    {
+      "identity": "SANDCxXBbQhvbUqNtiLqKdFEY1uQhVo1UgUACaS4mXU",
+      "voteAccount": "SANDhe6azby4EMLJd8N77QTk5K92n2tCi4NXba7iwuc",
+      "stake": 36047029083173
+    },
+    {
+      "identity": "9D3o3EYeknhTrRvXS1PnD2euGXnMFa3HwpYBq5gPZJDA",
+      "voteAccount": "6yg4Usyr8VkvY8m7wrbLHegKVnKaAQmEwS6cuGnwB6wT",
+      "stake": 35897821823705
+    },
+    {
+      "identity": "BhNnboEZb3mKkVADMH11cYGWCqefAfmhzx5rU4eRTKGY",
+      "voteAccount": "HYUU9pLdZRXsMSy3efikYHLKagtubP2UZYtmfwP9FXpu",
+      "stake": 34901968514257
+    },
+    {
+      "identity": "te1ee9rGf369wxYQkuxkvuvMuTJ9cksgZySmNUF8rNY",
+      "voteAccount": "te1exfYnykh2cFGCwGSLQu26Dpr8n2PozvBqH5Eoi3K",
+      "stake": 34698483624636
+    },
+    {
+      "identity": "R1parD2CtxPBGPABB2m3JjuLpGgNLiJuLxyt7qvAJR3",
+      "voteAccount": "R1vAoSPFQdCc6wsAEMtxWXjqptSeN1YUiq2Zni1of21",
+      "stake": 34587341330169
+    },
+    {
+      "identity": "BeRtYZnaaZLFwYQRPaZcxuuHBmyFBSGP32C8Ls5xnrZP",
+      "voteAccount": "BeRtYZ7SVQozwTby6ajQzrHtKYkn4qoKyRfb3NDAedtA",
+      "stake": 34262326438911
+    },
+    {
+      "identity": "UZBmptMjMSQEPKm4WyUkJeAuvZSqTuNK3cQCKFqJcXT",
+      "voteAccount": "QodirbUG8AZQBWpHhPJPfjj1xg4AaQUZCVVtwT8YfPi",
+      "stake": 34124597228006
+    },
+    {
+      "identity": "ark1hdnnfmusE24wGHkyVG1gdRCqfmXs9drasDAdABZ",
+      "voteAccount": "reyYoUdFgtDLxAWW1hyn5xk2PHstA3j8zUrerQi9Ayq",
+      "stake": 33679857731990
+    },
+    {
+      "identity": "GQqxGEmi6aMBZtcfmfmC5Jgx33X57ksvNYoo8bMH52T9",
+      "voteAccount": "B48pw5uXH7gkCibuCBPE6nezKsCmYfFFwveCeMHpq4iv",
+      "stake": 33562908175452
+    },
+    {
+      "identity": "Uf7TePem6vihMBiRg2d1ivnoNtRapdATfe5o99NuZH6",
+      "voteAccount": "BtuCWGCncwPkxBYkxSL4UBLAXxwhfLCYufp6Pucc8LnM",
+      "stake": 33504390245188
+    },
+    {
+      "identity": "w3iDxC22CnKLUcST77cp5ZPGbEjXGrp5gvgtEPNNMaA",
+      "voteAccount": "w31ABSwje1PrEiMdDRGkoAAoijpLxhVNkaX9T1QmE94",
+      "stake": 33433085692396
+    },
+    {
+      "identity": "EBk678aQvc3cUkfGyoehfw21JQfJXjmWuBeopYc89RSV",
+      "voteAccount": "EtMSc3MvcDXUr6ChK5GxyFVwTxYA3zqP5XzjE9jwKvSV",
+      "stake": 33304255938020
+    },
+    {
+      "identity": "FFevTkywysWf8PJvH4DZkEp4v9ks9HJPJhZWbhhJiYnr",
+      "voteAccount": "5DutFKQ8qPmbjFEmp31QH9JDYJXvwh9pma8ap5Phxk6H",
+      "stake": 32971354015449
+    },
+    {
+      "identity": "LTP1bMnfq1Z6UctyDXYHo9qcUJ6ReXm9cG2VwQcsHBt",
+      "voteAccount": "LTPVqpXFDkXh1e8afTkX5RkxyGkM198TcEUYAq7bUrK",
+      "stake": 31829607418432
+    },
+    {
+      "identity": "2D2v7sMqDuq2ekZnFhaQm4k2ErWHemZQuYf5qaVTPFmg",
+      "voteAccount": "7rFAeD5UT4fy8cQCnY8Y5F8GW1Wgw345Nxb7diXu5cjG",
+      "stake": 31661729456128
+    },
+    {
+      "identity": "6yVX5rkTR3NfgCuu37vkmLCeG2RLqKaJHLj4G6b4Dvzu",
+      "voteAccount": "7k6puiEcBsMABVJPqF8dRPc2LG5H4ewBR9aDhRChxfwb",
+      "stake": 31174379422787
+    },
+    {
+      "identity": "SENDa18d6LsC1f85AJXXMncBxQyFQKSJWZ1jaop5K87",
+      "voteAccount": "sENda1ZL5hoQUMpWbvRpReEfkrM4F35g9GBXPpYaZ9v",
+      "stake": 30841730976698
+    },
+    {
+      "identity": "AmjX7CerZbHrU814UeBp2gJC7gANNG3KrP4c3RyD7TSD",
+      "voteAccount": "FzUNgBRnVxawDytN9GM7BFwxFfekuMs7BcAGybn4AmMk",
+      "stake": 30216359354246
+    },
+    {
+      "identity": "REA1zKzM5WjDEcpB27Zx2Rk16foNPtLGTETy93LLgNw",
+      "voteAccount": "DkZehyHr92C4wHYfoXJU6FpKFVeh64LRgkJmFKYub4UV",
+      "stake": 29621381426981
+    },
+    {
+      "identity": "sfvTq7ojrEc5WdXcHijz676eX1pc5MgoLxbkYSdRDAB",
+      "voteAccount": "sfo5vA1fFdPRsvqd8qdePtTnK97Qj6Jj3GupEzmNPjJ",
+      "stake": 28618452227465
+    },
+    {
+      "identity": "2bpfa8JbFfZUGUsedDsemu6vQUxbhcEM8ALSH3PgXd2d",
+      "voteAccount": "Gar9q7Ru2sKfVxFnR5xmV8GieJeUSTp7Uf3ixai9BQKS",
+      "stake": 28616366885773
+    },
+    {
+      "identity": "noMiSMNpN3iGeX3WdF5M2KQdFUQt2RYYpfJ4dN1Ni3k",
+      "voteAccount": "noMiSdYbNQmFDrH2qMvYRXXzb5DUvjyPyDkXadzAPUV",
+      "stake": 27974594317220
+    },
+    {
+      "identity": "EPFZFVrXuveEQar9LaEkt5kDRPMnbvK54qu5FwCxpkcy",
+      "voteAccount": "1oH9rfyrbKoP7ucJ1Zr2HLHmDU8N6G1G6dEuruFsSqy",
+      "stake": 26794855960428
+    },
+    {
+      "identity": "7U68WfpxJF5W1HjVQ2NCQr5EuKhNSvSRAnmWTk6225Jf",
+      "voteAccount": "3pBPy27F1Wz3iVydZnGkdvefStrFm8UMCDakYZii8AUZ",
+      "stake": 26209769300867
+    },
+    {
+      "identity": "BZBKHmW1DhBaAPojxWBQ26vGz42Y7MtNviFZWpc6nGLb",
+      "voteAccount": "AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB",
+      "stake": 25523752004760
+    },
+    {
+      "identity": "dzBhD4wikyy7xqwiJvT49gdrKqWVjfs9M6cTssmRX8Y",
+      "voteAccount": "dzufrE42PJjNNRBstdmunAdeDToDA3Cax6WDpFVj36Y",
+      "stake": 25468129275294
+    },
+    {
+      "identity": "8aPHvzVV91jZF948tykkoF6WfgLHppNfG8Z3V4gCrDix",
+      "voteAccount": "7zKQnt19j7aZ1YjzBk6UUUdr5dGb65A36kW1TYAbB6b7",
+      "stake": 25428518670788
+    },
+    {
+      "identity": "ReFiqMfGnc7tW8WQtFFcJRPZSDAWDBnAsdoFYF2QnfR",
+      "voteAccount": "ReFiSbuMcV8PMYcpvm9RmHDhF9HR3qyxsHZgf359NUx",
+      "stake": 24702578901714
+    },
+    {
+      "identity": "3YX7PQuESmR2h95FDgjahEQjyCBhmY1Ts2MsrM1Kg9DS",
+      "voteAccount": "LNRmxHyXAzgBkgxDmb4ZefwLAnSv3fdsjPgjmThoa1T",
+      "stake": 24631098944574
+    },
+    {
+      "identity": "32ke3uf1qL3xLqbwzU76T2sbG2XaJrGuSCNdUnien3zm",
+      "voteAccount": "AX6v1G9GH7FNcoX6ogNyoD2fZiLaNps7heL9RrGUYGC8",
+      "stake": 24199113020212
+    },
+    {
+      "identity": "EBoKqyT2kCabcHXgpF7ScwrHgGUsR821xkTJsHtP2JJi",
+      "voteAccount": "4DW4nrbGrjXRhhj3CH3AYgocExfqEoCCSMxZ9uzc3NpK",
+      "stake": 24083599817889
+    },
+    {
+      "identity": "5P35CJVKU15Rrh5M6EVkre23EyA3K34kAut2GXhHKM7W",
+      "voteAccount": "9hHEiSDTz9LeA4B4N2tJp6SPchwWZbV1X7zWN8hYoMhb",
+      "stake": 24002435408886
+    },
+    {
+      "identity": "D1Vbgkrhp1TmLGhfUD1urRMx5Ntz9AqQpgdX8DR8QMC1",
+      "voteAccount": "gfR2VCrsVcm1gF2teasQpP6BdX99mVVFhEQck3UhTNC",
+      "stake": 23860570666375
+    },
+    {
+      "identity": "1Link6hB1NpkCwJt3ZtpQKZszKauhEcKgiWjaU8PRDG",
+      "voteAccount": "1LinkCP4qUqGvUiNuAWhAxQyopdBxsh4vhfLBb4apyR",
+      "stake": 22652147093660
+    },
+    {
+      "identity": "3KNGMiXwhy2CAWVNpLoUt25sNngFnX1mZpaiEeVccBA6",
+      "voteAccount": "BH7asDZbKkTmT3UWiNfmMVRgQEEpXoVThGPmQfgWwDhg",
+      "stake": 22438425983504
+    },
+    {
+      "identity": "hyp3Eo67t6FgeuWg5Qxbeme8NPXJPXXdKT4iJ4DsLf2",
+      "voteAccount": "EpRvips2doUUdxvs3Qhf4MCLqVeJEPu47Aci5QbBXASV",
+      "stake": 22120083099670
+    },
+    {
+      "identity": "EwUVzgSPe1zy2hfUGZxJAEP7Y1wheNgNsgratbzPELru",
+      "voteAccount": "438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw",
+      "stake": 22088502108898
+    },
+    {
+      "identity": "ACTGYsH7bHbaSP7z9N86oLPHBThAELbGfTboc1VoFeZz",
+      "voteAccount": "DMPhNJFSvi34NmfcqR4B5rdKgDYY3kZbXpdXJBL4cJ1q",
+      "stake": 22057000162208
+    },
+    {
+      "identity": "NWY18yrPHsTogTDq78HpB51D7gC5AGRsvJ5pPqSchkH",
+      "voteAccount": "H3GhqPMwvGLdxWg3QJGjXDSkFSJCsFk3Wx9XBTdYZykc",
+      "stake": 21846620928182
+    },
+    {
+      "identity": "96XWbKem84optM8RLHhc8EYJQG8CCWA8F6oqWMPHDweN",
+      "voteAccount": "3Qvmhayko5Yn3sSXDsHsMzS8QjdU4CshQF2y6L276kgi",
+      "stake": 21653677996251
+    },
+    {
+      "identity": "5HCTsoKM7vwjubSZSyVWChaHQ9sNNRB1d2SuvL3eZ6Y6",
+      "voteAccount": "33JxTD3GkHU8zePNVNjJwEM9BFChWtzPdGFMwL4Ar6X7",
+      "stake": 21323939769929
+    },
+    {
+      "identity": "anatWca4MKScN6y6zo5GEoao5ABy1BLHYLz5s2DnjZA",
+      "voteAccount": "J4ZJRgLhBcwFQpesq9jSWhian4czdVFJ2eo3WvhomQNq",
+      "stake": 19999997717120
+    },
+    {
+      "identity": "STPTshazcjH6cZMHzQBrggFSPHXYCTRGB7ctqS1AjkH",
+      "voteAccount": "STPTPuWoyKzbWawom5DBndxkeRFAjW4PzJ2EjL1qeMW",
+      "stake": 19726026208302
+    },
+    {
+      "identity": "AdSHK6vpQnwHRSw7jXUwjMEytmhFwnynZSENhvpAxL1y",
+      "voteAccount": "9NZ18GkTnXZug6eXAzpBsmyCsYfAJ7mL9bgUfSJDSAKr",
+      "stake": 19666586422216
+    },
+    {
+      "identity": "8n9KRHDRDuZErZwdwzhtsTFJxmHqgCQ4ddZcdk6GMzvQ",
+      "voteAccount": "xSGajeS6niLPNiHGJBuy3nzQVUfyEAQV1yydrg74u4v",
+      "stake": 19174991565255
+    },
+    {
+      "identity": "2ufnDYz755WuHqGCczry1ACTNUVZdn2cm43bCyyPSZtH",
+      "voteAccount": "59uncaiGG7RMfH6yMc6tLR69d61aT5yEcJq6ccq5Xbbu",
+      "stake": 19000999717320
+    },
+    {
+      "identity": "DiFeTctQSaNczJNmZ5121kYqLaBe9wDpM9sjCzTELJLE",
+      "voteAccount": "FXcZJuQwkcQpw2YrkTaxWJ6rnw4P12wvULttviMRn655",
+      "stake": 18512628639792
+    },
+    {
+      "identity": "E4xNK4UwGnMtkdiUPyx13i6NkFDdW9Gw9NFGY93wEdGZ",
+      "voteAccount": "FEjcS4JCTqitjzW4Zj3Va2ioZZKf7MqsCMnrrgGLSvjm",
+      "stake": 18398716272640
+    },
+    {
+      "identity": "78sEMVmeecStjxWU7XMJMH8bMRBW9vSiEAhAjtZbt3fW",
+      "voteAccount": "4HUU6x8y8A22PWy5gUXwLzDfPg5pqkGpGqN2bKti7Kqk",
+      "stake": 17558155001985
+    },
+    {
+      "identity": "2Le6TjeEescF87qDA8Ftdz6U8Kq6SNVwoLJLhzBCHUr5",
+      "voteAccount": "Fe5zMqkmoYbwnXH9RHjFy7YMRnak9so2bzPBroPJ4iiX",
+      "stake": 16732976569725
+    },
+    {
+      "identity": "4kL5QD8ir5CvkuvCUnQhBDuWhq3Xfnz3UfQLt4CqPQZQ",
+      "voteAccount": "BARLL1NvF3jPHQ3zb82q1v5m6uewcpkgRBYVNufQMWjo",
+      "stake": 16483464982827
+    },
+    {
+      "identity": "9USijQaAfSzw6gWbHNq68VVigmj3HvffDJYhbK4tfquB",
+      "voteAccount": "773eL4qyoHUi6s3pWWEWTnaYXELNs4nY5deMevpSF5YE",
+      "stake": 15916957932016
+    },
+    {
+      "identity": "custm2hZdfZKpL5xGCUpShF23h7uXFVtL6fK7r5Ca7g",
+      "voteAccount": "5ni6KoVM62cRJNfFFKGdiyDfYbKWWAGZ21cfGZcj1y66",
+      "stake": 15798122173853
+    },
+    {
+      "identity": "RFLCTDRBVZTEbXrCd92jnKghYeDJARb6ByK2JnPfQmH",
+      "voteAccount": "rFLcT89WTT6kJsKmrMzpz5FUZHy7Z9bycBF1Q1SMy6i",
+      "stake": 15347156058805
+    },
+    {
+      "identity": "anzaeL7Lsv71HW2mew8YcKGyGqL6qNn3xoNPRrejM73",
+      "voteAccount": "49ufmzpErLmn7jAeP666i8nMdXhFuvzjCbQwf2oEMkN3",
+      "stake": 14780280049796
+    },
+    {
+      "identity": "9cS2cDhLmRoUCqkhMjXZs4HC1YYbP5QYweCP3vVqodcb",
+      "voteAccount": "42U2eB71MKU7mqVpy5b63meM7Pd4YBqwAGSDevjJ9E9z",
+      "stake": 14556024590537
+    },
+    {
+      "identity": "5yEnvhM4Ld3UZs2n173J2iR369E1ddcbQYeLSZxk4cYj",
+      "voteAccount": "B38JgkTi7Fu2Uxk8JzNw4M7aMhVxzGu2fsRqHNScPkCQ",
+      "stake": 14326065842600
+    },
+    {
+      "identity": "5N9r2ne7dPgHtzeHC5ETJ3DAueKQiXSU8KAmEZrrojT7",
+      "voteAccount": "H7fXvnLCKtZqJBTipxeseabGfAZUdHJ9XuP6hCKrbvUb",
+      "stake": 14187728343909
+    },
+    {
+      "identity": "9jJ3YRBL611e7xjXFMBExuninmTWjDnv3FXNotHmPnK2",
+      "voteAccount": "D9kxpQ1Buwrt9pbVRiBwNsUEdUKzmEUj19GZf4yVrsw1",
+      "stake": 14001380702776
+    },
+    {
+      "identity": "AS4i8EXUZnPbmNT5ZXmoTEbrXQrbFoReiWwwFB43Ds5z",
+      "voteAccount": "5AC692spnjbegP7ttCXJEzUe8S81sLYsqJd8Ae6Zv1xU",
+      "stake": 13420855866431
+    },
+    {
+      "identity": "EATpCzQNs8BzZh1mx1hXMAJm3o1MLXakTXr4UEmcsY7f",
+      "voteAccount": "EATzgj3KL3NAkaSKv8JFXPJahGueMbvTdVZj4zD9nQiV",
+      "stake": 12337918434738
+    },
+    {
+      "identity": "fhsM2sxME8cHrrk3qvtMsRRDv5AoLFja7NjNnHeYZxe",
+      "voteAccount": "FH9xcL7Fqkreq1wSkn2Vf7AfnMEyo2KK7QX32LTFndt6",
+      "stake": 11854227863825
+    },
+    {
+      "identity": "7zAHbRxEQaNjKnQMjFm7j8LebHSGfzsQDdm2ZpUNPa7G",
+      "voteAccount": "FXRu5NA4ouLGFuZNNWZFwwnvQz9zE7JCX3D23RJTc2NU",
+      "stake": 11708705966885
+    },
+    {
+      "identity": "FttTBmXi5tmGJtiRcbVLwfMnY3ngrxw8DNSWRWMrr1WS",
+      "voteAccount": "6fCLXKxDSNMv5tXDdq3s6diaKVtP4pWLiLixVnDaWJvQ",
+      "stake": 10009998717120
+    },
+    {
+      "identity": "fotby1ABxpei2EVH9uXJ6KbHYgPjbg4Sny9eRzQjtRN",
+      "voteAccount": "4T799AaK9YT7zBtVqYZEnCY5ihUF5XaEYemwr5EnozoQ",
+      "stake": 10001998717120
+    },
+    {
+      "identity": "F1REzm2dJW1wfj2yHjCMV3FxVs8TXQG9qoW4MFEz6uYo",
+      "voteAccount": "AwmxY25ecvuLxRJKgnVX1ZnjYZcYzZX8vHwkCx4x1FZw",
+      "stake": 10001996434246
+    },
+    {
+      "identity": "FZrSKKsKfZJovcQWRQFDXz8DbHKCSRZLZqbBAGd1dG57",
+      "voteAccount": "8FPz3JG4E3HVXxGbPZVibarva4AGXSZWx3qKLUS5uFtN",
+      "stake": 9870256390921
+    },
+    {
+      "identity": "9fa5wcqnAQqHyn58U1vHHLuZW5GXLcoho7hKT17jGJfZ",
+      "voteAccount": "BfxZj7ckfRGHxByn7aHgH2puyXhfjAUvULtRjJo4rd8C",
+      "stake": 9791533419754
+    },
+    {
+      "identity": "svsD6T44XJnuXQWB15sy1pBxxruzrFy8rR7gXy8Jsj3",
+      "voteAccount": "9rwCwfL74J6AfgKbVK7s7jjMqngvHtiBcV1WTNXN8hLa",
+      "stake": 9282184221424
+    },
+    {
+      "identity": "4vXCtYfPeracuQg3a67Zx4jvtJco6MU3LKip8ax6GkVq",
+      "voteAccount": "EPrq1DvsWqX9CHBKgMU7gxvNvPbqRLhbqz2QzHcPFzab",
+      "stake": 8710653379815
+    },
+    {
+      "identity": "6dtVKjb6vRwNAekki2FXhKv8WTNzQ3xW6HWMCNWqtoDy",
+      "voteAccount": "eondcw2upjH14EuvBzmn6HfGEGo8t9hG9JbXtPj6cym",
+      "stake": 8455093845080
+    },
+    {
+      "identity": "6dpdFgXyTGFTQkefKNTx6qgqwGEQa9GE1msghJTZoxQJ",
+      "voteAccount": "HVAeVitGdEinQZdKBMKRwALYEqrAPjAPjFA2LuqBJ4oc",
+      "stake": 8340555983852
+    },
+    {
+      "identity": "MicoB9cA9R6jsicdhzWFjwd9HMkV8FA4o3WxYU6Z2yz",
+      "voteAccount": "MicobSZgB9CZNvmnFSYbEtMjy7CUui5o6P3XoGTwZC5",
+      "stake": 7991076832399
+    },
+    {
+      "identity": "KAoSp3EudGqUBXv46tQoDwbZxSm3iXa9wM2aF4ySbJJ",
+      "voteAccount": "kaosFcskhYZCQidKKmkUSQLAqwpz3vtPpyyZ67N5NwA",
+      "stake": 7740853751551
+    },
+    {
+      "identity": "HrWYa5vKZrcDbQWE39SGYwyzYcbsmXfBiHJGxpasymm",
+      "voteAccount": "nfGcSJkP35SkPa5475iBChmq1UNcj7JE1uQHrrasymm",
+      "stake": 7691012712680
+    },
+    {
+      "identity": "KAW1LjxH73tRBd1XsaqsRsgeERFkg4WpdXUSqR4QjkW",
+      "voteAccount": "kawiL1oKtakS5xXsmeWKV9ubUJPtdgBrRU9EgHGDADf",
+      "stake": 7547397650330
+    },
+    {
+      "identity": "GLAMiBuunBioazKwNbkGnWP6BM2sfVjehr4goPPGBFAC",
+      "voteAccount": "GLAMvLYFVzzgXPEjwdTKFqXShckYvFaF3Z1r81Pr8UtW",
+      "stake": 7457482009999
+    },
+    {
+      "identity": "FoXyHJXdQGK2eHoTjSAzHq4hzxWdJvpGgyzrtPS9eAk",
+      "voteAccount": "FoXyNdpkiQBsWgrYER43PcZ5rcpzMk8jGxN3NyEx5dmB",
+      "stake": 7274198877588
+    },
+    {
+      "identity": "etherUisfbmZze6spQmtv3MD2VUCEfqJV1xjVcN6nbc",
+      "voteAccount": "etherfVmEL2ymvdhjAm3FKGdrJECFaG3cZ3ktZvQ2yX",
+      "stake": 7162777273662
+    },
+    {
+      "identity": "MFLKSo4XDfrBf4FByx76zYM2dXSWcigag7ec2bCHTR4",
+      "voteAccount": "MFLKX9vSfWXa4ZcVVpp4GF64ZbNUiX9EjSqtqNMdFXB",
+      "stake": 7162363338953
+    },
+    {
+      "identity": "Lua1fxRRHCnjVAYdfGyv2GbUsRHGM2DN2wgpWuF2WSb",
+      "voteAccount": "Lua298Woc4rgcswL64yfWAL4EW44FgBZeLsKforf6tJ",
+      "stake": 7161825072282
+    },
+    {
+      "identity": "UMi1r5J3SagSu4HC3waB3YFzbXi82rRSScgW2e8NTfr",
+      "voteAccount": "MkyLHecSHN7TBdWgnh2J8KCsEHnsqqbVYSxtGmsshrk",
+      "stake": 6992934870601
+    },
+    {
+      "identity": "dxa6QFqLcByyHykLCAW5tv1VYNVQFV3v6oovM2h8inH",
+      "voteAccount": "7MKUXUiiVeWFwLaNyw5exkujXnen5yB77hQa54KLD98h",
+      "stake": 6788090717120
+    },
+    {
+      "identity": "D75DEJ95QUxaDodQisCtsdBPDQRV11gHs6iUgPaCFCRB",
+      "voteAccount": "BJpPuUjkK22W3hdNJ5ZNMPrBVWo7fkEgyq32AaT2JQdG",
+      "stake": 6306001000000
+    },
+    {
+      "identity": "EdFUcP2f6j9iBg5BqsgJn3WDr1JieiKCo41hZ5Zrsk6w",
+      "voteAccount": "7tKWFaaLi2FJSqukHxUrnXph8M3ynrqn3kEkKPpgcNHZ",
+      "stake": 6287071166515
+    },
+    {
+      "identity": "LimeA3gMLb2SjxrKbP7NsWk1UwTZrw4B6Ctc9dmVU6E",
+      "voteAccount": "LimeNKYH66uR9BwnrPtxPbpqmkambxHVcutGoSaWPiq",
+      "stake": 6114317722884
+    },
+    {
+      "identity": "9Ukj3PkyD3igEDJGt1QTj9ThzjK6hMiadQfa3gm7kjf1",
+      "voteAccount": "37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ",
+      "stake": 5874889296443
+    },
+    {
+      "identity": "p1ayS5DGgrM7m1VU4zcppoTWPbcFGhrBYTh7Wm6ApAC",
+      "voteAccount": "P1ayLpEHHVagavo2WGM3Rp9KKxwYU2VKQrfjdXGmKt1",
+      "stake": 5477375057395
+    },
+    {
+      "identity": "GEM1N1UE3C8BB8EaaEPrcFvT3iLMVrurknjW5AYjUReR",
+      "voteAccount": "GEM1N1pCDGKiTa547eckcwuHWYMsUQeXgnXHfEZLDvpB",
+      "stake": 5366631507495
+    },
+    {
+      "identity": "FLVgaCPvSGFguumN9ao188izB4K4rxSWzkHneQMtkwQJ",
+      "voteAccount": "5yHqB3NxovCEMUniQCboaPRMyyQ7kQQF4QqvC4vaz78z",
+      "stake": 4988689690483
+    },
+    {
+      "identity": "5pwkQYSoZQEq9oNpxNSn463BRqhVE9eff7dDZadV7QA2",
+      "voteAccount": "39QvHsCgHPJUaWnsbd6G9w7FJu17gfjN8piGC9fv5Euq",
+      "stake": 4135451050851
+    },
+    {
+      "identity": "86ajwRu4xCfhM5ALAaHJqn1RVZLaQapDkGcnuufyw6Ub",
+      "voteAccount": "8N4nic4yCUbHf82FCJfM51XjRDhhFA6C2ghiPfZLjAkL",
+      "stake": 4005158560361
+    },
+    {
+      "identity": "6tpuCGuvAZyUwQPFLKmiUfGUKSBjk3yVHJ314cfJV4ZF",
+      "voteAccount": "8uYxWYaRz9a3WPvE2LEgEp6sSfTCTRnRx54yKxdRGgsL",
+      "stake": 3457915307495
+    },
+    {
+      "identity": "744sgXXkRUWA3C74d4assos2oLWFkUHSX4FWcgVPkeaH",
+      "voteAccount": "6eRCWxjaAmNJHUuRdpbXX22ZtXFWAfYzyEPKMbNdM5rW",
+      "stake": 3012896293631
+    },
+    {
+      "identity": "EZHZcXFpiiooHDJymKPro6gSVBqz6JfRwDAnSHUwkXRV",
+      "voteAccount": "DGB2xq1gP7d74HAsuVShUskoU3dmoKuotFDtoPr2kFVT",
+      "stake": 2986283950416
+    },
+    {
+      "identity": "orbit1bWKxnECKLqjhm5rybTiEC2GEYbecyebgEfM5q",
+      "voteAccount": "68q1YeY3QJoL3DF3umVKkCFARYh931sQTbZbRtYthGu9",
+      "stake": 2384022398220
+    },
+    {
+      "identity": "toshB4tPQTFfyd3VFz2tC3nmEFHVmiBMUpcxwWiexn2",
+      "voteAccount": "MS1kjUoVPfy4AgyJLiJ3eC6Gv34Cwr839MryJgNKdwJ",
+      "stake": 2138220686205
+    },
+    {
+      "identity": "HwRia5HUmQcvundpC6iFqwfK4iVNKRSmYm1NKsrMkZBC",
+      "voteAccount": "6jf9Hwx4ChqUpi8skCqmh7bnfTWXHXsqbfqAPHmSzPYc",
+      "stake": 1932557975678
+    },
+    {
+      "identity": "hyprvnbVxRoTdoYwJb2bzzAQA9moDBqwCqd3YL98g3R",
+      "voteAccount": "HugaK1xfCFhmqD3yM4QFiMr88ZX2NV1CR83zVo53gbhf",
+      "stake": 1038735901521
+    },
+    {
+      "identity": "DSRVdh9PQaqAcFtMCbJhyD4yMD5H2EeHNzdbqWctRY4E",
+      "voteAccount": "2mxWiqtwdpE8zgkWxwFaJLn127dbuuHY4D32d8A6UnPL",
+      "stake": 712983216428
+    },
+    {
+      "identity": "8j7RdaofeR9jaXWqYTubqooHpcajP7EfhWbR4UKUB4fF",
+      "voteAccount": "6ANziPu9boXJ6PZzSQoBVEUz8qowKMK3XWaxmG4EYVMJ",
+      "stake": 381584903799
+    },
+    {
+      "identity": "6mCzwUFcdTuz6fFJRA8nY1iXNRJqPpXU1PvCfANfVXhh",
+      "voteAccount": "2juzdQw3k2udsuA2JfkXk4Aw4psZEAnnk4sBHzwC5ZX7",
+      "stake": 221522722711
+    },
+    {
+      "identity": "8cqck84coxk8TGXYBD95QosKCEA6fKwXLevcEv3oGmu8",
+      "voteAccount": "D3wscqsBCJGFzzoB7dB7wQfJzSEFVzu8Rxugfnfk7rdm",
+      "stake": 159097949946
+    },
+    {
+      "identity": "44gvAugcHxhDhZupx6oP4vY7DhjqoonjX8YBBcigmvaG",
+      "voteAccount": "8YxrpeQUEhdgBzaGSaCQMwNQa7YYPQg8iV4ykeHVRrw8",
+      "stake": 51926128095
+    },
+    {
+      "identity": "3iQqh65Gby53aaYUF8ocoiEyhBs4aoe7BTYYWvy1c9dF",
+      "voteAccount": "AEtdq4CwtuktCEUWLLpRTNPBZs6tr7BBqxkHJ1DjAttR",
+      "stake": 44540322090
+    },
+    {
+      "identity": "HYyUe4GX8H8Wpd6rQ9wQQERiAun4XJDGVmUF4PwvzGgn",
+      "voteAccount": "ArL9E6WFZzExCrJgFy68w92zErZs6zHHFngXkZd6pZtc",
+      "stake": 15000000001
+    },
+    {
+      "identity": "GRT7yrpfF1TEvp3RmCzu5YZ74B4EueVMPg5NYtSiPwtD",
+      "voteAccount": "TRAMp1Z9EXyWQQNwNjjoNvVksMUHKioVU7ky61yNsEq",
+      "stake": 10328878322
+    },
+    {
+      "identity": "4NwpynvugnHvyLzr5h9Y7mw44saGJXDNoBjm6wgMiYDr",
+      "voteAccount": "DgPHEon4S2ArZ5m1NaNNyCbhr8Gh2fsMN7vAjx71GGq9",
+      "stake": 5303703485
+    },
+    {
+      "identity": "5essVpBYvocZkQnkrWsMDfRPwtp4BeihJRaweKLR4dRn",
+      "voteAccount": "A5ed2x2wEuHW8KsuhbSaTFU4CYT3WgHfQcwyQXz5SdDw",
+      "stake": 1999353324
+    },
+    {
+      "identity": "3NAiocPECqQVLB23jHBbb5zgPqkacdSu5UReUtJ4YMrj",
+      "voteAccount": "2bUEQXx88Gog7ysqoAfY3mRdHtw5eYdfeCkbcMsm48RW",
+      "stake": 1006495298
+    },
+    {
+      "identity": "ARjog7qHVCP3NGax4Uv2u3MWamyMcfpFPGHRkHJ6xXWg",
+      "voteAccount": "CjqFNSufz16b9DKhyYuGa4QV2gfctJponAEpyEKJVnY9",
+      "stake": 1000034965
+    },
+    {
+      "identity": "AqyRvpjjSN6jWYPxijoJwhmKwJFk6fRYDh9fQZHcJ2o7",
+      "voteAccount": "EeitHdhXPu3pYMb5oPHvLjkaKQMUPzdNnxvrXc3EEHxj",
+      "stake": 848989933
+    },
+    {
+      "identity": "tYeqa8a29XqdD8xUbL5S1pAaWDt6ADFKCPytqFxPCwL",
+      "voteAccount": "3YbHJFAAAXYQDNxJmHJY3z8CFZDyev2evHEtHwX6PBUW",
+      "stake": 10478163
+    }
+  ],
+  "totalStake": 416277200899185000,
+  "validatorCount": 829
+}

@@ -1,0 +1,30 @@
+{
+  "name": "@xencat/proof-generator",
+  "version": "0.1.0",
+  "description": "Client-side proof generation for XENCAT light client bridge",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha -r ts-node/register tests/**/*.test.ts"
+  },
+  "keywords": [
+    "xencat",
+    "solana",
+    "x1",
+    "light-client",
+    "proof"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@noble/hashes": "^1.3.3",
+    "@solana/web3.js": "^1.87.6",
+    "bs58": "^5.0.0",
+    "js-sha3": "^0.9.3"
+  },
+  "devDependencies": {
+    "@types/bs58": "^4.0.4",
+    "@types/node": "^18.0.0",
+    "typescript": "^4.9.0"
+  }
+}
