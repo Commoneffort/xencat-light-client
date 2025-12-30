@@ -20,6 +20,10 @@
   },
   "dependencies": {
     "@coral-xyz/anchor": "^0.29.0",
+    "@metaplex-foundation/mpl-token-metadata": "^3.4.0",
+    "@metaplex-foundation/umi": "^1.4.1",
+    "@metaplex-foundation/umi-bundle-defaults": "^1.4.1",
+    "@metaplex-foundation/umi-uploader-irys": "^1.4.2",
     "@solana/spl-token": "^0.4.14",
     "@solana/web3.js": "^1.87.6",
     "bs58": "^5.0.0",

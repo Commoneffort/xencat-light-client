@@ -1,0 +1,34 @@
+{
+  "name": "XENCAT",
+  "symbol": "XENCAT",
+  "description": "XENCAT - Trustless bridge token between Solana and X1. Secured by Byzantine fault-tolerant light client with cryptographic verification.",
+  "image": "https://raw.githubusercontent.com/Commoneffort/xencat-light-client/main/metadata/xencat-logo.jpg",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "X1"
+    },
+    {
+      "trait_type": "Bridge",
+      "value": "Trustless Light Client"
+    },
+    {
+      "trait_type": "Type",
+      "value": "SPL Token"
+    },
+    {
+      "trait_type": "Security",
+      "value": "Byzantine Fault Tolerant"
+    }
+  ],
+  "properties": {
+    "category": "token",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Commoneffort/xencat-light-client/main/metadata/xencat-logo.jpg",
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  "external_url": "https://github.com/Commoneffort/xencat-light-client"
+}
