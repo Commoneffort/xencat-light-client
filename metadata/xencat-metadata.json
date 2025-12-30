@@ -1,7 +1,7 @@
 {
   "name": "XENCAT",
   "symbol": "XENCAT",
-  "description": "XENCAT - Trustless bridge token between Solana and X1. Secured by Byzantine fault-tolerant light client with cryptographic verification.",
+  "description": "XENCAT - One-way bridge token between Solana and X1. Secured by Byzantine fault-tolerant consensus with cryptographic verification.",
   "image": "https://raw.githubusercontent.com/Commoneffort/xencat-light-client/main/metadata/xencat-logo.jpg",
   "attributes": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Bridge",
-      "value": "Trustless Light Client"
+      "value": "One-way bridge token"
     },
     {
       "trait_type": "Type",
