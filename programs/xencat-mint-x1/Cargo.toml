@@ -19,3 +19,4 @@ default = []
 anchor-lang = "0.29.0"
 anchor-spl = "0.29.0"
 solana-light-client-x1 = { path = "../solana-light-client-x1", features = ["cpi"] }
+mpl-token-metadata = { version = "4.1", features = ["serde"] }

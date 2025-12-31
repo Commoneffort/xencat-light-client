@@ -28,4 +28,14 @@ pub mod xencat_mint_x1 {
     pub fn transfer_mint_authority(ctx: Context<TransferMintAuthority>) -> Result<()> {
         instructions::transfer_mint_authority::handler(ctx)
     }
+
+    /// Create token metadata using MintState PDA authority
+    pub fn create_metadata(
+        ctx: Context<CreateMetadata>,
+        name: String,
+        symbol: String,
+        uri: String,
+    ) -> Result<()> {
+        instructions::create_metadata::handler(ctx, name, symbol, uri)
+    }
 }

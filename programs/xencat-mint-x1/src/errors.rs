@@ -49,4 +49,7 @@ pub enum MintError {
 
     #[msg("Invalid mint authority - does not match expected PDA")]
     InvalidMintAuthority,
+
+    #[msg("Unauthorized: caller is not the authority")]
+    Unauthorized,
 }
