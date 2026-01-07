@@ -340,15 +340,27 @@ See [FINAL_V2_SECURITY_REPORT.md](FINAL_V2_SECURITY_REPORT.md) for comprehensive
 
 ## 🗺️ Roadmap
 
-### Current Status (V2 - Production)
+### Current Status (V3 - Production)
 
-- ✅ Validator attestation model deployed
+- ✅ Asset-aware attestation model deployed
+- ✅ Multi-asset support (XENCAT, DGN)
 - ✅ Byzantine fault tolerance (3-of-5)
 - ✅ Fee distribution system operational
-- ✅ 242+ security tests passed
+- ✅ 250+ security tests passed
 - ✅ Operating on X1 mainnet
 
+## 🔐 Security Architecture (Summary)
 
+The bridge uses an asset-aware attestation model:
+
+- Burns on Solana are attested by independent validators
+- Attestations are cryptographically bound to a specific asset_id
+- Each asset (e.g. XENCAT, DGN) has its own mint program on X1
+- Mint authority is held by program-derived addresses (PDAs), not wallets
+- Cross-asset minting is prevented at both the light client and mint layers
+
+This design prevents replay attacks and unauthorized minting even if
+validators attest multiple assets.
 
 ## ❓ FAQ
 

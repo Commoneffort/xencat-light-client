@@ -24,6 +24,20 @@ pub mod xencat_mint_x1 {
         instructions::mint_from_burn::handler(ctx, burn_nonce)
     }
 
+    /// Mint XENCAT tokens from asset-aware verified burn (V3)
+    ///
+    /// This is the V3 version that enforces asset_id validation.
+    /// It only works with VerifiedBurnV3 PDAs created by submit_burn_attestation_v3.
+    ///
+    /// CRITICAL: This instruction enforces asset_id == XENCAT (1)
+    pub fn mint_from_burn_v3<'info>(
+        ctx: Context<'_, '_, '_, 'info, MintFromBurnV3<'info>>,
+        burn_nonce: u64,
+        asset_id: u8,
+    ) -> Result<()> {
+        instructions::mint_from_burn_v3::handler(ctx, burn_nonce, asset_id)
+    }
+
     /// One-time transfer of mint authority from V1 to V2 (migration)
     pub fn transfer_mint_authority(ctx: Context<TransferMintAuthority>) -> Result<()> {
         instructions::transfer_mint_authority::handler(ctx)

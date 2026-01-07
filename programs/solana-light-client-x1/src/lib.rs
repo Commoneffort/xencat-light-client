@@ -14,6 +14,10 @@ pub use state::{
     VerifiedBurn,
     BurnAttestationData,
     ValidatorAttestation,
+    // Asset-aware V3 structures
+    Asset,
+    VerifiedBurnV3,
+    BurnAttestationDataV3,
     // Legacy state structures - keeping for reference
     LightClientState,
     ValidatorSet,
@@ -75,12 +79,26 @@ pub mod solana_light_client_x1 {
         instructions::update_validator_set::handler(ctx, params)
     }
 
-    /// Submit burn with X1 validator attestations
+    /// Submit burn with X1 validator attestations (V2 - XENCAT only)
     pub fn submit_burn_attestation(
         ctx: Context<SubmitBurnAttestation>,
         attestation: BurnAttestationData,
     ) -> Result<()> {
         instructions::submit_burn_attestation::handler(ctx, attestation)
+    }
+
+    /// Submit burn with asset-aware X1 validator attestations (V3 - Multi-asset)
+    ///
+    /// This is the V3 version that supports multiple assets (XENCAT, DGN, etc.)
+    /// Uses asset_id to cryptographically separate different assets and prevent
+    /// cross-asset replay attacks.
+    pub fn submit_burn_attestation_v3(
+        ctx: Context<SubmitBurnAttestationV3>,
+        asset_id: u8,
+        burn_nonce: u64,
+        attestation: BurnAttestationDataV3,
+    ) -> Result<()> {
+        instructions::submit_burn_attestation_v3::handler(ctx, asset_id, burn_nonce, attestation)
     }
 
     // ========================================================================

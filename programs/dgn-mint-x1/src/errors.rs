@@ -17,12 +17,6 @@ pub enum MintError {
     #[msg("Arithmetic overflow")]
     ArithmeticOverflow,
 
-    #[msg("Proof already processed (replay attack)")]
-    ProofAlreadyProcessed,
-
-    #[msg("Invalid user - proof belongs to different user")]
-    InvalidUser,
-
     #[msg("Nonce mismatch between proof and request")]
     NonceMismatch,
 
@@ -44,16 +38,10 @@ pub enum MintError {
     #[msg("Invalid mint decimals - must be 6")]
     InvalidMintDecimals,
 
-    #[msg("Authority has already been migrated to V2")]
-    AlreadyMigrated,
-
-    #[msg("Invalid mint authority - does not match expected PDA")]
-    InvalidMintAuthority,
-
     #[msg("Unauthorized: caller is not the authority")]
     Unauthorized,
 
-    #[msg("Asset not mintable by this program - this program only mints XENCAT (asset_id=1)")]
+    #[msg("Asset not mintable by this program - this program only mints DGN (asset_id=2)")]
     AssetNotMintable,
 
     #[msg("Asset mismatch between verified burn and requested asset_id")]

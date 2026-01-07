@@ -1,7 +1,8 @@
 [workspace]
 members = [
     "programs/solana-light-client-x1",
-    "programs/xencat-mint-x1"
+    "programs/xencat-mint-x1",
+    "programs/dgn-mint-x1"
 ]
 
 [profile.release]

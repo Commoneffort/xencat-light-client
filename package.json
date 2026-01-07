@@ -14,6 +14,8 @@
     "init:validators-v2": "ts-node scripts/initialize-validator-set-v2.ts",
     "test:x1-attestation": "ts-node scripts/test-x1-validator-attestation.ts",
     "test:bridge-v2": "ts-node scripts/test-bridge-v2.ts",
+    "test:v3-integration": "ts-node scripts/test-v3-integration.ts",
+    "test:asset-security": "ts-node scripts/test-asset-aware-security.ts",
     "security:audit": "ts-node scripts/security-audit-trusted-model.ts",
     "security:byzantine": "ts-node scripts/byzantine-attack-simulation.ts",
     "security:downtime": "ts-node scripts/validator-downtime-test.ts"

@@ -104,6 +104,114 @@ impl VerifiedBurn {
     pub const LEN: usize = 8 + 8 + 32 + 8 + 8 + 1 + 1;
 }
 
+// ============================================================================
+// ASSET-AWARE ATTESTATION SUPPORT (V3)
+// ============================================================================
+
+/// Asset identifiers for multi-asset bridge support
+///
+/// Each supported SPL token on Solana maps to a unique asset_id.
+/// This enables cryptographic separation between different assets
+/// and prevents cross-asset replay attacks.
+///
+/// Asset IDs are:
+/// - Explicit (never inferred)
+/// - Stable (never changed once assigned)
+/// - Part of cryptographic hashing
+/// - Used for PDA namespace separation
+#[derive(AnchorSerialize, AnchorDeserialize, Clone, Copy, Debug, PartialEq, Eq)]
+#[repr(u8)]
+pub enum Asset {
+    /// XENCAT token (7UN8WkBumTUCofVPXCPjNWQ6msQhzrg9tFQRP48Nmw5V)
+    XENCAT = 1,
+
+    /// DGN (Degen) token (Fd8TNp5GhhTk6Uq6utMvK13vfQdLN1yUUHCnapWvpump)
+    DGN = 2,
+}
+
+impl Asset {
+    /// Convert u8 to Asset enum
+    pub fn from_u8(value: u8) -> Result<Self> {
+        match value {
+            1 => Ok(Asset::XENCAT),
+            2 => Ok(Asset::DGN),
+            _ => Err(error!(crate::errors::LightClientError::InvalidAsset)),
+        }
+    }
+
+    /// Convert Asset enum to u8
+    pub fn to_u8(self) -> u8 {
+        self as u8
+    }
+}
+
+/// Asset-aware verified burn (V3)
+///
+/// This is the V3 version of VerifiedBurn with asset_id field for multi-asset support.
+///
+/// Key differences from V2:
+/// - Includes asset_id field
+/// - PDA seeds include asset_id: ["verified_burn_v3", asset_id, user, nonce]
+/// - Cryptographic attestation includes asset_id in hash
+///
+/// Security properties:
+/// - Cross-asset replay is cryptographically impossible (different asset_id → different hash)
+/// - PDA namespace separation prevents collision (different asset_id → different PDA)
+/// - Asset-specific mint programs can only access their own asset's proofs
+///
+/// Backward compatibility:
+/// - V2 VerifiedBurn PDAs remain valid for XENCAT (implicit asset_id=XENCAT)
+/// - V3 VerifiedBurnV3 PDAs are used for all new attestations
+#[account]
+#[derive(InitSpace)]
+pub struct VerifiedBurnV3 {
+    /// Asset identifier (XENCAT=1, DGN=2, etc.)
+    pub asset_id: u8,
+
+    /// Burn nonce from Solana
+    pub burn_nonce: u64,
+
+    /// User who burned tokens (verified in proof)
+    pub user: Pubkey,
+
+    /// Amount burned (verified in proof)
+    pub amount: u64,
+
+    /// When verification occurred
+    pub verified_at: i64,
+
+    /// Whether tokens have been minted (replay prevention)
+    pub processed: bool,
+
+    /// PDA bump
+    pub bump: u8,
+}
+
+impl VerifiedBurnV3 {
+    /// Account size: 8 + 1 + 8 + 32 + 8 + 8 + 1 + 1 = 67 bytes (with discriminator)
+    pub const LEN: usize = 8 + 1 + 8 + 32 + 8 + 8 + 1 + 1;
+}
+
+/// Asset-aware burn attestation data (V3)
+///
+/// User submits this to prove burn with asset identification.
+/// Extends V2 BurnAttestationData with asset_id field.
+#[derive(AnchorSerialize, AnchorDeserialize, Clone)]
+pub struct BurnAttestationDataV3 {
+    /// Asset identifier
+    pub asset_id: u8,
+
+    pub burn_nonce: u64,
+    pub user: Pubkey,
+    pub amount: u64,
+
+    /// Validator set version these attestations are for
+    pub validator_set_version: u64,
+
+    /// Signatures from X1 validators (minimum threshold required)
+    pub attestations: Vec<ValidatorAttestation>,
+}
+
 /// Light client configuration and metadata
 ///
 /// This account stores the core configuration for the light client including

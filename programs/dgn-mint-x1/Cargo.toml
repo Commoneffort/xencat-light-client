@@ -1,0 +1,22 @@
+[package]
+name = "dgn-mint-x1"
+version = "0.1.0"
+description = "DGN token minting program on X1 with burn proof verification"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "dgn_mint_x1"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+
+[dependencies]
+anchor-lang = "0.29.0"
+anchor-spl = "0.29.0"
+solana-light-client-x1 = { path = "../solana-light-client-x1", features = ["cpi"] }
+mpl-token-metadata = { version = "4.1", features = ["serde"] }

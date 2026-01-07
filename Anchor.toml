@@ -8,10 +8,12 @@ skip-lint = false
 [programs.localnet]
 solana_light_client_x1 = "BXBZtvFfCtCapQgqFTxGQ9hgJTQZUoHFzBXD2V3ys5C5"
 xencat_mint_x1 = "8kmoPKtLAjjzQRN5i4emUsmWeu3LM5yPWFrsqZVyekhk"
+dgn_mint_x1 = "4YPipW8txxY3N7gHdj4NLhu8YxybHgarx5dJQCdCnQHs"
 
 [programs.devnet]
 solana_light_client_x1 = "BXBZtvFfCtCapQgqFTxGQ9hgJTQZUoHFzBXD2V3ys5C5"
 xencat_mint_x1 = "8kmoPKtLAjjzQRN5i4emUsmWeu3LM5yPWFrsqZVyekhk"
+dgn_mint_x1 = "4YPipW8txxY3N7gHdj4NLhu8YxybHgarx5dJQCdCnQHs"
 
 [registry]
 url = "https://api.apr.dev"

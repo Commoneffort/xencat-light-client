@@ -922,6 +922,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "dgn-mint-x1"
+version = "0.1.0"
+dependencies = [
+ "anchor-lang",
+ "anchor-spl",
+ "mpl-token-metadata",
+ "solana-light-client-x1",
+]
+
+[[package]]
 name = "digest"
 version = "0.9.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"

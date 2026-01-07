@@ -97,4 +97,10 @@ pub enum LightClientError {
 
     #[msg("Invalid threshold - must be > 0 and <= validator count")]
     InvalidThreshold,
+
+    #[msg("Invalid asset ID - unknown or unsupported asset")]
+    InvalidAsset,
+
+    #[msg("Invalid attestation data - parameters don't match attestation fields")]
+    InvalidAttestation,
 }

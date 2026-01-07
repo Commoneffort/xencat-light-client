@@ -45,3 +45,14 @@ Thumbs.db
 # Test artifacts
 test-results*.json
 *.log
+
+# Frontend (not published)
+burn-frontend/
+
+# Binary files
+cloudflared-linux-amd64.deb
+*.deb
+
+# Burn registry data
+burn-registry.csv
+burn-registry.txt
