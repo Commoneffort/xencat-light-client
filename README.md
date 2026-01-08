@@ -3,21 +3,23 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Rust](https://img.shields.io/badge/rust-1.75%2B-orange.svg)](https://www.rust-lang.org/)
 [![Anchor](https://img.shields.io/badge/anchor-0.29-blue.svg)](https://www.anchor-lang.com/)
-[![Security Tests](https://img.shields.io/badge/security_tests-242%2B-green.svg)](TESTS.md)
+[![Security Tests](https://img.shields.io/badge/security_tests-250%2B-green.svg)](TESTS.md)
 
-**Trustless, Byzantine fault-tolerant light client bridge for XENCAT token bridging from Solana to X1**
+**Trustless, Byzantine fault-tolerant asset-aware bridge for multi-asset token bridging from Solana to X1**
 
 ## 🌉 Overview
 
-The XENCAT Bridge is a **trustless, production-ready** bridge that enables secure cross-chain transfer of XENCAT tokens from Solana mainnet to X1 chain using a validator attestation model with cryptographic security guarantees.
+The XENCAT Bridge is a **trustless, production-ready** multi-asset bridge that enables secure cross-chain transfer of tokens (XENCAT, DGN, and future assets) from Solana mainnet to X1 chain using an asset-aware validator attestation model with cryptographic security guarantees.
 
 ### Key Features
 
+- ✅ **Asset-Aware Architecture**: Cryptographically binds attestations to specific assets (V3)
+- ✅ **Multi-Asset Support**: XENCAT and DGN with isolated mint programs
 - ✅ **Trustless Architecture**: No reliance on centralized parties or oracles
 - ✅ **Byzantine Fault Tolerance**: 3-of-5 validator threshold (tolerates 2 malicious validators)
-- ✅ **Cryptographic Security**: Ed25519 signatures with domain separation and version binding
+- ✅ **Cryptographic Security**: Ed25519 signatures with asset, amount, and user binding
 - ✅ **No Admin Authority**: Threshold governance only - immutable after deployment
-- ✅ **Comprehensive Testing**: 242+ security tests with 100% pass rate
+- ✅ **Comprehensive Testing**: 250+ security tests with 100% pass rate
 - ✅ **Production Ready**: Operating on X1 mainnet with real value transfer
 - ✅ **Validator Fee Distribution**: Automatic 0.01 XNT payment per validator as anti-spam verification fee
 
@@ -26,20 +28,21 @@ The XENCAT Bridge is a **trustless, production-ready** bridge that enables secur
 ```
 Solana Mainnet                     X1 Mainnet
 ┌─────────────────┐               ┌──────────────────┐
-│  XENCAT Token   │               │  XENCAT Token    │
+│  XENCAT / DGN   │               │  XENCAT / DGN    │
 │  (Burn)         │               │  (Mint)          │
 └────────┬────────┘               └────────▲─────────┘
          │                                  │
-         │ 1. User burns XENCAT            │ 4. Mint + fees
+         │ 1. User burns tokens            │ 4. Mint + fees
          ▼                                  │
 ┌─────────────────┐               ┌────────┴─────────┐
-│  Burn Program   │               │  Mint Program    │
-│  Creates PDA    │               │  V2 (Fee Dist)   │
-└────────┬────────┘               └────────▲─────────┘
+│  Burn Program   │               │ Asset-Specific   │
+│  Creates PDA    │               │ Mint Programs    │
+└────────┬────────┘               │ (V3 Isolated)    │
+         │                        └────────▲─────────┘
          │                                  │
-         │                                  │ 3. Submit attestations
-         │ 2. Request attestations          │    (threshold: 3/5)
-         │    from validators               │
+         │ 2. Request attestations          │ 3. Submit attestations
+         │    from validators               │    (threshold: 3/5)
+         │    (with asset_id)               │    (asset-aware V3)
          ▼                                  │
 ┌─────────────────────────────────────────┴┐
 │     5 Validator Attestation Services     │
@@ -47,37 +50,48 @@ Solana Mainnet                     X1 Mainnet
 │                                           │
 │  Each validator:                          │
 │  - Verifies burn on Solana (RPC)         │
+│  - Detects SPL mint (asset whitelist)    │
+│  - Maps to asset_id (1=XENCAT, 2=DGN)    │
 │  - Checks finality (32 slots)            │
-│  - Signs attestation (Ed25519)           │
+│  - Signs asset-aware attestation         │
 │  - Returns signature to user             │
-│  - Receives 0.01 XNT as anti-spam verification fee               │
+│  - Receives 0.01 XNT fee per mint        │
 └───────────────────────────────────────────┘
 ```
 
 ### Core Components
 
 1. **Light Client Program** (`programs/solana-light-client-x1/`)
-   - Verifies validator attestations (Ed25519 signatures)
+   - Verifies asset-aware validator attestations (V3)
    - Manages validator set with threshold governance (3-of-5)
-   - Version-bound attestations for replay protection
+   - Version-bound and asset-bound attestations for replay protection
    - Domain-separated signatures (`XENCAT_X1_BRIDGE_V1`)
+   - Shared across all assets (XENCAT, DGN)
 
-2. **Mint Program** (`programs/xencat-mint-x1/`)
-   - XENCAT-specific minting logic
+2. **XENCAT Mint Program** (`programs/xencat-mint-x1/`)
+   - XENCAT-specific minting logic (asset_id = 1)
    - Verifies burn attestations via CPI to light client
    - Distributes fees to validators (0.01 XNT per validator)
-   - Replay prevention via nonce tracking
+   - Asset-aware replay prevention via V3 PDAs
 
-3. **Validator Attestation Service** (`validator-attestation-service/`)
+3. **DGN Mint Program** (`programs/dgn-mint-x1/`)
+   - DGN-specific minting logic (asset_id = 2)
+   - Isolated from XENCAT (separate PDAs, separate authority)
+   - Same verification and fee distribution model
+   - Asset-aware replay prevention via V3 PDAs
+
+4. **Validator Attestation Service** (`validator-attestation-service/`)
    - TypeScript service running on each validator node
    - Verifies Solana burns via RPC
-   - Signs attestations with validator's Ed25519 key
+   - Detects SPL mint and maps to asset_id
+   - Enforces asset whitelist (XENCAT and DGN only)
+   - Signs asset-aware attestations with validator's Ed25519 key
    - REST API for users to collect attestations
 
-4. **Attestation Client SDK** (`sdk/attestation-client/`)
-   - TypeScript SDK for collecting validator attestations
-   - Handles parallel validator requests
-   - Threshold-based success criteria
+5. **Solana Burn Program** (`solana-burn-program/`)
+   - Deployed on Solana mainnet
+   - Creates burn records for any SPL token
+   - Program ID: `2ktujS2t9SRXE9cA4UVQJyDFH9genNR4GngfmGffjKkp`
 
 ## 🔐 Security Model
 
@@ -86,28 +100,31 @@ Solana Mainnet                     X1 Mainnet
 **The ONLY trust assumption**: At least 3 of 5 validators are honest.
 
 After that, security is guaranteed by:
-- ✅ **Cryptographic Binding**: Amount + user in signature (prevents manipulation)
+- ✅ **Asset Binding**: Asset_id + amount + user in signature (V3 - prevents manipulation and cross-asset replay)
 - ✅ **Threshold Consensus**: 3-of-5 signatures required (Byzantine tolerance)
 - ✅ **Version Binding**: Attestations bound to validator set version
 - ✅ **Domain Separation**: Unique domain tag prevents cross-protocol replay
 - ✅ **Finality Enforcement**: 32-slot waiting period prevents reorg attacks
-- ✅ **PDA-based Replay Protection**: On-chain nonce tracking
+- ✅ **PDA-based Replay Protection**: Asset-aware on-chain nonce tracking (V3)
 
 ### Security Testing
 
-**242+ comprehensive security tests** (100% pass rate):
+**250+ comprehensive security tests** (100% pass rate):
+- ✅ 5 V3 asset isolation tests (cross-asset replay, asset substitution, etc.)
 - ✅ 25 V2 migration tests (mint authority, fees, replay attacks, E2E)
 - ✅ 41 original security tests (Byzantine attacks, threshold, replay, etc.)
 - ✅ 119 fuzzing tests (random malformed inputs)
 - ✅ 5 serialization tests (Borsh canonicalization)
-- ✅ 16 attack vector categories tested (all blocked)
+- ✅ 18 attack vector categories tested (all blocked)
 
-See [TESTS.md](TESTS.md) and [FINAL_V2_SECURITY_REPORT.md](FINAL_V2_SECURITY_REPORT.md) for details.
+See [TESTS.md](TESTS.md), [SECURITY_AUDIT.md](SECURITY_AUDIT.md), and [RED_TEAM_TESTS.md](RED_TEAM_TESTS.md) for details.
 
 ### Verified Attack Prevention
 
 | Attack Type | Protection Mechanism | Status |
 |-------------|---------------------|--------|
+| Cross-asset replay | Asset_id in signature + asset-aware PDAs | ✅ BLOCKED |
+| Asset substitution | Asset whitelist + on-chain enforcement | ✅ BLOCKED |
 | Replay attacks | PDA-based nonce tracking | ✅ BLOCKED |
 | Amount manipulation | Amount in signature | ✅ BLOCKED |
 | User impersonation | User pubkey in signature | ✅ BLOCKED |
@@ -177,15 +194,18 @@ npm run test:serialization
 
 | Program | Address | Status |
 |---------|---------|--------|
-| **Light Client** | `BXBZtvFfCtCapQgqFTxGQ9hgJTQZUoHFzBXD2V3ys5C5` | ✅ Active |
-| **Mint Program** | `8kmoPKtLAjjzQRN5i4emUsmWeu3LM5yPWFrsqZVyekhk` | ✅ Active |
-| **XENCAT Mint (X1)** | `DQ6sApYPMJ8LwpvyUjthL7amykNBJ3fx5jZi2koN7vHb` | ✅ Active |
+| **Light Client** | `BXBZtvFfCtCapQgqFTxGQ9hgJTQZUoHFzBXD2V3ys5C5` | ✅ Active (V3) |
+| **XENCAT Mint Program** | `8kmoPKtLAjjzQRN5i4emUsmWeu3LM5yPWFrsqZVyekhk` | ✅ Active (V3) |
+| **DGN Mint Program** | `4YPipW8txxY3N7gHdj4NLhu8YxybHgarx5dJQCdCnQHs` | ✅ Active (V3) |
+| **XENCAT Token (X1)** | `DQ6sApYPMJ8LwpvyUjthL7amykNBJ3fx5jZi2koN7vHb` | ✅ Active |
+| **DGN Token (X1)** | `84PxDRsNyiRJU4gfFiD7RqvZzqh5FdqXjDdtFV3N3oxc` | ✅ Active |
 
 ### Solana Mainnet
 
 | Component | Address |
 |-----------|---------|
-| **XENCAT Mint** | `7UN8WkBumTUCofVPXCPjNWQ6msQhzrg9tFQRP48Nmw5V` |
+| **XENCAT Token** | `7UN8WkBumTUCofVPXCPjNWQ6msQhzrg9tFQRP48Nmw5V` |
+| **DGN Token** | `Fd8TNp5GhhTk6Uq6utMvK13vfQdLN1yUUHCnapWvpump` |
 | **Burn Program** | `2ktujS2t9SRXE9cA4UVQJyDFH9genNR4GngfmGffjKkp` |
 
 ### Validator Set
@@ -262,17 +282,23 @@ npm start
 
 ### Core Documentation
 
+- **[CHANGELOG.md](CHANGELOG.md)** - Version history (V1 → V2 → V3)
+- **[SECURITY_AUDIT.md](SECURITY_AUDIT.md)** - V3 security audit (asset-aware architecture)
 - **[PROJECT_STATUS.md](PROJECT_STATUS.md)** - Complete project status, deployment info, security testing
-- **[TESTS.md](TESTS.md)** - Comprehensive test results (66 tests, 100% pass rate)
-- **[FINAL_V2_SECURITY_REPORT.md](FINAL_V2_SECURITY_REPORT.md)** - V2 security audit (25 tests)
+- **[TESTS.md](TESTS.md)** - Comprehensive test results (250+ tests, 100% pass rate)
 - **[RED_TEAM_TESTS.md](RED_TEAM_TESTS.md)** - Red team security testing (242+ tests)
 - **[CLAUDE.md](CLAUDE.md)** - Development guidelines and project overview
+
+### V3 Documentation
+
+- **[V3_IMPLEMENTATION_SUMMARY.md](V3_IMPLEMENTATION_SUMMARY.md)** - V3 implementation details
+- **[ASSET_AWARE_IMPLEMENTATION_PLAN.md](ASSET_AWARE_IMPLEMENTATION_PLAN.md)** - V3 planning document
+- **[DEPLOYMENT_V3.md](DEPLOYMENT_V3.md)** - V3 deployment guide
 
 ### Design Documents
 
 - **[NO_ADMIN_DESIGN.md](NO_ADMIN_DESIGN.md)** - Threshold governance design
 - **[FEE_DISTRIBUTION_CHANGES.md](FEE_DISTRIBUTION_CHANGES.md)** - V2 fee distribution changes
-- **[V2_MIGRATION_SECURITY_REPORT.md](V2_MIGRATION_SECURITY_REPORT.md)** - V2 migration audit
 
 ### Validator Documentation
 
@@ -285,16 +311,18 @@ npm start
 ```
 xencat-light-client/
 ├── programs/                    # Anchor programs (Rust)
-│   ├── solana-light-client-x1/  # Light client program
-│   └── xencat-mint-x1/          # Mint program
-├── validator-attestation-service/ # Validator service (TypeScript)
-├── sdk/                         # Client SDKs
-│   └── attestation-client/      # Attestation collection SDK
+│   ├── solana-light-client-x1/  # Light client program (V3 asset-aware)
+│   ├── xencat-mint-x1/          # XENCAT mint program (V3)
+│   └── dgn-mint-x1/             # DGN mint program (V3)
+├── solana-burn-program/         # Solana burn program (deployed on Solana)
+├── validator-attestation-service/ # Validator service (TypeScript V3)
 ├── scripts/                     # Deployment & test scripts
 │   ├── initialize-*.ts          # Setup scripts
-│   └── test-*.ts                # Security test scripts
+│   ├── test-v3-*.ts             # V3 security test scripts
+│   ├── bridge-mint.ts           # Universal bridge mint script
+│   └── burn-*.ts                # Burn scripts
 ├── tests/                       # Anchor tests
-└── docs/                        # Documentation
+└── examples/                    # Example integrations
 ```
 
 ### Running Local Tests
@@ -326,10 +354,11 @@ Contributions welcome! Please:
 
 ### Security Audits
 
-- ✅ Internal security testing: 242+ tests (100% pass rate)
+- ✅ Internal security testing: 250+ tests (100% pass rate)
+- ✅ V3 asset-aware architecture audit (Jan 2026)
 - ✅ V2 migration audit: 25 tests (Dec 2025)
 
-See [FINAL_V2_SECURITY_REPORT.md](FINAL_V2_SECURITY_REPORT.md) for comprehensive audit results.
+See [SECURITY_AUDIT.md](SECURITY_AUDIT.md) for comprehensive V3 audit results.
 
 ## 📊 Performance
 
@@ -416,4 +445,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ by the XENCAT team**
 
-**Bridge Status**: ✅ Production Ready | **Security**: 242+ tests passed | **Fee**: 0.05 XNT per mint
+**Bridge Status**: ✅ Production Ready (V3 Asset-Aware) | **Security**: 250+ tests passed | **Fee**: 0.05 XNT per mint
